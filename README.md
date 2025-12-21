@@ -1,6 +1,8 @@
 ![Auto Update](https://img.shields.io/badge/feed-auto--updated-brightgreen)
 
+
 # SentinelPhishFeed
+![SentinelPhishFeed Banner](assets/banner.png)
 
 SentinelPhishFeed is an **automated phishing threat intelligence feed**
 that provides continuously updated **phishing URLs, malicious IPs,
