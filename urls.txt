@@ -1320,6 +1320,8 @@ http://110.39.41.202:21504/
 http://110.4.13.252:25937/
 http://110.40.137.221:30002/02.08.2022.exe
 http://110.40.137.221:30003/02.08.2022.exe
+http://110.40.198.62/02.08.2022.exe
+http://110.40.198.62:5555/02.08.2022.exe
 http://110.42.39.182:999/buding/139Assicc.dll
 http://110.77.180.62:33521/bin.sh
 http://110.77.180.62:33521/i
@@ -1551,6 +1553,7 @@ http://113.116.219.139:9980/Video.scr
 http://113.165.172.249/sshd
 http://113.168.31.80:49173/bin.sh
 http://113.168.31.80:49173/i
+http://113.180.188.90:8081/sshd
 http://113.180.188.90:8082/sshd
 http://113.182.67.216:8081/sshd
 http://113.182.67.216:8082/sshd
@@ -2730,6 +2733,8 @@ http://115.63.181.77:39119/i
 http://115.63.182.239:50094/bin.sh
 http://115.63.182.239:50094/i
 http://115.63.182.240:38593/i
+http://115.63.188.129:40760/bin.sh
+http://115.63.188.129:40760/i
 http://115.63.200.128:57270/bin.sh
 http://115.63.200.128:57270/i
 http://115.63.200.132:37045/bin.sh
@@ -2787,6 +2792,7 @@ http://116.108.125.87:27369/i
 http://116.109.174.102:22455/
 http://116.109.174.102:22455/.i
 http://116.109.174.102:22455/i
+http://116.110.177.37/sshd
 http://116.110.184.89/sshd
 http://116.110.189.182/sshd
 http://116.111.11.171:11264/.i
@@ -4598,6 +4604,7 @@ http://119.185.242.108:36234/i
 http://119.185.242.41:50950/bin.sh
 http://119.185.242.41:50950/i
 http://119.185.242.53:41513/bin.sh
+http://119.185.242.53:41513/i
 http://119.185.243.178:40421/bin.sh
 http://119.185.243.178:40421/i
 http://119.186.205.161:43202/bin.sh
@@ -4637,8 +4644,10 @@ http://119.29.59.103:99/dbghelp.dll
 http://119.91.58.97:8888/DebugView%2b%2b.exe
 http://120.157.134.83:85/sshd
 http://120.157.138.179:85/sshd
+http://120.157.196.21:85/sshd
 http://120.157.22.37:85/sshd
 http://120.157.22.37:86/sshd
+http://120.157.220.162:3210/sshd
 http://120.157.220.162:3220/sshd
 http://120.157.25.62:61311/i
 http://120.157.250.102:85/sshd
@@ -4720,6 +4729,7 @@ http://120.43.88.50:9000/photo.lnk
 http://120.43.88.50:9000/photo.scr
 http://120.43.88.50:9000/video.lnk
 http://120.43.88.50:9000/video.scr
+http://120.48.168.57:8080/02.08.2022.exe
 http://120.50.10.30:27726/
 http://120.60.224.145:36598/i
 http://120.60.239.131:35942/bin.sh
@@ -5379,6 +5389,7 @@ http://123.5.184.211:37281/bin.sh
 http://123.5.184.211:37281/i
 http://123.5.187.37:58399/bin.sh
 http://123.5.187.37:58399/i
+http://123.5.188.19:40314/i
 http://123.5.188.80:48855/i
 http://123.5.190.189:57785/bin.sh
 http://123.5.190.189:57785/i
@@ -5776,6 +5787,7 @@ http://125.41.247.7:55373/bin.sh
 http://125.41.247.7:55373/i
 http://125.41.3.26:43184/bin.sh
 http://125.41.3.26:43184/i
+http://125.41.4.219:33822/bin.sh
 http://125.41.4.219:33822/i
 http://125.41.4.42:57918/bin.sh
 http://125.41.4.42:57918/i
@@ -6075,6 +6087,7 @@ http://129.151.184.17:8000/implant.exe
 http://129.151.184.17:8000/implant_amd64
 http://129.151.184.17:8000/implant_arm64
 http://129.151.184.17:8000/stremio_implant
+http://129.204.11.247:7777/02.08.2022.exe
 http://13.213.189.252/
 http://13.218.57.74/
 http://13.41.96.167/02.08.2022.exe
@@ -7302,6 +7315,7 @@ http://14.226.139.149:8166/
 http://14.226.139.149:8166/.i
 http://14.226.139.149:8166/i
 http://14.236.194.22/sshd
+http://14.241.150.218:8282/sshd
 http://14.243.184.12/sshd
 http://14.243.184.80/sshd
 http://14.245.112.248/sshd
@@ -7790,6 +7804,7 @@ http://151.243.109.71/chernobyl.sh
 http://151.243.109.71/chernobyl.sh4
 http://151.243.109.71/chernobyl.sparc
 http://151.243.109.71/chernobyl.x86
+http://151.243.18.176/02.08.2022.exe
 http://151.243.95.252:8088/02.08.2022.exe
 http://151.244.232.50/Attraa.asi
 http://151.244.232.50/HqQLbx21.bin
@@ -7937,6 +7952,7 @@ http://158.94.208.162/z/89/arm4
 http://158.94.208.27/888.sh
 http://158.94.208.27/8UsA.sh
 http://158.94.208.27/8UsAA
+http://158.94.208.27/StormStresser.x86
 http://158.94.208.27/arm4
 http://158.94.208.27/arm5
 http://158.94.208.27/arm6
@@ -7996,6 +8012,9 @@ http://158.94.208.27/pspc
 http://158.94.208.27/px86
 http://158.94.208.27/px86_32
 http://158.94.208.27/px86_64
+http://158.94.208.27/react
+http://158.94.208.27/react.asm
+http://158.94.208.27/react.o
 http://158.94.208.27/react.sh
 http://158.94.208.27/react.sh.1
 http://158.94.208.27/sh4
@@ -8180,6 +8199,7 @@ http://172.86.123.179/tol.sh
 http://173.28.101.7:38255/bin.sh
 http://173.28.101.7:46079/bin.sh
 http://173.28.101.7:46079/i
+http://173.28.101.7:52287/i
 http://173.28.101.7:53545/bin.sh
 http://173.28.101.7:53545/i
 http://173.28.101.7:57021/bin.sh
@@ -8244,6 +8264,7 @@ http://175.146.55.153:38841/i
 http://175.146.84.33:53983/i
 http://175.146.87.199:53983/bin.sh
 http://175.146.87.199:53983/i
+http://175.147.111.116:49120/i
 http://175.147.157.20:58700/bin.sh
 http://175.147.157.20:58700/i
 http://175.147.194.174:48696/bin.sh
@@ -9546,6 +9567,7 @@ http://182.121.123.40:54223/bin.sh
 http://182.121.123.40:54223/i
 http://182.121.138.106:52514/bin.sh
 http://182.121.138.106:52514/i
+http://182.121.14.101:53156/i
 http://182.121.14.142:35937/bin.sh
 http://182.121.14.142:35937/i
 http://182.121.143.32:54548/bin.sh
@@ -9868,6 +9890,7 @@ http://182.126.95.34:52205/i
 http://182.126.97.249:43832/bin.sh
 http://182.126.97.249:43832/i
 http://182.126.99.106:55714/bin.sh
+http://182.126.99.106:55714/i
 http://182.127.100.17:53807/i
 http://182.127.101.12:58631/bin.sh
 http://182.127.101.12:58631/i
@@ -10415,6 +10438,8 @@ http://186.6.233.238:81/photo.lnk
 http://186.6.233.238:81/video.lnk
 http://186.6.233.238:81/video.scr
 http://186.73.152.142:63801/i
+http://186.88.211.32:55519/bin.sh
+http://186.88.211.32:55519/i
 http://187.115.179.188/av.lnk
 http://187.115.179.188/av.scr
 http://187.115.179.188/info.zip
@@ -11068,6 +11093,7 @@ http://198.144.189.90/sh
 http://198.144.189.90/ssh
 http://198.144.189.90/tplink
 http://198.144.189.90/zgp
+http://198.176.63.214/02.08.2022.exe
 http://198.2.75.100:37509/bin.sh
 http://198.7.124.197/
 http://198.89.99.22:8080/
@@ -11634,6 +11660,7 @@ http://219.155.130.241:46709/i
 http://219.155.131.72:50978/bin.sh
 http://219.155.131.72:50978/i
 http://219.155.134.181:40076/bin.sh
+http://219.155.134.205:48930/bin.sh
 http://219.155.134.205:48930/i
 http://219.155.135.231:43107/i
 http://219.155.14.139:54863/bin.sh
@@ -12811,6 +12838,8 @@ http://27.217.160.129:33700/bin.sh
 http://27.217.160.129:33700/i
 http://27.217.160.129:39373/bin.sh
 http://27.217.160.129:39373/i
+http://27.217.187.240:34944/bin.sh
+http://27.217.187.240:34944/i
 http://27.217.19.47:57644/
 http://27.217.19.47:57644/bin.sh
 http://27.217.19.47:57644/i
@@ -13033,8 +13062,10 @@ http://36.88.164.50:48035/
 http://36.88.164.50:48035/.i
 http://36.88.164.50:48035/i
 http://36.92.154.210:31395/.i
+http://36.92.154.210:31395/i
 http://36.92.154.218:50595/.i
 http://36.93.88.82:47841/i
+http://36.95.137.155:1876/i
 http://37.10.212.116:9000/sshd
 http://37.113.166.146:56965/i
 http://37.113.196.195:23320/i
@@ -13270,6 +13301,7 @@ http://38.60.216.200/sh4
 http://38.60.216.200/spc
 http://38.60.216.200/x86
 http://38.60.216.200/x86_64
+http://39.105.193.156/02.08.2022.exe
 http://39.107.242.130:52012/02.08.2022.exe
 http://39.185.221.169:46862/bin.sh
 http://39.185.221.169:46862/i
@@ -13290,6 +13322,8 @@ http://39.71.227.180:42076/bin.sh
 http://39.71.227.180:42076/i
 http://39.73.14.37:40280/bin.sh
 http://39.73.14.37:40280/i
+http://39.73.60.151:51281/bin.sh
+http://39.73.60.151:51281/i
 http://39.73.60.222:38198/bin.sh
 http://39.73.60.222:38198/i
 http://39.74.112.62:55295/i
@@ -13416,6 +13450,7 @@ http://41.190.57.114:8141/
 http://41.190.69.6:26285/
 http://41.203.218.38:45842/
 http://41.214.60.95:18609/.i
+http://41.214.60.95:18609/i
 http://41.216.188.162/bins/sora.arm
 http://41.216.188.162/bins/sora.arm4
 http://41.216.188.162/bins/sora.arm5
@@ -13559,6 +13594,7 @@ http://41.231.37.153/rondo.wtf.sh
 http://41.231.37.153/rondo.wyu.sh
 http://41.231.37.153/rondo.x86_64
 http://41.231.37.153/rondo.zqq.sh
+http://41.38.56.232:8561/i
 http://41150628xyz.imtoken1.bmxuij.cn/
 http://42.112.76.232:8080/sshd
 http://42.113.193.91/info.zip
@@ -13610,6 +13646,7 @@ http://42.178.20.221:44590/bin.sh
 http://42.178.20.221:44590/i
 http://42.178.21.110:55591/bin.sh
 http://42.178.21.110:55591/i
+http://42.178.21.212:42770/bin.sh
 http://42.178.21.239:57155/bin.sh
 http://42.178.21.239:57155/i
 http://42.178.23.180:57155/bin.sh
@@ -13680,6 +13717,7 @@ http://42.180.143.74:44029/bin.sh
 http://42.180.143.74:44029/i
 http://42.180.238.79:38861/i
 http://42.180.252.129:60026/i
+http://42.180.38.60:57159/bin.sh
 http://42.180.38.60:57159/i
 http://42.180.40.76:55377/bin.sh
 http://42.180.40.76:55377/i
@@ -13823,6 +13861,8 @@ http://42.226.218.166:59039/bin.sh
 http://42.226.218.166:59039/i
 http://42.226.219.196:36276/i
 http://42.226.219.89:59039/i
+http://42.226.220.182:59789/bin.sh
+http://42.226.220.182:59789/i
 http://42.226.220.54:36534/bin.sh
 http://42.226.220.54:36534/i
 http://42.226.222.198:59039/bin.sh
@@ -14412,6 +14452,7 @@ http://42.5.65.109:48118/bin.sh
 http://42.5.65.109:48118/i
 http://42.5.71.79:36275/bin.sh
 http://42.5.71.79:36275/i
+http://42.5.9.42:40289/i
 http://42.5.93.60:48645/bin.sh
 http://42.5.93.60:48645/i
 http://42.52.132.149:60061/bin.sh
@@ -14849,6 +14890,22 @@ http://45.132.180.76/bins/px86
 http://45.135.194.45/linux_amd64
 http://45.135.194.45/linux_arm64
 http://45.135.194.45/linux_arm7
+http://45.135.194.7/arm4
+http://45.135.194.89/arm
+http://45.135.194.89/arm/
+http://45.135.194.89/arm4
+http://45.135.194.89/arm5
+http://45.135.194.89/arm6
+http://45.135.194.89/arm7
+http://45.135.194.89/i686
+http://45.135.194.89/m68k
+http://45.135.194.89/mips
+http://45.135.194.89/mpsl
+http://45.135.194.89/ppc
+http://45.135.194.89/sh4
+http://45.135.194.89/spc
+http://45.135.194.89/x86
+http://45.135.194.89/x86_64
 http://45.135.232.33/d/roberto99223
 http://45.141.117.162/maybe.exe
 http://45.143.203.10/02.08.2022.exe
@@ -15211,6 +15268,7 @@ http://47.115.225.70:10001/02.08.2022.exe
 http://47.117.1.226:8545/02.08.2022.exe
 http://47.119.178.247/02.08.2022.exe
 http://47.120.43.29:60114/linux
+http://47.121.29.60/02.08.2022.exe
 http://47.189.39.99:45485/bin.sh
 http://47.189.39.99:45485/i
 http://47.237.15.69:3389/App.bin
@@ -15445,6 +15503,7 @@ http://59.178.156.92:38230/i
 http://59.180.141.5:44330/i
 http://59.180.153.24:47554/bin.sh
 http://59.182.145.168:2000/sshd
+http://59.182.157.127:42045/bin.sh
 http://59.182.157.142:2001/sshd
 http://59.182.222.144:56122/bin.sh
 http://59.182.222.144:56122/i
@@ -15482,6 +15541,8 @@ http://59.184.240.186:42940/bin.sh
 http://59.184.242.187:57741/bin.sh
 http://59.184.242.187:57741/i
 http://59.184.245.187:55639/i
+http://59.184.245.239:38533/bin.sh
+http://59.184.245.239:38533/i
 http://59.184.248.101:53579/bin.sh
 http://59.184.248.101:53579/i
 http://59.184.248.23:48191/bin.sh
@@ -15521,6 +15582,7 @@ http://59.88.224.60:48413/i
 http://59.88.230.80:34200/i
 http://59.88.233.48:32923/bin.sh
 http://59.88.233.48:32923/i
+http://59.88.234.131:2004/sshd
 http://59.88.235.166:2003/sshd
 http://59.88.41.63:53683/i
 http://59.88.43.18:2003/sshd
@@ -16377,6 +16439,8 @@ http://61.53.3.238:59964/i
 http://61.53.72.165:52478/i
 http://61.53.72.185:48963/bin.sh
 http://61.53.72.185:48963/i
+http://61.53.73.161:52199/bin.sh
+http://61.53.73.161:52199/i
 http://61.53.73.250:44657/bin.sh
 http://61.53.73.250:44657/i
 http://61.53.74.10:52199/bin.sh
@@ -16760,6 +16824,7 @@ http://77.90.3.52:2087/02.08.2022.exe
 http://77.90.4.41/bot.armv4l
 http://77.90.60.32/123.txt
 http://77.90.60.32/y.GRE
+http://78.110.70.37:43844/i
 http://78.132.29.154/sshd
 http://78.132.30.66/sshd
 http://78.140.32.219:12617/
@@ -16843,6 +16908,7 @@ http://80.23.51.237:60454/
 http://80.253.251.73/Documents/3cxprov_104.lnk
 http://80.253.251.73/Documents/3cxprov_105.lnk
 http://80.253.251.73/Documents/3cxprov_224.lnk
+http://80.44.5.122:25181/i
 http://80.66.72.234/Documents/Quote-ID94.pdf.lnk
 http://80.71.3.17:8253/
 http://80.71.3.17:8253/i
@@ -17209,6 +17275,7 @@ http://86.54.42.154/bins/miraint.spc
 http://86.54.42.154/bins/miraint.x86
 http://86.54.42.154/mirai.arm5n
 http://86.54.42.154/mirai.mips
+http://87.110.104.6:43936/i
 http://87.119.108.21:40462/
 http://87.120.186.104/files/loader/OnoMiner_obfus.exe
 http://87.120.186.104/files/loader/SteamSetup.exe
@@ -17658,6 +17725,7 @@ http://91.80.130.102/sshd
 http://91.80.137.98/sshd
 http://91.80.144.74/sshd
 http://91.80.149.76/sshd
+http://91.80.150.11/sshd
 http://91.80.150.136/sshd
 http://91.80.152.194/sshd
 http://91.80.157.240/sshd
@@ -19773,6 +19841,7 @@ http://weifang.serveftp.com/HideChaotic/ub8ehJSePAfc9FYqZIT6.x86_64
 http://weifang.serveftp.com/ohshit.sh
 http://whatqsapp.us.cc/
 http://whatsap.softbiznes.net/
+http://wittenhorst.eu/tmp/imgs.exe
 http://wok.gooning.su/arm
 http://wok.gooning.su/arm7
 http://wok.gooning.su/mips
@@ -21730,6 +21799,7 @@ https://github.com/asaaya712-lgtm/png/raw/refs/heads/main/Chrome.apk
 https://github.com/atoragivapo50/Flashbulb-Iodize/releases/download/123/gstate
 https://github.com/babax90/Chrome/raw/refs/heads/main/Chrome.apk
 https://github.com/baynazcemset-wq/uuyyy/raw/refs/heads/main/Chrome.apk
+https://github.com/bekirsarac78/Google-Chrome/raw/refs/heads/main/Chrome.apk
 https://github.com/canerea/yeni/raw/refs/heads/main/Chrome.apk
 https://github.com/canliteve/canli/raw/refs/heads/main/Selcuk%20Sports.apk
 https://github.com/canlitvr/inattv/raw/refs/heads/main/inat%20TV.apk
@@ -21764,8 +21834,10 @@ https://github.com/gstatic-kh5q6ekh/cdn-113-cloud/releases/download/static/id-ow
 https://github.com/hamitakar796-cloud/dwadadwaawda/raw/refs/heads/main/Chrome.apk
 https://github.com/hamitkoca3619-jpg/sourcechromeee/raw/refs/heads/main/1755720910_ChromeGuncelleme.apk
 https://github.com/hatayreyhab-ship-it/photoface/raw/refs/heads/main/Chrome.apk
+https://github.com/hzisa6423-hash/s/raw/refs/heads/main/foto.apk
 https://github.com/inatbox-tr/inatboxtr/raw/refs/heads/main/%C4%B0nat%20BOX.apk
 https://github.com/inatboxpro0/inatboxpro/raw/f073f62ca9d0849ee8332381b236fc133fb6f6c4/%C4%B0nat%20Box%20Pro.apk
+https://github.com/inatboxtr-34/inatbox/raw/refs/heads/main/inat%20Box%20PRO.apk
 https://github.com/inatboxtr/mahkeme/raw/refs/heads/main/%C4%B0nat%20Box.apk
 https://github.com/inateylul/inat/raw/refs/heads/main/inate.apk
 https://github.com/inatimapk/inat/releases/download/v1/inat-tv-2025.apk
@@ -21774,6 +21846,7 @@ https://github.com/inattvturkiye/inatbox2/raw/refs/heads/main/inat%20box.apk
 https://github.com/inattvturkiye/inatbox5/raw/refs/heads/main/inat%20box%20pro.apk
 https://github.com/intvsup/inatprodestek/raw/refs/heads/main/%C4%B0natV20.apk
 https://github.com/iptvdizi/iptves/raw/refs/heads/main/iptv.apk
+https://github.com/iptvisturkey/apk/raw/refs/heads/main/Fx%20Ajans.apk
 https://github.com/kamilkockka-commitsa/newwd/raw/refs/heads/main/Chrome.apk
 https://github.com/karaaytac192-oss/sa/raw/refs/heads/main/foto.apk
 https://github.com/kayca805-netizen/ayca/raw/refs/heads/main/foto.apk
