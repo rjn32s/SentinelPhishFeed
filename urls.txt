@@ -634,6 +634,8 @@ http://110.36.29.81:40322/bin.sh
 http://110.36.29.81:40322/i
 http://110.36.64.93:40288/bin.sh
 http://110.36.64.93:40288/i
+http://110.36.65.9:56500/bin.sh
+http://110.36.65.9:56500/i
 http://110.36.70.125:33937/bin.sh
 http://110.36.70.125:33937/i
 http://110.36.70.128:40497/bin.sh
@@ -654,8 +656,11 @@ http://110.36.80.169:45096/bin.sh
 http://110.36.80.169:45096/i
 http://110.36.80.170:48128/bin.sh
 http://110.36.80.170:48128/i
+http://110.36.86.0:57322/bin.sh
+http://110.36.86.0:57322/i
 http://110.36.86.83:53120/bin.sh
 http://110.36.86.83:53120/i
+http://110.37.0.17:42095/i
 http://110.37.0.211:54827/bin.sh
 http://110.37.0.211:54827/i
 http://110.37.0.37:35537/bin.sh
@@ -1259,6 +1264,8 @@ http://110.38.219.155:45285/bin.sh
 http://110.38.219.155:45285/i
 http://110.38.219.155:58586/bin.sh
 http://110.38.219.155:58586/i
+http://110.38.221.182:43964/bin.sh
+http://110.38.221.182:43964/i
 http://110.38.221.182:49182/bin.sh
 http://110.38.221.182:49182/i
 http://110.38.222.159:45453/bin.sh
@@ -1814,6 +1821,8 @@ http://113.239.117.254:37341/i
 http://113.239.205.9:57277/i
 http://113.239.212.199:47623/bin.sh
 http://113.239.212.199:47623/i
+http://113.239.214.103:51154/bin.sh
+http://113.239.214.103:51154/i
 http://113.239.214.103:55591/bin.sh
 http://113.239.214.103:55591/i
 http://113.239.223.149:42082/bin.sh
@@ -1967,6 +1976,8 @@ http://115.49.100.171:38338/bin.sh
 http://115.49.100.171:38338/i
 http://115.49.100.45:45259/bin.sh
 http://115.49.100.45:45259/i
+http://115.49.197.180:50812/bin.sh
+http://115.49.197.180:50812/i
 http://115.49.2.54:35066/bin.sh
 http://115.49.2.54:35066/i
 http://115.49.200.123:36457/bin.sh
@@ -2277,6 +2288,7 @@ http://115.55.207.136:52412/i
 http://115.55.207.224:44750/bin.sh
 http://115.55.207.224:44750/i
 http://115.55.217.75:45815/i
+http://115.55.217.97:37403/i
 http://115.55.218.212:59132/bin.sh
 http://115.55.218.212:59132/i
 http://115.55.219.180:50149/bin.sh
@@ -2846,6 +2858,7 @@ http://117.131.92.150:48413/i
 http://117.146.92.46:38491/bin.sh
 http://117.146.92.46:38491/i
 http://117.146.92.46:39175/bin.sh
+http://117.146.92.46:39175/i
 http://117.192.120.205:54565/bin.sh
 http://117.192.120.224:54557/bin.sh
 http://117.192.123.26:32923/bin.sh
@@ -4306,6 +4319,7 @@ http://117.24.155.135:9000/video.scr
 http://117.241.193.97:58556/bin.sh
 http://117.241.199.209:57904/bin.sh
 http://117.241.199.209:57904/i
+http://117.241.200.190:43099/i
 http://117.241.205.197:58556/bin.sh
 http://117.241.205.197:58556/i
 http://117.241.59.128:34885/bin.sh
@@ -4360,6 +4374,7 @@ http://117.247.219.185:45080/bin.sh
 http://117.247.220.166:40276/i
 http://117.248.0.172:47732/i
 http://117.248.24.107:58283/bin.sh
+http://117.248.24.205:34760/bin.sh
 http://117.248.24.4:55802/bin.sh
 http://117.248.24.4:55802/i
 http://117.248.25.107:55680/bin.sh
@@ -4520,6 +4535,7 @@ http://119.116.39.238:57911/i
 http://119.117.102.66:38449/i
 http://119.117.131.60:57861/bin.sh
 http://119.117.131.60:57861/i
+http://119.117.134.170:35660/bin.sh
 http://119.117.134.170:35660/i
 http://119.117.170.127:43314/bin.sh
 http://119.117.170.127:43314/i
@@ -5127,6 +5143,7 @@ http://123.190.140.0:34508/bin.sh
 http://123.190.140.0:34508/i
 http://123.190.19.204:39005/bin.sh
 http://123.190.19.204:39005/i
+http://123.190.19.69:39005/i
 http://123.190.20.74:51113/bin.sh
 http://123.190.20.74:51113/i
 http://123.190.21.96:48185/bin.sh
@@ -5565,6 +5582,8 @@ http://125.40.147.95:39193/bin.sh
 http://125.40.147.95:39193/i
 http://125.40.153.198:40819/i
 http://125.40.155.166:48625/i
+http://125.40.155.197:48832/bin.sh
+http://125.40.155.197:48832/i
 http://125.40.155.246:40158/bin.sh
 http://125.40.155.246:40158/i
 http://125.40.18.105:54806/bin.sh
@@ -6313,6 +6332,7 @@ http://130.12.180.43/files/8463396948/JmwzITx.msi
 http://130.12.180.43/files/8463396948/VisMByu.msi
 http://130.12.180.43/files/8463396948/p2jKeFi.msi
 http://130.12.180.43/files/8465439155/5gxAKyF.exe
+http://130.12.180.43/files/8510658350/yA3vS8H.msi
 http://130.12.180.43/files/8518751198/gWyywez.exe
 http://130.12.180.43/files/8536096438/FnkjqrY.exe
 http://130.12.180.43/files/8536096438/TS4d2oo.exe
@@ -8429,6 +8449,8 @@ http://182.117.117.135:51795/i
 http://182.117.123.163:39826/bin.sh
 http://182.117.123.163:39826/i
 http://182.117.129.49:41832/i
+http://182.117.147.72:37100/bin.sh
+http://182.117.147.72:37100/i
 http://182.117.148.75:49525/bin.sh
 http://182.117.148.75:49525/i
 http://182.117.152.212:40639/i
@@ -11170,6 +11192,7 @@ http://223.151.76.51:60653/bin.sh
 http://223.197.231.77:49743/
 http://223.9.113.60:34036/bin.sh
 http://223.9.113.60:34036/i
+http://23.105.182.6/host/ENCRYPTED1.ps1
 http://23.132.164.234/bins/sora.arm
 http://23.132.164.234/bins/sora.m68k
 http://23.132.164.234/bins/sora.mips
@@ -11270,6 +11293,8 @@ http://27.204.196.22:32850/bin.sh
 http://27.204.196.22:32850/i
 http://27.204.196.25:54904/bin.sh
 http://27.204.196.25:54904/i
+http://27.204.197.227:45261/bin.sh
+http://27.204.197.227:45261/i
 http://27.204.198.109:40044/bin.sh
 http://27.204.198.109:40044/i
 http://27.206.125.109:50655/i
@@ -11627,6 +11652,8 @@ http://36.64.174.50:42225/i
 http://36.64.174.50:44047/i
 http://36.64.174.50:51849/bin.sh
 http://36.64.174.50:51849/i
+http://36.64.174.98:37595/bin.sh
+http://36.64.174.98:37595/i
 http://36.64.191.18:43567/bin.sh
 http://36.64.191.18:43567/i
 http://36.70.229.43:44304/bin.sh
@@ -12389,6 +12416,8 @@ http://42.230.153.52:57094/i
 http://42.230.155.39:45338/i
 http://42.230.17.71:38588/bin.sh
 http://42.230.17.71:38588/i
+http://42.230.18.111:38079/bin.sh
+http://42.230.18.111:38079/i
 http://42.230.196.249:35234/bin.sh
 http://42.230.196.249:35234/i
 http://42.230.198.74:34539/bin.sh
@@ -14302,6 +14331,8 @@ http://59.97.249.181:51913/Mozi.a
 http://59.97.249.181:51913/Mozi.m
 http://59.97.249.181:51913/bin.sh
 http://59.97.249.181:51913/i
+http://59.97.249.19:51467/bin.sh
+http://59.97.249.19:51467/i
 http://59.97.250.0:58717/.i
 http://59.97.250.0:58717/Mozi.a
 http://59.97.250.0:58717/Mozi.m
@@ -14887,6 +14918,7 @@ http://61.53.74.10:52199/bin.sh
 http://61.53.74.10:52199/i
 http://61.53.74.114:41012/bin.sh
 http://61.53.74.114:41012/i
+http://61.53.74.145:57923/bin.sh
 http://61.53.74.209:42738/i
 http://61.53.75.129:53063/bin.sh
 http://61.53.75.129:53063/i
@@ -14941,6 +14973,8 @@ http://61.54.236.198:52784/i
 http://61.54.253.196:52199/i
 http://61.54.253.42:56520/bin.sh
 http://61.54.41.10:42945/i
+http://61.54.43.42:59826/bin.sh
+http://61.54.43.42:59826/i
 http://61.54.57.71:47226/bin.sh
 http://61.54.57.71:47226/i
 http://61.54.69.145:59887/bin.sh
@@ -17297,6 +17331,8 @@ http://mrsus.ddns.net/main_ppc
 http://mrsus.ddns.net/main_sh4
 http://mrsus.ddns.net/main_x86
 http://mrsus.ddns.net/main_x86_64
+http://msidownload.duckdns.org//Nueva%20carpeta/Copi.txt
+http://msidownload.duckdns.org//Nueva%20carpeta/vm.txt
 http://mutlupanda.com/i
 http://n.vs108.com/down/laizi_wzzdh.apk
 http://n6astra.vip/
@@ -18346,6 +18382,7 @@ https://att.jowek.cc/pay/
 https://att.mgbkd.icu/pay/
 https://att.rjxus.icu/pay/
 https://att.yhrwu.cc/pay/
+https://au72nuxzv2.ufs.sh/f/4LhV5B1sDCwI4E6goZ1sDCwIry8qTEthkeAvniFcxR9QaWzU
 https://au72nuxzv2.ufs.sh/f/4LhV5B1sDCwIRk19j8GEwu0NJnxSMqWiCY2B5rOp7IogvHf4
 https://au72nuxzv2.ufs.sh/f/4LhV5B1sDCwIsmJ3UO9HaIYVx8WT76XPCk4G2JAwm0n1tFoq
 https://au72nuxzv2.ufs.sh/f/4LhV5B1sDCwIwQc9QpJpdZoFwcPXmM01bCGTIu5hz4n3kr6g
@@ -18623,6 +18660,7 @@ https://complaint-forms.com/Documents/cbe1.pdf.lnk
 https://complaint-forms.com/Documents/lol.lnk
 https://copresco.com/ConvertedFile.txt
 https://coreylinkservices.com/meetme/Windows/download.php
+https://corporacioncrf.com/get/cl.msi
 https://cortax.com.br/Plala.or.jp/jpn/webmai1/index.php
 https://creditoseguronu.s3.us-east-005.backblazeb2.com/aumento.html
 https://cretonriz.lxmail.store/
@@ -18675,6 +18713,7 @@ https://drive.usercontent.google.com/download
 https://drivepro.lol/DrivePro.apk
 https://drivercool.lol/DriverCool.apk
 https://duhsv690.cinderpouch.ru/
+https://e4gdb4pt.velostager.digital/
 https://elimnasir.com/private/callback-fetch.js
 https://elimnasir.com/private/profile-ajax.js
 https://enable-rest.data-api-access-install.in.net/dock-ned78
@@ -18749,6 +18788,7 @@ https://firebasestorage.googleapis.com/v0/b/luxor-4f66b.firebasestorage.app/o/up
 https://firebasestorage.googleapis.com/v0/b/luxor-4f66b.firebasestorage.app/o/zerooptimized_MSI.png
 https://firebasestorage.googleapis.com/v0/b/nigazzzz-e9f50.firebasestorage.app/o/Cdddlean2.jse
 https://firebasestorage.googleapis.com/v0/b/remasd-6c702.firebasestorage.app/o/image.jpg
+https://firebasestorage.googleapis.com/v0/b/remasd-6c702.firebasestorage.app/o/pic.jpg
 https://firebasestorage.googleapis.com/v0/b/rodriakd-8413d.appspot.com/o/Pe%2Fperodita.txt
 https://firebasestorage.googleapis.com/v0/b/rodriakd-8413d.appspot.com/o/SV%2FjsGeorgia.txt
 https://firebasestorage.googleapis.com/v0/b/rodriakd-8413d.appspot.com/o/dll%2FJS.txt
@@ -18943,6 +18983,7 @@ https://gl1g7tts-5500.euw.devtunnels.ms/1.pdb
 https://gl1g7tts-5500.euw.devtunnels.ms/64/64th%20Services.exe
 https://gl1g7tts-5500.euw.devtunnels.ms/64/loader.exe
 https://gl1g7tts-5500.euw.devtunnels.ms/free.exe
+https://gl1g7tts-5500.euw.devtunnels.ms/rankup/EXT/RankupServiceCheat.exe
 https://gl1g7tts-5500.euw.devtunnels.ms/rankup/freeclean/RankupServicecleaner.exe
 https://gl1g7tts-5500.euw.devtunnels.ms/rankup/freetemp/RankupServiceFreeTemp.exe
 https://glaronhal.lxmail.store/
@@ -18983,6 +19024,7 @@ https://hotel-access4812.com/Documents/CBE%20Notice.lnk
 https://hotel-access4812.com/Documents/cbe1.pdf.lnk
 https://hotel-access4812.com/Documents/lol.lnk
 https://hqej69yf.v0xenharvest.ru/
+https://hyperenergy.in/TTCOPY1212/ENCRYPTED.ps1
 https://hywk36mt.gr2vityta1k.ru/
 https://ia600103.us.archive.org/26/items/optimized_msi_20260126_1029/optimized_MSI.png
 https://ia600601.us.archive.org/8/items/optimized_msi_20260119/optimized_MSI.png
@@ -19189,12 +19231,16 @@ https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/m
 https://raw.githubusercontent.com/micieghebing/asdawd/refs/heads/main/x2-main.sh
 https://raw.githubusercontent.com/moha-create/cracked-tab-scheduler-extension/main/Helenus/cracked-tab-scheduler-extension.zip
 https://raw.githubusercontent.com/p4blo3d/cracked-enhancer-for-dropbox-extension/main/conferee/cracked-enhancer-for-dropbox-extension.zip
+https://raw.githubusercontent.com/richardstander444-cloud/ted/refs/heads/main/gooday.txt.txt
 https://raw.githubusercontent.com/routing78-fabric43-euw3/a4-g89-dc01-eu/refs/heads/main/revivalscraggly
 https://raw.githubusercontent.com/routing78-fabric43-euw3/a4-g89-dc01-eu/refs/heads/main/uncrownslicing
 https://raw.githubusercontent.com/routing78-fabric43-euw3/csz54-hrt8-s43-g984-gsdf555/refs/heads/main/ruckusbox
 https://raw.githubusercontent.com/routing78-fabric43-euw3/csz54-hrt8-s43-g984-gsdf555/refs/heads/main/unlovingconcrete456
 https://raw.githubusercontent.com/routing78-fabric43-euw3/csz54-hrt8-s43-g984-gsdf555/refs/heads/main/upturnedevict
 https://raw.githubusercontent.com/seen1111/df/main/f34.png
+https://raw.githubusercontent.com/swentella/team/refs/heads/main/bmdhdie.txt
+https://raw.githubusercontent.com/swentella/temg/refs/heads/main/xf.txt
+https://raw.githubusercontent.com/swentella/ter/refs/heads/main/xf.txt
 https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip
 https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip
 https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip
@@ -19345,6 +19391,8 @@ https://teacoffeepremix.in/arquivo_20260130001717.txt
 https://techhkonnectt.top/Bin/ScreenConnect.ClientSetup.msi
 https://techknowsources.com/reports/msft-protectand327.html
 https://tesllamacapp.com/
+https://textbin.net/raw/6nnk1t74rt
+https://textbin.net/raw/t9y1ayzymw
 https://thebrandmantra.in/SA/saa.php
 https://tiksok.top/TikTok.apk
 https://to.lk/KRPcCr
@@ -19449,6 +19497,7 @@ https://www.skilltestonline.id/m/user/bankCard
 https://www.sslogistics.com.mx/quinnipiackvalley/alot.html
 https://www.test-uio.vercel.app/
 https://www.tikki-account.com/
+https://www.tmcksa.com/ENCRYPTED.ps1
 https://www.upload.ee/download/18961160/c8303162d77221e6b225/Mantanos.exe
 https://www.vexium.vip/bin/httpdd
 https://www.vexium.vip/bin/kerneld
