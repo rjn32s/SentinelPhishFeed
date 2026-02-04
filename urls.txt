@@ -1014,6 +1014,7 @@ http://110.37.70.215:40270/bin.sh
 http://110.37.70.215:40270/i
 http://110.37.70.215:51469/bin.sh
 http://110.37.70.215:51469/i
+http://110.37.71.167:40772/i
 http://110.37.71.20:54506/bin.sh
 http://110.37.71.20:54506/i
 http://110.37.72.176:32982/bin.sh
@@ -1254,6 +1255,7 @@ http://110.39.237.192:53010/bin.sh
 http://110.39.238.168:43063/bin.sh
 http://110.39.238.168:43063/i
 http://110.39.238.26:34225/i
+http://110.39.238.26:42981/i
 http://110.39.238.26:49029/bin.sh
 http://110.39.238.26:49029/i
 http://110.39.238.66:41934/bin.sh
@@ -2046,6 +2048,7 @@ http://115.50.63.179:56520/bin.sh
 http://115.50.63.179:56520/i
 http://115.50.69.184:48919/bin.sh
 http://115.50.69.184:48919/i
+http://115.50.7.102:60852/bin.sh
 http://115.50.7.102:60852/i
 http://115.50.70.48:59972/bin.sh
 http://115.50.70.48:59972/i
@@ -2311,6 +2314,7 @@ http://115.55.60.118:59544/i
 http://115.55.60.126:39706/bin.sh
 http://115.55.60.126:39706/i
 http://115.55.61.105:45905/i
+http://115.55.61.230:42540/bin.sh
 http://115.55.61.230:42540/i
 http://115.55.62.26:47985/bin.sh
 http://115.55.62.26:47985/i
@@ -2379,6 +2383,8 @@ http://115.56.58.9:60062/bin.sh
 http://115.56.58.9:60062/i
 http://115.56.8.128:46729/bin.sh
 http://115.56.8.128:46729/i
+http://115.57.10.79:44636/bin.sh
+http://115.57.10.79:44636/i
 http://115.57.112.182:57702/bin.sh
 http://115.57.112.182:57702/i
 http://115.57.160.217:60858/bin.sh
@@ -2676,6 +2682,7 @@ http://115.63.52.54:40285/i
 http://115.63.54.143:42455/bin.sh
 http://115.63.54.143:42455/i
 http://115.63.55.194:49946/bin.sh
+http://115.63.55.194:49946/i
 http://115.63.55.73:48565/bin.sh
 http://115.63.55.73:48565/i
 http://115.63.76.127:49963/i
@@ -4426,6 +4433,8 @@ http://119.109.210.85:59751/bin.sh
 http://119.109.210.85:59751/i
 http://119.109.235.143:39953/bin.sh
 http://119.109.235.143:39953/i
+http://119.114.136.31:60727/bin.sh
+http://119.114.136.31:60727/i
 http://119.114.137.171:45202/bin.sh
 http://119.114.137.171:45202/i
 http://119.114.152.178:34737/bin.sh
@@ -4461,6 +4470,7 @@ http://119.116.35.61:56801/i
 http://119.116.38.13:36579/bin.sh
 http://119.116.38.73:60955/bin.sh
 http://119.116.38.73:60955/i
+http://119.116.71.64:41962/i
 http://119.117.102.66:38449/i
 http://119.117.131.60:57861/bin.sh
 http://119.117.131.60:57861/i
@@ -4847,6 +4857,8 @@ http://123.129.13.15:40423/bin.sh
 http://123.129.13.15:40423/i
 http://123.129.130.167:60678/bin.sh
 http://123.129.130.167:60678/i
+http://123.129.130.18:55531/bin.sh
+http://123.129.130.18:55531/i
 http://123.129.131.32:44532/bin.sh
 http://123.129.131.32:44532/i
 http://123.129.132.154:59825/bin.sh
@@ -4856,6 +4868,8 @@ http://123.129.134.136:45571/i
 http://123.129.134.15:52511/bin.sh
 http://123.129.134.15:52511/i
 http://123.129.135.245:57837/i
+http://123.129.155.25:45094/bin.sh
+http://123.129.155.25:45094/i
 http://123.13.104.96:49469/bin.sh
 http://123.13.104.96:49469/i
 http://123.13.108.92:46937/bin.sh
@@ -4916,6 +4930,8 @@ http://123.14.176.113:49801/bin.sh
 http://123.14.176.113:49801/i
 http://123.14.183.164:49801/bin.sh
 http://123.14.183.164:49801/i
+http://123.14.184.86:51989/bin.sh
+http://123.14.184.86:51989/i
 http://123.14.185.42:47327/bin.sh
 http://123.14.185.42:47327/i
 http://123.14.194.152:33499/bin.sh
@@ -5770,6 +5786,7 @@ http://125.46.198.188:55211/i
 http://125.46.198.249:48315/bin.sh
 http://125.46.198.249:48315/i
 http://125.46.198.85:39211/bin.sh
+http://125.46.198.85:39211/i
 http://125.46.199.134:44038/bin.sh
 http://125.46.199.134:44038/i
 http://125.46.199.27:55026/bin.sh
@@ -5784,6 +5801,7 @@ http://125.46.241.89:34310/i
 http://125.46.243.8:41599/i
 http://125.47.108.34:57746/bin.sh
 http://125.47.108.34:57746/i
+http://125.47.111.12:41993/bin.sh
 http://125.47.111.12:41993/i
 http://125.47.215.170:60700/bin.sh
 http://125.47.229.22:35201/i
@@ -8400,6 +8418,8 @@ http://182.117.79.220:45963/bin.sh
 http://182.117.79.220:45963/i
 http://182.117.84.219:37887/bin.sh
 http://182.117.84.219:37887/i
+http://182.117.86.126:45870/bin.sh
+http://182.117.86.126:45870/i
 http://182.118.145.226:47857/i
 http://182.118.147.63:52958/bin.sh
 http://182.118.147.63:52958/i
@@ -8460,6 +8480,8 @@ http://182.119.59.138:40788/bin.sh
 http://182.119.59.138:40788/i
 http://182.119.59.73:47853/bin.sh
 http://182.119.59.73:47853/i
+http://182.119.6.239:48241/bin.sh
+http://182.119.6.239:48241/i
 http://182.119.60.139:50946/i
 http://182.119.61.223:49117/bin.sh
 http://182.119.61.223:49117/i
@@ -10288,6 +10310,7 @@ http://219.132.196.41:33693/i
 http://219.154.144.111:35542/bin.sh
 http://219.154.144.111:35542/i
 http://219.154.162.17:44447/bin.sh
+http://219.154.162.17:44447/i
 http://219.154.172.158:49765/bin.sh
 http://219.154.172.158:49765/i
 http://219.154.172.27:40686/i
@@ -10836,6 +10859,8 @@ http://222.137.212.144:57812/bin.sh
 http://222.137.212.144:57812/i
 http://222.137.213.106:57812/bin.sh
 http://222.137.213.106:57812/i
+http://222.137.22.63:38665/bin.sh
+http://222.137.22.63:38665/i
 http://222.137.24.211:54814/bin.sh
 http://222.137.24.211:54814/i
 http://222.137.25.11:43443/bin.sh
@@ -11188,6 +11213,7 @@ http://27.204.197.227:45261/i
 http://27.204.198.109:40044/bin.sh
 http://27.204.198.109:40044/i
 http://27.204.252.23:55595/bin.sh
+http://27.204.252.23:55595/i
 http://27.206.125.109:50655/i
 http://27.206.84.66:47421/bin.sh
 http://27.206.84.66:47421/i
@@ -11270,6 +11296,7 @@ http://27.215.180.14:39232/i
 http://27.215.182.113:60144/i
 http://27.215.183.108:35793/bin.sh
 http://27.215.183.108:35793/i
+http://27.215.183.254:60596/i
 http://27.215.208.138:45608/i
 http://27.215.208.233:34623/bin.sh
 http://27.215.208.233:34623/i
@@ -14420,6 +14447,8 @@ http://60.18.50.247:58160/bin.sh
 http://60.18.50.247:58160/i
 http://60.18.57.123:34930/bin.sh
 http://60.18.57.123:34930/i
+http://60.18.71.15:34958/bin.sh
+http://60.18.71.15:34958/i
 http://60.19.195.186:53081/bin.sh
 http://60.19.195.186:53081/i
 http://60.19.208.238:46749/i
@@ -14448,6 +14477,7 @@ http://60.19.222.207:34323/bin.sh
 http://60.19.222.244:56670/i
 http://60.19.60.118:53384/bin.sh
 http://60.19.60.118:53384/i
+http://60.19.68.67:57777/bin.sh
 http://60.19.68.67:57777/i
 http://60.21.173.174:50695/bin.sh
 http://60.210.66.69:55335/bin.sh
@@ -14492,6 +14522,7 @@ http://60.23.229.218:59225/bin.sh
 http://60.23.229.218:59225/i
 http://60.23.232.105:35984/bin.sh
 http://60.23.232.105:35984/i
+http://60.23.232.69:50202/bin.sh
 http://60.23.232.81:39615/bin.sh
 http://60.23.233.140:57906/bin.sh
 http://60.23.233.140:57906/i
@@ -15170,6 +15201,7 @@ http://74.50.123.25/bins/purves.ppc
 http://74.50.123.25/bins/purves.sh4
 http://74.50.123.25/bins/purves.spc
 http://74.50.123.25/bins/purves.x86
+http://74.9.224.148:49545/bin.sh
 http://75.180.21.218:53846/bin.sh
 http://75.180.21.218:53846/i
 http://75.20.188.106:50778/bin.sh
@@ -20974,6 +21006,7 @@ https://cdn.jsdelivr.net/gh/service28-discovery-registr/xc312-ahkj481-faj712-hsd
 https://cdn.jsdelivr.net/gh/step8-det-19-runtime/repl-88-rt-msh11/auth-st-snap54
 https://cdn.jsdelivr.net/gh/step8-det-19-runtime/repl-88-rt-msh11/net-19-77-21
 https://cdn.jsdelivr.net/gh/stp26det/22/get
+https://cdn.jsdelivr.net/gh/stp26det/amd64/liveserv
 https://cdn.jsdelivr.net/gh/stp26det/eval80/net2
 https://cdn.jsdelivr.net/gh/stp26det/eval80/physx
 https://cdn.jsdelivr.net/gh/strict-knoll-interface/difficult-kitty-tp1/brave2
@@ -21539,6 +21572,7 @@ https://panychurasc0.com/ORIGINAL/chrome_144.exe
 https://paste.rs/AZoyo
 https://paste.rs/RBCDk
 https://pastebin.com/raw/JYJ8xrzi
+https://pastebin.com/raw/h0s92FSf
 https://personal-projects-midmarket.appwrite.network/
 https://phishpds.com/general-phishing/submit/bd5e149e-e760-4c/
 https://pippyheydguide.com/endpoint/logout-script.js
@@ -21639,6 +21673,7 @@ https://raw.githubusercontent.com/kukil-saikia/cracked-save-to-smartsheet-extens
 https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip
 https://raw.githubusercontent.com/moha-create/cracked-tab-scheduler-extension/main/Helenus/cracked-tab-scheduler-extension.zip
 https://raw.githubusercontent.com/p4blo3d/cracked-enhancer-for-dropbox-extension/main/conferee/cracked-enhancer-for-dropbox-extension.zip
+https://raw.githubusercontent.com/relagx/wooork/main/DiscordFIx.exe
 https://raw.githubusercontent.com/richardstander444-cloud/ted/refs/heads/main/gooday.txt.txt
 https://raw.githubusercontent.com/routing78-fabric43-euw3/a4-g89-dc01-eu/refs/heads/main/revivalscraggly
 https://raw.githubusercontent.com/routing78-fabric43-euw3/a4-g89-dc01-eu/refs/heads/main/uncrownslicing
