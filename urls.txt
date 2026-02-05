@@ -1006,6 +1006,7 @@ http://110.37.70.215:40270/bin.sh
 http://110.37.70.215:40270/i
 http://110.37.70.215:51469/bin.sh
 http://110.37.70.215:51469/i
+http://110.37.71.167:40772/bin.sh
 http://110.37.71.167:40772/i
 http://110.37.71.20:54506/bin.sh
 http://110.37.71.20:54506/i
@@ -1915,6 +1916,7 @@ http://115.49.77.56:43886/bin.sh
 http://115.49.77.56:43886/i
 http://115.49.77.69:39882/bin.sh
 http://115.49.77.69:39882/i
+http://115.49.79.250:46774/bin.sh
 http://115.49.79.97:55055/bin.sh
 http://115.49.79.97:55055/i
 http://115.49.80.141:35454/bin.sh
@@ -2405,6 +2407,8 @@ http://115.57.68.59:40042/bin.sh
 http://115.57.68.59:40042/i
 http://115.57.69.137:48604/bin.sh
 http://115.57.69.137:48604/i
+http://115.57.70.140:48604/bin.sh
+http://115.57.70.140:48604/i
 http://115.57.70.30:48842/i
 http://115.57.71.45:48604/i
 http://115.57.80.187:59076/i
@@ -2736,6 +2740,7 @@ http://117.131.92.150:38263/i
 http://117.131.92.150:48413/bin.sh
 http://117.131.92.150:48413/i
 http://117.146.92.46:36773/i
+http://117.146.92.46:36795/i
 http://117.146.92.46:38491/bin.sh
 http://117.146.92.46:38491/i
 http://117.146.92.46:39175/bin.sh
@@ -4251,6 +4256,7 @@ http://117.248.253.105:43498/i
 http://117.248.26.12:57215/bin.sh
 http://117.248.26.12:57215/i
 http://117.248.26.186:35764/bin.sh
+http://117.248.27.139:48970/bin.sh
 http://117.251.139.116:49505/bin.sh
 http://117.251.183.93:50919/i
 http://117.251.187.183:41215/bin.sh
@@ -4822,6 +4828,8 @@ http://123.132.158.115:57743/i
 http://123.132.164.224:33500/bin.sh
 http://123.132.165.60:41869/bin.sh
 http://123.132.165.60:41869/i
+http://123.132.166.239:41644/bin.sh
+http://123.132.166.239:41644/i
 http://123.132.167.69:54219/bin.sh
 http://123.132.167.69:54219/i
 http://123.133.208.204:39840/bin.sh
@@ -5548,6 +5556,8 @@ http://125.43.124.82:56528/bin.sh
 http://125.43.124.82:56528/i
 http://125.43.21.218:43391/bin.sh
 http://125.43.21.218:43391/i
+http://125.43.22.162:43391/bin.sh
+http://125.43.22.162:43391/i
 http://125.43.224.139:57644/bin.sh
 http://125.43.224.139:57644/i
 http://125.43.224.17:41616/bin.sh
@@ -5566,6 +5576,8 @@ http://125.43.231.156:57095/i
 http://125.43.24.82:34527/bin.sh
 http://125.43.24.82:34527/i
 http://125.43.25.41:54373/i
+http://125.43.26.246:57101/bin.sh
+http://125.43.26.246:57101/i
 http://125.43.37.4:37041/bin.sh
 http://125.43.37.4:37041/i
 http://125.43.38.174:34334/bin.sh
@@ -5757,6 +5769,7 @@ http://128.0.118.54/bot.powerpc
 http://128.0.118.54/bot.sh4
 http://128.0.118.54/bot.x86_64
 http://128.127.102.134:7554/
+http://128.127.102.134:7554/.i
 http://128.241.245.150:81/02.08.2022.exe
 http://129.151.184.17:8000/implant.dll
 http://129.151.184.17:8000/implant.exe
@@ -9772,6 +9785,7 @@ http://202.61.139.34:65532/linux_mipsel
 http://202.61.139.34:65532/webshell.war
 http://202.61.139.34:65532/xxa
 http://203.121.236.145/info.zip
+http://203.176.137.88:60249/.i
 http://203.192.219.165:8080/OUTWARD/ExportImages_121424_MAHAL-NODE1/info.zip
 http://203.212.222.22/av.lnk
 http://203.212.222.22/av.scr
@@ -10281,6 +10295,7 @@ http://219.157.236.219:34942/bin.sh
 http://219.157.236.219:34942/i
 http://219.157.241.44:42822/bin.sh
 http://219.157.241.44:42822/i
+http://219.157.246.145:56493/i
 http://219.157.246.72:37403/bin.sh
 http://219.157.246.72:37403/i
 http://219.157.249.86:60568/i
@@ -10404,6 +10419,7 @@ http://220.201.97.64:59688/i
 http://220.202.77.2:39206/bin.sh
 http://220.202.77.41:60068/i
 http://220.202.91.49:55110/bin.sh
+http://220.202.91.49:55110/i
 http://220.83.239.106:27484/.i
 http://220.83.239.106:27484/i
 http://221.0.208.91:54279/bin.sh
@@ -11683,6 +11699,7 @@ http://41.216.189.157:5001/arm
 http://41.216.189.157:5001/arm64
 http://41.216.189.157:5001/debug_test2
 http://41.216.189.157:5001/x86
+http://41.238.167.200:28761/.i
 http://41.251.93.254:33213/i
 http://41.38.56.232:8561/i
 http://42.112.115.83:8182/sshd
@@ -12709,6 +12726,7 @@ http://42.86.137.133:47421/i
 http://42.86.141.144:47869/bin.sh
 http://42.86.141.144:47869/i
 http://42.86.143.46:59907/bin.sh
+http://42.86.143.46:59907/i
 http://42.86.171.151:34324/bin.sh
 http://42.86.171.151:34324/i
 http://42.86.172.187:60633/i
@@ -13380,6 +13398,7 @@ http://5.143.166.224:45234/bin.sh
 http://5.143.166.224:45234/i
 http://5.152.145.191:29996/i
 http://5.164.42.134:60295/bin.sh
+http://5.165.39.103:48577/.i
 http://5.175.136.77/main_arm
 http://5.175.136.77/main_arm5
 http://5.175.136.77/main_arm6
@@ -14355,6 +14374,8 @@ http://61.52.199.72:39372/i
 http://61.52.218.59:44225/bin.sh
 http://61.52.218.59:44225/i
 http://61.52.219.193:42142/i
+http://61.52.222.24:37645/bin.sh
+http://61.52.222.24:37645/i
 http://61.52.230.205:39804/bin.sh
 http://61.52.230.205:39804/i
 http://61.52.3.136:50861/bin.sh
@@ -14513,6 +14534,8 @@ http://61.53.91.224:49481/i
 http://61.53.92.76:41088/bin.sh
 http://61.53.92.76:41088/i
 http://61.53.93.65:43322/i
+http://61.53.95.169:43881/bin.sh
+http://61.53.95.169:43881/i
 http://61.53.98.154:41029/i
 http://61.54.189.210:46857/bin.sh
 http://61.54.189.210:46857/i
@@ -14531,6 +14554,7 @@ http://61.54.69.222:42575/bin.sh
 http://61.54.69.222:42575/i
 http://61.54.69.46:53696/bin.sh
 http://61.54.69.46:53696/i
+http://61.7.157.26:30892/.i
 http://61.7.209.88///arm5
 http://61.7.209.88/arm
 http://61.7.209.88/arm5
@@ -16089,6 +16113,7 @@ http://93.235.89.207:91/sshd
 http://93.235.89.207:92/sshd
 http://93.235.89.207:93/sshd
 http://93.239.184.31:81/info.zip
+http://93.86.100.80:59172/.i
 http://94.154.83.4:1344/
 http://94.154.84.37:64790/
 http://94.156.112.157/bins/xnxnxnxnxnxnxnxnaarch64xnxn
@@ -19717,6 +19742,7 @@ http://weifang.serveftp.com/HideChaotic/ub8ehJSePAfc9FYqZIT6.spc
 http://weifang.serveftp.com/HideChaotic/ub8ehJSePAfc9FYqZIT6.x86
 http://weifang.serveftp.com/HideChaotic/ub8ehJSePAfc9FYqZIT6.x86_64
 http://weifang.serveftp.com/ohshit.sh
+http://wellnessmedcare.org/cz/Downloads/document.LnK
 http://wgtsbypi.xyz:808/download.sh
 http://wgtsbypi.xyz:808/linux_386
 http://wgtsbypi.xyz:808/linux_amd64
@@ -20659,6 +20685,7 @@ https://cretonriz.lxmail.store/
 https://crical.mail-craft.store/
 https://crolinpanrol.luxmailing.store/
 https://cropenval8.mail-lab.store/
+https://d24119tscml37u.cloudfront.net/app.exe
 https://dadhichvansh.github.io/netflix-landing-page-clone/
 https://daili.1756520.xyz/ntp.txt
 https://daily-poser.sync-structre-mn-inter.in.net/justly-code45
@@ -21244,6 +21271,7 @@ https://receiver.cy/files/jar/module
 https://res.cloudinary.com/dbjtzqp4q/image/upload/v1767450040/optimized_MSI_lpsd9p.jpg
 https://res.cloudinary.com/dbjtzqp4q/image/upload/v1767455040/optimized_MSI_lpsd9p.jpg
 https://res.cloudinary.com/dxxyxpqxg/image/upload/v1769187753/optimized_MSI_nthgyz.jpg
+https://res.cloudinary.com/dy6a9cqng/image/upload/v1770082509/optimized_MSI_dkcy4m.jpg
 https://rhyr-lpta-biz22-vhks-ntla-sp1ct.pages.dev/*
 https://robinhoodfirewall.com/
 https://robinhoodfirewall.com/login
