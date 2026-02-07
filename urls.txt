@@ -561,6 +561,8 @@ http://110.36.71.70:46514/bin.sh
 http://110.36.71.70:46514/i
 http://110.36.71.80:35867/bin.sh
 http://110.36.71.80:35867/i
+http://110.36.77.15:46336/bin.sh
+http://110.36.77.15:46336/i
 http://110.36.77.16:59251/bin.sh
 http://110.36.77.16:59251/i
 http://110.36.77.35:60620/bin.sh
@@ -2493,6 +2495,7 @@ http://115.58.15.169:45300/bin.sh
 http://115.58.15.169:45300/i
 http://115.58.165.196:46342/bin.sh
 http://115.58.165.196:46342/i
+http://115.58.174.123:40438/bin.sh
 http://115.58.39.62:43036/bin.sh
 http://115.58.39.62:43036/i
 http://115.58.85.15:40454/bin.sh
@@ -2513,6 +2516,8 @@ http://115.59.16.226:35594/bin.sh
 http://115.59.16.226:35594/i
 http://115.59.228.151:52593/bin.sh
 http://115.59.228.151:52593/i
+http://115.59.229.213:52515/bin.sh
+http://115.59.229.213:52515/i
 http://115.59.237.8:41691/i
 http://115.59.26.64:37375/bin.sh
 http://115.59.26.64:37375/i
@@ -3800,6 +3805,7 @@ http://117.215.52.221:33689/bin.sh
 http://117.215.52.221:33689/i
 http://117.215.55.236:56817/i
 http://117.215.56.209:47769/bin.sh
+http://117.215.56.209:47769/i
 http://117.215.56.242:45731/bin.sh
 http://117.215.56.242:45731/i
 http://117.215.57.245:49376/bin.sh
@@ -4800,6 +4806,7 @@ http://123.5.152.53:55125/i
 http://123.5.152.93:38680/bin.sh
 http://123.5.153.35:42613/bin.sh
 http://123.5.153.35:42613/i
+http://123.5.155.184:42613/i
 http://123.5.155.73:32839/bin.sh
 http://123.5.155.73:32839/i
 http://123.5.157.86:38680/i
@@ -5334,6 +5341,7 @@ http://125.44.210.93:52360/bin.sh
 http://125.44.210.93:52360/i
 http://125.44.212.125:39798/bin.sh
 http://125.44.212.125:39798/i
+http://125.44.217.8:53874/bin.sh
 http://125.44.217.8:53874/i
 http://125.44.220.137:48780/bin.sh
 http://125.44.220.137:48780/i
@@ -5734,6 +5742,7 @@ http://130.12.180.43/files/7019456639/KNCV6E4.exe
 http://130.12.180.43/files/7024015129/4RIbt3N.exe
 http://130.12.180.43/files/7024015129/cOOxaul.exe
 http://130.12.180.43/files/7024015129/zrcKMfi.exe
+http://130.12.180.43/files/7044575709/ZFEg4Ra.exe
 http://130.12.180.43/files/7068910247/iBxpeGi.exe
 http://130.12.180.43/files/7103746036/Z4H0HNY.exe
 http://130.12.180.43/files/7103746036/o9hkwIZ.exe
@@ -5871,6 +5880,7 @@ http://130.12.180.43/files/8408827406/NjtHard.exe
 http://130.12.180.43/files/8408827406/OR4Zq5r.exe
 http://130.12.180.43/files/8408827406/l2yrUyb.exe
 http://130.12.180.43/files/8408827406/u6SIdRE.exe
+http://130.12.180.43/files/8428202012/2ES6RO8.exe
 http://130.12.180.43/files/8428202012/5w6TCr8.exe
 http://130.12.180.43/files/8428202012/8zqt1PN.exe
 http://130.12.180.43/files/8428202012/GfaGPyy.exe
@@ -5878,6 +5888,7 @@ http://130.12.180.43/files/8428202012/ImsqnHs.exe
 http://130.12.180.43/files/8428202012/SpYKTAw.exe
 http://130.12.180.43/files/8428202012/WvXALLr.exe
 http://130.12.180.43/files/8428202012/bIMApgG.exe
+http://130.12.180.43/files/8428202012/eWQB8iX.exe
 http://130.12.180.43/files/8428202012/guOuqJC.exe
 http://130.12.180.43/files/8428202012/j2qDXX0.exe
 http://130.12.180.43/files/8428202012/oW0Sus9.exe
@@ -6593,6 +6604,14 @@ http://156.238.229.25:8888/passWunioncode.jsp
 http://156.238.229.25:8889/beacon.bin
 http://156.238.229.25:8889/buildshellcode.exe
 http://156.238.229.25:8889/oci.dll
+http://156.246.93.156/n2onsolana/aarch64
+http://156.246.93.156/n2onsolana/armv4l
+http://156.246.93.156/n2onsolana/armv5l
+http://156.246.93.156/n2onsolana/armv6l
+http://156.246.93.156/n2onsolana/armv7l
+http://156.246.93.156/n2onsolana/mips
+http://156.246.93.156/n2onsolana/mpsl
+http://156.246.93.156/n2onsolana/x86
 http://157.250.207.98/bins/arm
 http://157.250.207.98/bins/arm5
 http://157.250.207.98/bins/arm6
@@ -7994,6 +8013,7 @@ http://182.117.68.41:33613/bin.sh
 http://182.117.68.41:33613/i
 http://182.117.69.178:37776/bin.sh
 http://182.117.69.178:37776/i
+http://182.117.69.182:56841/bin.sh
 http://182.117.69.231:56476/bin.sh
 http://182.117.69.236:37776/bin.sh
 http://182.117.69.236:37776/i
@@ -8699,6 +8719,17 @@ http://185.242.3.127/bins/mao.spc
 http://185.242.3.127/bins/mao.x86
 http://185.242.3.127/bins/mao.x86_64
 http://185.242.3.127/mao_http.sh
+http://185.242.3.128/catgirl.aarch64
+http://185.242.3.128/catgirl.armv5
+http://185.242.3.128/catgirl.armv6
+http://185.242.3.128/catgirl.armv7
+http://185.242.3.128/catgirl.armv7b
+http://185.242.3.128/catgirl.mips
+http://185.242.3.128/catgirl.mipsel
+http://185.242.3.128/catgirl.mipsrl
+http://185.242.3.128/catgirl.x86
+http://185.242.3.128/catgirl.x86_64
+http://185.242.3.128/router.epon.sh
 http://185.242.3.143/fp
 http://185.242.3.143/h
 http://185.242.3.143/l
@@ -10051,6 +10082,7 @@ http://219.155.226.246:53973/bin.sh
 http://219.155.226.246:53973/i
 http://219.155.228.27:42334/bin.sh
 http://219.155.228.27:42334/i
+http://219.155.228.76:50380/i
 http://219.155.228.84:57207/i
 http://219.155.230.0:54012/i
 http://219.155.230.3:53913/bin.sh
@@ -10577,6 +10609,7 @@ http://222.137.94.162:44974/i
 http://222.138.100.255:37574/bin.sh
 http://222.138.100.25:48810/bin.sh
 http://222.138.100.25:48810/i
+http://222.138.117.25:40246/bin.sh
 http://222.138.117.25:40246/i
 http://222.138.118.116:47332/bin.sh
 http://222.138.118.116:47332/i
@@ -10998,6 +11031,8 @@ http://27.215.87.67:59667/i
 http://27.216.19.118:43743/i
 http://27.216.191.152:56766/bin.sh
 http://27.216.191.152:56766/i
+http://27.216.215.209:55397/bin.sh
+http://27.216.215.209:55397/i
 http://27.216.34.178:57016/bin.sh
 http://27.216.34.178:57016/i
 http://27.217.1.53:49511/i
@@ -11165,7 +11200,13 @@ http://31.56.120.29/iran.sh4
 http://31.56.120.29/iran.sparc
 http://31.56.120.29/iran.x86_64
 http://31.56.120.29/ohshit.sh
+http://31.57.47.45/n2/aarch64
+http://31.57.47.45/n2/armv4l
+http://31.57.47.45/n2/armv5l
+http://31.57.47.45/n2/armv6l
+http://31.57.47.45/n2/armv7l
 http://31.57.47.45/n2/mips
+http://31.57.47.45/n2/mpsl
 http://31.57.47.45/n2/x86
 http://31.58.58.212/5r3fqt67ew531has4231.arm
 http://31.58.58.212/5r3fqt67ew531has4231.arm5
@@ -11255,6 +11296,7 @@ http://36.88.136.202:33435/bin.sh
 http://36.88.136.202:33435/i
 http://36.88.136.202:43501/i
 http://36.88.136.202:48353/bin.sh
+http://36.88.136.202:48353/i
 http://36.88.136.202:54335/bin.sh
 http://36.88.136.202:54335/i
 http://36.88.136.202:55425/bin.sh
@@ -12599,6 +12641,8 @@ http://42.6.209.138:58283/bin.sh
 http://42.6.209.138:58283/i
 http://42.6.247.2:45901/bin.sh
 http://42.6.247.2:45901/i
+http://42.6.251.37:57084/bin.sh
+http://42.6.251.37:57084/i
 http://42.6.34.60:41306/bin.sh
 http://42.6.34.60:41306/i
 http://42.6.54.112:43244/i
@@ -13184,6 +13228,10 @@ http://45.83.207.194/HideChaotic/ub8ehJSePAfc9FYqZIT6.sparc
 http://45.83.207.194/HideChaotic/ub8ehJSePAfc9FYqZIT6.spc
 http://45.83.207.194/HideChaotic/ub8ehJSePAfc9FYqZIT6.x86
 http://45.83.207.194/HideChaotic/ub8ehJSePAfc9FYqZIT6.x86_64
+http://45.83.207.194/cbot/raw_subprocess.exe
+http://45.83.207.194/cbot/raw_subprocess_debug.exe
+http://45.83.207.194/cbot/subprocess.exe
+http://45.83.207.194/cbot/subprocess_debug.exe
 http://45.83.207.194/ohshit.sh
 http://45.88.186.54:8040/bin/support.client.exe
 http://45.90.98.85:8080/bot.arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install
@@ -14381,6 +14429,8 @@ http://61.52.170.69:58576/bin.sh
 http://61.52.170.69:58576/i
 http://61.52.173.167:51082/bin.sh
 http://61.52.173.167:51082/i
+http://61.52.175.98:32916/bin.sh
+http://61.52.175.98:32916/i
 http://61.52.185.105:36495/bin.sh
 http://61.52.185.105:36495/i
 http://61.52.186.232:36495/bin.sh
@@ -14393,6 +14443,8 @@ http://61.52.198.217:39372/bin.sh
 http://61.52.198.217:39372/i
 http://61.52.199.72:39372/bin.sh
 http://61.52.199.72:39372/i
+http://61.52.212.11:59307/bin.sh
+http://61.52.212.11:59307/i
 http://61.52.218.59:44225/bin.sh
 http://61.52.218.59:44225/i
 http://61.52.219.193:42142/i
@@ -14581,6 +14633,8 @@ http://61.54.69.145:59887/i
 http://61.54.69.222:42575/bin.sh
 http://61.54.69.222:42575/i
 http://61.54.69.46:53696/bin.sh
+http://61.54.71.13:48669/bin.sh
+http://61.54.71.13:48669/i
 http://61.7.157.26:30892/.i
 http://61.7.157.26:30892/i
 http://61.7.209.88///arm5
@@ -15664,6 +15718,8 @@ http://87.121.79.186/bins/cosmic.sh4
 http://87.121.79.186/bins/cosmic.x86
 http://87.121.79.186/bins/cosmic.x86_64
 http://87.121.79.186/sora.sh
+http://87.121.79.78/nbv
+http://87.121.79.78/qst
 http://87.121.79.9/JtOYEvL.sh
 http://87.121.79.9/all.sh
 http://87.121.79.9/huhu/titanjr.arc
@@ -15757,6 +15813,17 @@ http://87.121.84.49/router.totolink.sh
 http://87.121.84.49/router.totolink2.sh
 http://87.121.84.49/router.totolink3.sh
 http://87.121.84.49/x
+http://87.121.84.51/catgirl.aarch64
+http://87.121.84.51/catgirl.armv5
+http://87.121.84.51/catgirl.armv6
+http://87.121.84.51/catgirl.armv7
+http://87.121.84.51/catgirl.armv7b
+http://87.121.84.51/catgirl.mips
+http://87.121.84.51/catgirl.mipsel
+http://87.121.84.51/catgirl.mipsrl
+http://87.121.84.51/catgirl.x86
+http://87.121.84.51/catgirl.x86_64
+http://87.121.84.51/router.epon.sh
 http://87.121.84.59:8080/mipsel
 http://87.15.156.48:8090/av.lnk
 http://87.15.156.48:8090/av.scr
@@ -18257,6 +18324,8 @@ http://kka.co.za/bins/vcimanagement.arm6
 http://kka.co.za/bins/vcimanagement.mips
 http://kka.co.za/bins/vcimanagement.ppc
 http://kka.co.za/bins/vcimanagement.sh4
+http://knfdoiojogneronifdionfldg.pw/nbv
+http://knfdoiojogneronifdionfldg.pw/qst
 http://knuvqydu.xyz:808/download.sh
 http://knuvqydu.xyz:808/linux_386
 http://knuvqydu.xyz:808/linux_amd64
