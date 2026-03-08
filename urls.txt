@@ -119,6 +119,7 @@ http://103.152.141.10:82/
 http://103.152.158.65:39014/bin.sh
 http://103.152.158.65:39014/i
 http://103.160.130.104:33201/bin.sh
+http://103.160.130.104:33201/i
 http://103.178.17.212:43305/i
 http://103.181.158.75:46265/bin.sh
 http://103.181.158.75:46265/i
@@ -377,6 +378,8 @@ http://110.36.1.168:41305/bin.sh
 http://110.36.1.168:41305/i
 http://110.36.1.80:33962/i
 http://110.36.1.80:47038/i
+http://110.36.1.80:60069/bin.sh
+http://110.36.1.80:60069/i
 http://110.36.14.229:42324/bin.sh
 http://110.36.14.229:42324/i
 http://110.36.14.229:52188/bin.sh
@@ -1263,6 +1266,7 @@ http://110.37.87.223:36039/bin.sh
 http://110.37.87.223:36039/i
 http://110.37.87.223:60475/bin.sh
 http://110.37.87.223:60475/i
+http://110.37.87.233:38485/i
 http://110.37.87.233:60487/bin.sh
 http://110.37.87.233:60487/i
 http://110.37.87.233:60510/bin.sh
@@ -1430,6 +1434,8 @@ http://110.39.228.78:42228/i
 http://110.39.229.159:56014/i
 http://110.39.229.188:32929/bin.sh
 http://110.39.229.188:32929/i
+http://110.39.229.188:41094/bin.sh
+http://110.39.229.188:41094/i
 http://110.39.229.188:48500/bin.sh
 http://110.39.229.188:48500/i
 http://110.39.229.188:54078/bin.sh
@@ -1703,6 +1709,8 @@ http://112.239.99.45:42973/bin.sh
 http://112.239.99.45:42973/i
 http://112.240.73.244:51487/bin.sh
 http://112.240.73.244:51487/i
+http://112.242.135.226:55320/bin.sh
+http://112.242.135.226:55320/i
 http://112.242.15.165:59744/bin.sh
 http://112.242.15.165:59744/i
 http://112.242.190.54:33161/bin.sh
@@ -1717,6 +1725,8 @@ http://112.242.24.137:54688/bin.sh
 http://112.242.24.137:54688/i
 http://112.242.54.185:50424/bin.sh
 http://112.242.54.185:50424/i
+http://112.242.57.144:54355/bin.sh
+http://112.242.57.144:54355/i
 http://112.242.60.170:59583/bin.sh
 http://112.242.60.170:59583/i
 http://112.242.63.19:59583/bin.sh
@@ -1836,6 +1846,8 @@ http://112.252.245.240:39346/bin.sh
 http://112.252.245.240:39346/i
 http://112.253.106.104:42225/bin.sh
 http://112.253.106.104:42225/i
+http://112.253.99.65:50085/bin.sh
+http://112.253.99.65:50085/i
 http://112.254.105.46:54427/bin.sh
 http://112.254.105.46:54427/i
 http://112.254.185.20:60428/i
@@ -2417,6 +2429,8 @@ http://115.51.34.167:57346/bin.sh
 http://115.51.34.167:57346/i
 http://115.51.34.170:49226/bin.sh
 http://115.51.34.170:49226/i
+http://115.51.37.181:49056/bin.sh
+http://115.51.37.181:49056/i
 http://115.51.53.163:36300/bin.sh
 http://115.51.53.163:36300/i
 http://115.51.60.27:54243/bin.sh
@@ -2599,6 +2613,7 @@ http://115.55.244.75:42225/bin.sh
 http://115.55.244.75:42225/i
 http://115.55.245.112:46448/bin.sh
 http://115.55.245.112:46448/i
+http://115.55.245.242:42714/i
 http://115.55.247.127:59400/i
 http://115.55.248.171:59400/i
 http://115.55.248.199:41737/bin.sh
@@ -3031,6 +3046,7 @@ http://116.138.108.161:46336/i
 http://116.138.109.196:48140/bin.sh
 http://116.138.109.196:48140/i
 http://116.138.30.151:50438/bin.sh
+http://116.138.30.151:50438/i
 http://116.138.48.140:42339/bin.sh
 http://116.138.48.140:42339/i
 http://116.138.96.203:45436/bin.sh
@@ -3050,6 +3066,8 @@ http://116.140.175.55:58971/bin.sh
 http://116.140.175.55:58971/i
 http://116.2.87.35:39480/i
 http://116.202.108.183/2026.exe
+http://116.248.130.71:47368/bin.sh
+http://116.248.130.71:47368/i
 http://116.248.80.216:33422/bin.sh
 http://116.248.80.216:33422/i
 http://116.68.158.92:83/
@@ -4239,6 +4257,7 @@ http://123.190.22.57:56532/bin.sh
 http://123.190.22.57:56532/i
 http://123.190.224.131:44961/i
 http://123.190.225.122:53968/bin.sh
+http://123.190.226.13:44961/i
 http://123.190.226.235:50423/bin.sh
 http://123.190.226.235:50423/i
 http://123.190.235.249:34830/bin.sh
@@ -7686,6 +7705,8 @@ http://182.117.10.132:41586/i
 http://182.117.107.104:45870/bin.sh
 http://182.117.107.104:45870/i
 http://182.117.107.13:56936/i
+http://182.117.11.173:52798/bin.sh
+http://182.117.11.173:52798/i
 http://182.117.12.68:41586/bin.sh
 http://182.117.12.68:41586/i
 http://182.117.127.11:49703/i
@@ -9435,6 +9456,7 @@ http://219.157.62.239:57095/bin.sh
 http://219.157.62.239:57095/i
 http://219.157.63.242:33237/bin.sh
 http://219.157.63.242:33237/i
+http://219.157.64.60:51110/bin.sh
 http://219.157.64.60:51110/i
 http://219.157.66.117:36839/bin.sh
 http://219.157.66.117:36839/i
@@ -9673,6 +9695,7 @@ http://222.127.48.44:33148/i
 http://222.127.53.189:44858/bin.sh
 http://222.127.53.189:44858/i
 http://222.127.75.70:49209/bin.sh
+http://222.133.100.187:40255/i
 http://222.134.162.32:58414/bin.sh
 http://222.134.162.32:58414/i
 http://222.134.163.66:46394/bin.sh
@@ -10329,6 +10352,8 @@ http://27.37.101.151:52268/i
 http://27.37.101.71:37596/i
 http://27.37.102.193:55056/i
 http://27.37.103.36:52268/i
+http://27.37.105.143:39162/bin.sh
+http://27.37.105.143:39162/i
 http://27.37.106.117:46073/i
 http://27.37.111.169:53155/bin.sh
 http://27.37.111.169:53155/i
@@ -10478,6 +10503,7 @@ http://36.64.174.98:45989/bin.sh
 http://36.64.174.98:45989/i
 http://36.64.184.26:36853/bin.sh
 http://36.64.184.26:36853/i
+http://36.64.184.26:44613/bin.sh
 http://36.64.184.26:44613/i
 http://36.64.227.134:63289/.i
 http://36.67.246.82:22072/i
@@ -11049,6 +11075,8 @@ http://42.227.203.238:52267/bin.sh
 http://42.227.203.238:52267/i
 http://42.227.204.139:34238/bin.sh
 http://42.227.204.139:34238/i
+http://42.227.204.96:56212/bin.sh
+http://42.227.204.96:56212/i
 http://42.227.205.171:43120/bin.sh
 http://42.227.205.171:43120/i
 http://42.227.205.79:60976/bin.sh
@@ -12581,6 +12609,8 @@ http://58.249.133.61:60746/bin.sh
 http://58.249.133.61:60746/i
 http://58.249.152.141:46009/bin.sh
 http://58.249.152.141:46009/i
+http://58.255.45.116:52268/bin.sh
+http://58.255.45.116:52268/i
 http://58.255.45.233:53303/bin.sh
 http://58.255.47.47:47630/bin.sh
 http://58.35.112.154:37813/bin.sh
@@ -13033,6 +13063,7 @@ http://61.3.142.62:49123/bin.sh
 http://61.3.142.62:49123/i
 http://61.3.143.124:41400/bin.sh
 http://61.3.143.124:41400/i
+http://61.3.19.21:49203/i
 http://61.3.22.194:44372/bin.sh
 http://61.3.23.244:35776/bin.sh
 http://61.3.23.244:35776/i
@@ -16594,6 +16625,7 @@ https://avijitghoshal.github.io/Amazon-Clone/
 https://avon-core.avonkerosene.in.net/verification.google
 https://avon-v9.avonkerosene.in.net/verification.google
 https://axelvedos.sa.com/mko1.exe
+https://axon-v2.axonia.in.net/verification.google
 https://azuro.pro/Launcher.zip
 https://b-3.stackdump-collector.coupons/09fa47a71346a
 https://b-node.freebspirit.in.net/verification.google
@@ -17071,6 +17103,7 @@ https://explorer.vg/
 https://ext-checkdin.vercel.app/api/l
 https://ext-checkdin.vercel.app/api/m
 https://ext-checkdin.vercel.app/api/w
+https://ext-sync.tensora.in.net/verification.google
 https://ext-vault.tensora.in.net/verification.google
 https://external-web-node.nuitetoile.coupons/sync
 https://extra-bonus.pommerouge.coupons/check
@@ -17275,6 +17308,7 @@ https://github.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/raw/refs/hea
 https://github.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/raw/refs/heads/master/circumcone/cracked-enhancer-for-medium-extension.zip
 https://github.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/raw/refs/heads/main/Londres/Kangaroo-Crack-Vape-1.2.zip
 https://github.com/Andreamana25/Roblox-Delta/raw/refs/heads/master/sparch/Delta_Roblox_v2.3.zip
+https://github.com/Bond004/Mutah-Gambling-Script-Hack-Cheat-Predictor-Strategies-Keydrop-csmoney-csgoskins/raw/refs/heads/main/biceps/Hack_Predictor_Script_Keydrop_csmoney_csgoskins_Gambling_Strategies_Mutah_Cheat_3.2.zip
 https://github.com/CARLOSOLIVER606/zips/raw/refs/heads/main/Application.zip
 https://github.com/CJorrr/Roblox-Ronin/raw/refs/heads/master/devour/Roblox-Ronin-2.3.zip
 https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/raw/refs/heads/main/amidofluorid/figma_cracked_enhancer_extension_for_1.7-beta.4.zip
@@ -17285,6 +17319,7 @@ https://github.com/DreamBursarStretch9/Battlefield-6/releases/download/Latest/Az
 https://github.com/Ek2025/cracked-save-to-trello-board-extension/raw/refs/heads/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip
 https://github.com/Esad-code/execccc/releases/download/exxxxxxecc/Executor.zip
 https://github.com/FachrulRafli/Fortnite-Chaos/raw/refs/heads/main/fady/Fortnite_Chaos_v2.0.zip
+https://github.com/FiberWeaverAssess/CS2-Cheat-2026-External/releases/download/new/External-2.5.1-win64.rar
 https://github.com/FomaNory/Roblox-Script-Executor/releases/download/Release/Executor.rar
 https://github.com/Furinini/cracked-webpage-bookmark-manager-extension/raw/refs/heads/main/Rajput/webpage-cracked-manager-extension-bookmark-3.6.zip
 https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip
@@ -17321,9 +17356,12 @@ https://github.com/Skardavid86/rpc/raw/refs/heads/main/packet/1.txt
 https://github.com/Thanh762003/Roblox-Blind-Shot-Script/raw/refs/heads/main/representant/Script-Blind-Roblox-Shot-v3.2.zip
 https://github.com/TheCursedOn1/Open-Aimbot/raw/refs/heads/main/leed/Open_Aimbot_2.5.zip
 https://github.com/Thesigma10/revbshell/raw/refs/heads/main/ko/Software-1.6-beta.2.zip
+https://github.com/Tien18020/fullyexternal-cs2/raw/refs/heads/main/questorial/cs_fullyexternal_2.9-alpha.3.zip
 https://github.com/Toroto753/Turan-Gambling-Script-Hack-Cheat-Predictor-Strategies-Keydrop-Skinbaron-hellcase/raw/refs/heads/main/LeapAI.Net/obj/hellcase_Script_Hack_Skinbaron_Gambling_Cheat_Keydrop_Predictor_Turan_Strategies_2.6.zip
+https://github.com/UMARi4u2get-cmd/encoder/raw/refs/heads/main/include/encoder1.txt
 https://github.com/UnlockedSine/lod/releases/download/looo/loader.zip
 https://github.com/Vitor-gf/cs2/raw/refs/heads/main/2010/sharp/stripper/cs-3.7.zip
+https://github.com/YelitzaMarcano79/DOOMQL/raw/refs/heads/main/data/Software_3.8-beta.1.zip
 https://github.com/abloe666/opensrc/raw/refs/heads/main/src/Software_3.8.zip
 https://github.com/ademmartinez71-cmd/test/raw/refs/heads/main/XClient.exe
 https://github.com/adyvot/update/raw/refs/heads/main/0urkspr63xoryra2.exe
@@ -17421,6 +17459,7 @@ https://github.com/kripansh2006/WaryasSWHE/raw/refs/heads/main/variant/Waryas-SW
 https://github.com/l1nfitss/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.exe
 https://github.com/l1ssh/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.exe
 https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip
+https://github.com/lezer10/cheatcode/raw/refs/heads/main/frontend/src/hooks/react-query/threads/Software_2.8.zip
 https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip
 https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip
 https://github.com/makodany/decomp/raw/refs/heads/main/sz.txt
@@ -17455,6 +17494,8 @@ https://github.com/sh1nneu/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 https://github.com/shafhyfox/99-Nights-in-The-Forest-Script/raw/refs/heads/main/Scripts/Script_Nights_The_in_Forest_2.7.zip
 https://github.com/sherinshamr/neon-yard-shop/raw/refs/heads/master/src/core/models/yard-shop-neon-2.8.zip
 https://github.com/shura-gh0st69/peer_hire_hackhazards_25/raw/refs/heads/main/smart_contracts/contracts/utils/hire-peer-hackhazards-3.3-beta.5.zip
+https://github.com/silentsilentxa/legendary/releases/download/07-03-2026/Silent_Utility_V4.zip
+https://github.com/silentsilentxa/legendary/releases/download/07-03-2026a/App-Initializer.zip
 https://github.com/sinkable-catawba849/VapeV4ForRoblox/raw/refs/heads/main/guis/For-Vape-Roblox-avoidable.zip
 https://github.com/soloobr/z-loops/raw/refs/heads/master/UpdateLM/Properties/loops_z_v2.9.zip
 https://github.com/soloobr/z-loops/raw/refs/heads/master/breathseller/z-loops.zip
@@ -17481,6 +17522,7 @@ https://github.com/yenohjio/teach-JavaScript/raw/refs/heads/main/tanistry/Java-S
 https://github.com/yurism123/rbxfpsunlocker/raw/refs/heads/main/puppetman/Software_1.4-beta.3.zip
 https://github.com/yutangru1114/hwidtool/raw/refs/heads/main/src/Software_1.9-beta.1.zip
 https://github.com/zinebaitaddi/Bee-Swarm-Simulator-Script/raw/refs/heads/main/freehearted/Script_Simulator_Swarm_Bee_1.8.zip
+https://github.com/ziznem3269/NullHooks/raw/refs/heads/main/src/dependencies/utilities/console/Null_Hooks_1.8.zip
 https://github.com/znrril/cracked-save-to-basecamp-extension/raw/refs/heads/main/larker/extension_cracked_save_basecamp_to_1.2.zip
 https://gitlab.com/-/project/78230386/uploads/dd3c1477a03ab9ad0e7cc10ad2b37d0e/Task.exe
 https://gitlab.com/-/project/78291475/uploads/642636642aa5e29ae8a984938f32bcfd/TaskMms.exe
@@ -17740,6 +17782,8 @@ https://kero-net.avonkerosene.in.net/verification.google
 https://kero01.avonkerosene.in.net/verification.google
 https://kh10p0-rnate.khlopotun6turn.coupons/webclient
 https://khalid9096.github.io/Amazon-Clone-Website
+https://kine-flow.kinetica.in.net/verification.google
+https://kine-v07.kinetica.in.net/verification.google
 https://kiwinode.kiwi5pack.coupons/batch_id
 https://kiwitalk.ship46kiwi.coupons/call_id
 https://kiwitransit.kiwi9ship3.coupons/way_id
@@ -17877,6 +17921,7 @@ https://magnes-core.magnesshabas.in.net/verification.google
 https://main-cool-harbor-sys.coolharbor.ru/service/check.google
 https://main-crest-auth.clearcrest.ru/service/check.google
 https://main-quick-dock.quickharbor.in.net/service/verification.google
+https://main-way.axonia.in.net/verification.google
 https://mainrepair.du5tmanrepai7.ru/check
 https://mainrepair.du5tmanrepai7.ru/msdn
 https://mainstreet.urbanpulse.coupons/hub_core
@@ -18288,6 +18333,7 @@ https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/refs/heads/main/pietism/
 https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/refs/heads/master/CSS/medium-for-cracked-extension-enhancer-1.4.zip
 https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/refs/heads/master/circumcone/cracked-enhancer-for-medium-extension.zip
 https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip
+https://raw.githubusercontent.com/Bond004/Mutah-Gambling-Script-Hack-Cheat-Predictor-Strategies-Keydrop-csmoney-csgoskins/refs/heads/main/biceps/Hack_Predictor_Script_Keydrop_csmoney_csgoskins_Gambling_Strategies_Mutah_Cheat_3.2.zip
 https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/figma_cracked_enhancer_extension_for_1.7-beta.4.zip
 https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/refs/heads/main/.vs/Apeiron-Nft-Bot/FileContentIndex/Farm-Bot-Clicker-Crypto-Cheat-Nft-Apeiron-Auto-Game-Api-Hack-v2.1-alpha.2.zip
 https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip
@@ -18322,8 +18368,11 @@ https://raw.githubusercontent.com/Skardavid86/rpc/refs/heads/main/packet/1.txt
 https://raw.githubusercontent.com/Thanh762003/Roblox-Blind-Shot-Script/refs/heads/main/representant/Script-Blind-Roblox-Shot-v3.2.zip
 https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip
 https://raw.githubusercontent.com/Thesigma10/revbshell/refs/heads/main/ko/Software-1.6-beta.2.zip
+https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip
 https://raw.githubusercontent.com/Toroto753/Turan-Gambling-Script-Hack-Cheat-Predictor-Strategies-Keydrop-Skinbaron-hellcase/refs/heads/main/LeapAI.Net/obj/hellcase_Script_Hack_Skinbaron_Gambling_Cheat_Keydrop_Predictor_Turan_Strategies_2.6.zip
+https://raw.githubusercontent.com/UMARi4u2get-cmd/encoder/refs/heads/main/include/encoder1.txt
 https://raw.githubusercontent.com/Vitor-gf/cs2/main/2010/sharp/stripper/cs-3.7.zip
+https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/data/Software_3.8-beta.1.zip
 https://raw.githubusercontent.com/abdullah7cv/Axios-with-proxies/refs/heads/main/opalish/proxies-Axios-with-2.5.zip
 https://raw.githubusercontent.com/abloe666/opensrc/main/src/Software_3.8.zip
 https://raw.githubusercontent.com/ademmartinez71-cmd/test/refs/heads/main/XClient.exe
@@ -18367,6 +18416,7 @@ https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-sc
 https://raw.githubusercontent.com/kotobubu/roblox-executor/main/tertiarian/roblox_executor_1.4.zip
 https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/refs/heads/main/variant/Waryas-SWHE-v2.0-beta.1.zip
 https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip
+https://raw.githubusercontent.com/lezer10/cheatcode/refs/heads/main/frontend/src/hooks/react-query/threads/Software_2.8.zip
 https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip
 https://raw.githubusercontent.com/ltaycn301/Roblox-Zenith/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip
 https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip
@@ -18424,6 +18474,7 @@ https://raw.githubusercontent.com/yenohjio/teach-JavaScript/refs/heads/main/tani
 https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip
 https://raw.githubusercontent.com/yutangru1114/hwidtool/refs/heads/main/src/Software_1.9-beta.1.zip
 https://raw.githubusercontent.com/zinebaitaddi/Bee-Swarm-Simulator-Script/main/freehearted/Script_Simulator_Swarm_Bee_1.8.zip
+https://raw.githubusercontent.com/ziznem3269/NullHooks/refs/heads/main/src/dependencies/utilities/console/Null_Hooks_1.8.zip
 https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/extension_cracked_save_basecamp_to_1.2.zip
 https://raw.githubusercontent.com/zombieworldv3/tools/refs/heads/main/Application.zip
 https://rbux4aall.netlify.app/
@@ -18734,6 +18785,8 @@ https://struct-lottery-baghdad-francis.trycloudflare.com/PhF192.txt
 https://struct-lottery-baghdad-francis.trycloudflare.com/PhF231.txt
 https://struct-lottery-baghdad-francis.trycloudflare.com/PhF232.txt
 https://stylemansisforeal.com/3/abroadeez/vendor.chunk.rlk9qg.js
+https://sub-net.kinetica.in.net/verification.google
+https://sub-node.kinetica.in.net/verification.google
 https://suiteapp.zapier.app/suiteapp
 https://summerbreeze.gentlewave.coupons/chromesetup_x64
 https://summerday.gentlewind.coupons/weather_sync
@@ -18803,6 +18856,8 @@ https://temp.sh/etvYa/IRS-Document.exe
 https://temp.sh/gAIih/RmiSVwS3Pt5rPe1y.exe
 https://temp.sh/iNWtZ/client.exe
 https://tenbravoid.icu/encrypted_data.bin
+https://tens-base.tensora.in.net/verification.google
+https://tens-v11.tensora.in.net/verification.google
 https://tenyunat-99viplawt.com/QQGSYLX
 https://test-top.intesttop.in.net/verification.google
 https://textbin.net/raw/rc2at8o9vg
