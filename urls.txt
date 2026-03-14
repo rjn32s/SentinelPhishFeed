@@ -301,6 +301,7 @@ http://109.116.80.179:81/
 http://109.129.108.174:55555/
 http://109.167.133.17/
 http://109.192.109.223:888/
+http://109.205.213.2/download.sh
 http://109.236.46.199:58128/i
 http://109.236.48.121/biosd0
 http://109.236.48.121/deferwqd
@@ -452,6 +453,7 @@ http://110.36.27.124:47304/i
 http://110.36.27.124:57369/bin.sh
 http://110.36.27.124:57369/i
 http://110.36.27.124:59533/i
+http://110.36.27.244:39862/i
 http://110.36.27.244:43992/bin.sh
 http://110.36.27.244:43992/i
 http://110.36.27.244:47526/bin.sh
@@ -507,6 +509,7 @@ http://110.36.70.241:35788/bin.sh
 http://110.36.70.241:35788/i
 http://110.36.70.241:41797/bin.sh
 http://110.36.70.241:41797/i
+http://110.36.72.162:45737/i
 http://110.36.76.43:45356/bin.sh
 http://110.36.76.43:45356/i
 http://110.36.76.43:50872/bin.sh
@@ -1237,6 +1240,8 @@ http://110.37.66.116:54957/bin.sh
 http://110.37.66.116:54957/i
 http://110.37.66.198:33861/bin.sh
 http://110.37.66.198:33861/i
+http://110.37.66.198:47755/bin.sh
+http://110.37.66.198:47755/i
 http://110.37.66.198:50411/bin.sh
 http://110.37.66.198:50411/i
 http://110.37.66.198:54237/i
@@ -1450,6 +1455,8 @@ http://110.38.214.94:47862/bin.sh
 http://110.38.214.94:47862/i
 http://110.38.215.152:39775/bin.sh
 http://110.38.215.152:39775/i
+http://110.38.215.152:41292/bin.sh
+http://110.38.215.152:41292/i
 http://110.38.215.152:41558/bin.sh
 http://110.38.215.152:41558/i
 http://110.38.215.152:50704/bin.sh
@@ -3522,6 +3529,8 @@ http://117.213.249.95:42248/bin.sh
 http://117.213.249.95:42248/i
 http://117.213.85.144:35648/bin.sh
 http://117.213.85.144:35648/i
+http://117.214.235.11:42960/bin.sh
+http://117.214.235.11:42960/i
 http://117.215.217.59:36064/bin.sh
 http://117.215.217.59:36064/i
 http://117.215.218.192:47917/bin.sh
@@ -3573,6 +3582,7 @@ http://117.217.224.117:55684/bin.sh
 http://117.217.46.179:45429/Mozi.m
 http://117.217.47.93:53394/bin.sh
 http://117.217.84.18:49108/bin.sh
+http://117.217.85.255:52349/bin.sh
 http://117.217.93.220:39244/bin.sh
 http://117.219.141.9:46759/bin.sh
 http://117.219.141.9:46759/i
@@ -3610,6 +3620,7 @@ http://117.222.164.205:51009/bin.sh
 http://117.222.164.205:51009/i
 http://117.222.164.83:47667/bin.sh
 http://117.222.164.83:47667/i
+http://117.222.165.153:39356/i
 http://117.222.165.233:51929/bin.sh
 http://117.222.165.233:51929/i
 http://117.222.165.84:43871/i
@@ -3865,6 +3876,7 @@ http://119.117.106.244:37582/bin.sh
 http://119.117.106.244:37582/i
 http://119.117.161.142:46950/bin.sh
 http://119.117.161.142:46950/i
+http://119.117.164.121:49924/bin.sh
 http://119.117.164.121:49924/i
 http://119.117.185.187:43028/bin.sh
 http://119.117.185.187:43028/i
@@ -4011,6 +4023,7 @@ http://120.28.201.75:33606/bin.sh
 http://120.28.201.75:33606/i
 http://120.28.214.232:57963/bin.sh
 http://120.28.214.232:57963/i
+http://120.28.216.187:41865/Mozi.m
 http://120.28.78.212:51553/bin.sh
 http://120.28.78.212:51553/i
 http://120.56.2.220:57497/bin.sh
@@ -4894,6 +4907,7 @@ http://125.43.23.203:38124/bin.sh
 http://125.43.23.203:38124/i
 http://125.43.230.219:38242/bin.sh
 http://125.43.230.219:38242/i
+http://125.43.230.227:40606/i
 http://125.43.230.243:38242/bin.sh
 http://125.43.230.243:38242/i
 http://125.43.230.9:33410/i
@@ -5020,6 +5034,8 @@ http://125.45.11.139:54940/i
 http://125.45.11.211:57452/i
 http://125.45.148.23:35468/bin.sh
 http://125.45.148.23:35468/i
+http://125.45.25.52:50457/bin.sh
+http://125.45.25.52:50457/i
 http://125.45.40.60:47553/i
 http://125.45.54.179:43314/bin.sh
 http://125.45.54.179:43314/i
@@ -6036,6 +6052,8 @@ http://154.222.30.227/x86
 http://154.222.30.227/x86_64
 http://154.242.1.227:49155/bin.sh
 http://154.242.1.227:49155/i
+http://154.243.6.117:32949/bin.sh
+http://154.243.6.117:32949/i
 http://154.9.241.34/n2/mips
 http://154.9.241.34/n2/mpsl
 http://154.9.241.34/n2/teleport
@@ -6910,6 +6928,7 @@ http://175.173.87.189:43900/bin.sh
 http://175.173.93.137:47108/bin.sh
 http://175.173.93.137:47108/i
 http://175.173.97.27:47018/i
+http://175.174.100.157:60664/i
 http://175.174.87.139:57425/bin.sh
 http://175.174.87.139:57425/i
 http://175.174.88.253:54080/bin.sh
@@ -6949,6 +6968,7 @@ http://176.206.190.199:32192/i
 http://176.222.224.91:8000/
 http://176.226.129.38:51093/bin.sh
 http://176.226.129.38:51093/i
+http://176.226.129.38:58771/bin.sh
 http://176.226.172.120:47297/bin.sh
 http://176.226.172.120:47297/i
 http://176.226.172.120:56655/bin.sh
@@ -7641,6 +7661,8 @@ http://182.116.119.181:52470/i
 http://182.116.119.65:47526/bin.sh
 http://182.116.120.113:55583/bin.sh
 http://182.116.120.113:55583/i
+http://182.116.121.161:58446/bin.sh
+http://182.116.121.161:58446/i
 http://182.116.121.186:47622/bin.sh
 http://182.116.121.186:47622/i
 http://182.116.123.111:60683/bin.sh
@@ -7793,6 +7815,8 @@ http://182.119.183.158:44539/bin.sh
 http://182.119.183.158:44539/i
 http://182.119.186.109:44787/bin.sh
 http://182.119.186.109:44787/i
+http://182.119.198.153:46402/bin.sh
+http://182.119.198.153:46402/i
 http://182.119.198.158:35111/i
 http://182.119.198.91:46402/bin.sh
 http://182.119.198.91:46402/i
@@ -7900,6 +7924,8 @@ http://182.121.188.177:44892/i
 http://182.121.194.83:34828/i
 http://182.121.195.231:49348/bin.sh
 http://182.121.195.231:49348/i
+http://182.121.199.71:42585/bin.sh
+http://182.121.199.71:42585/i
 http://182.121.217.39:49370/bin.sh
 http://182.121.217.39:49370/i
 http://182.121.224.85:52873/bin.sh
@@ -8787,6 +8813,7 @@ http://193.26.115.99:8040/Bin/ScreenConnect.ClientSetup.msi
 http://193.26.115.99:8040/bin/support.client.exe
 http://193.31.201.20:43647/bin.sh
 http://193.31.201.20:43647/i
+http://193.31.201.20:52137/i
 http://193.31.201.20:58216/bin.sh
 http://193.31.201.20:58216/i
 http://193.46.217.187/tul.arm7
@@ -9034,6 +9061,7 @@ http://203.177.237.148:33544/i
 http://203.177.237.148:37727/bin.sh
 http://203.177.237.148:37727/i
 http://203.198.17.51/
+http://203.203.38.27:43092/.i
 http://203.203.81.19:14961/.i
 http://203.214.82.110:40924/bin.sh
 http://203.214.82.110:40924/i
@@ -9334,6 +9362,8 @@ http://219.157.220.151:54067/bin.sh
 http://219.157.220.151:54067/i
 http://219.157.222.40:44787/bin.sh
 http://219.157.222.40:44787/i
+http://219.157.23.101:39636/bin.sh
+http://219.157.23.101:39636/i
 http://219.157.243.227:47496/bin.sh
 http://219.157.243.227:47496/i
 http://219.157.244.128:44424/bin.sh
@@ -9756,6 +9786,8 @@ http://222.139.32.247:60025/i
 http://222.139.32.27:44224/bin.sh
 http://222.139.35.22:35338/bin.sh
 http://222.139.35.22:35338/i
+http://222.139.42.166:47014/bin.sh
+http://222.139.42.166:47014/i
 http://222.139.47.111:40448/i
 http://222.139.47.247:38761/bin.sh
 http://222.139.47.247:38761/i
@@ -9841,6 +9873,7 @@ http://222.140.213.215:52335/i
 http://222.140.216.44:42099/bin.sh
 http://222.140.216.44:42099/i
 http://222.140.226.199:45801/bin.sh
+http://222.140.226.199:45801/i
 http://222.141.101.131:36497/bin.sh
 http://222.141.101.131:36497/i
 http://222.141.107.148:48180/bin.sh
@@ -10111,6 +10144,7 @@ http://27.215.126.55:32969/bin.sh
 http://27.215.126.55:32969/i
 http://27.215.126.81:42342/bin.sh
 http://27.215.126.81:42342/i
+http://27.215.127.30:56866/i
 http://27.215.136.104:34569/bin.sh
 http://27.215.136.104:34569/i
 http://27.215.156.145:51564/bin.sh
@@ -10802,6 +10836,8 @@ http://42.225.202.52:54719/i
 http://42.225.202.95:55581/bin.sh
 http://42.225.202.95:55581/i
 http://42.225.205.121:55032/bin.sh
+http://42.225.219.27:59967/bin.sh
+http://42.225.219.27:59967/i
 http://42.225.220.210:59788/bin.sh
 http://42.225.220.210:59788/i
 http://42.225.229.29:41414/i
@@ -11543,6 +11579,24 @@ http://45.112.207.69:8000/1.exe
 http://45.112.207.69:8000/2.exe
 http://45.112.207.69:8000/3.exe
 http://45.112.207.69:8000/4.exe
+http://45.126.209.218:8080/bins/bot.arm
+http://45.126.209.218:8080/bins/bot.arm64
+http://45.126.209.218:8080/bins/bot.arm7
+http://45.126.209.218:8080/bins/bot.m68k
+http://45.126.209.218:8080/bins/bot.mips
+http://45.126.209.218:8080/bins/bot.mips64
+http://45.126.209.218:8080/bins/bot.mpsl
+http://45.126.209.218:8080/bins/bot.ppc
+http://45.126.209.218:8080/bins/bot.ppc64
+http://45.126.209.218:8080/bins/bot.rv64
+http://45.126.209.218:8080/bins/bot.sh4
+http://45.126.209.218:8080/bins/bot.spc
+http://45.126.209.218:8080/bins/bot.x64
+http://45.126.209.218:8080/bins/bot.x86
+http://45.126.209.218:8080/bins/bot_opt.arm
+http://45.126.209.218:8080/bins/bot_opt.arm64
+http://45.126.209.218:8080/bins/bot_opt.mips
+http://45.126.209.218:8080/bins/bot_opt.x64
 http://45.128.118.140/android.exploit
 http://45.128.118.140/bins/xnxnxnxnxnxnxnxnaarch64xnxn
 http://45.128.118.140/bins/xnxnxnxnxnxnxnxni386xnxn
@@ -12162,6 +12216,7 @@ http://5.175.223.113:2342/bins/adbins.sh
 http://5.175.223.113:2342/bins/bins.sh
 http://5.175.223.113:2342/bins/byte.arm6
 http://5.175.223.113:2342/bins/byte.arm7
+http://5.175.223.113:2342/bins/xfr.
 http://5.175.223.113:2342/bins/xfr.arm
 http://5.175.223.113:2342/bins/xfr.arm5
 http://5.175.223.113:2342/bins/xfr.arm6
@@ -12174,6 +12229,7 @@ http://5.175.223.113:2342/bins/xfr.sh4
 http://5.175.223.113:2342/bins/xfr.spc
 http://5.175.223.113:2342/bins/xfr.x64
 http://5.175.223.113:2342/bins/xfr.x86
+http://5.175.223.113:2342/nigga.sh
 http://5.175.223.113:5001/amd64
 http://5.175.223.113:5001/android_arm
 http://5.175.223.113:5001/android_arm64
@@ -12189,7 +12245,19 @@ http://5.175.223.113:5001/mips
 http://5.175.223.113:5001/mipsle
 http://5.175.223.113:5001/x86
 http://5.175.223.124/bbc
+http://5.175.223.124/c.sh
+http://5.175.223.124/data.aarch64
+http://5.175.223.124/data.arm4
+http://5.175.223.124/data.arm5
+http://5.175.223.124/data.arm6
+http://5.175.223.124/data.arm7
+http://5.175.223.124/data.mips-uclibc
 http://5.175.223.124/data.mipsel-uclibc
+http://5.175.223.124/data.powerpc
+http://5.175.223.124/data.x86
+http://5.175.223.124/data.x86_64
+http://5.175.223.124/ftp.sh
+http://5.175.223.124/w.sh
 http://5.181.3.211/arm7
 http://5.206.225.136/bins.sh
 http://5.39.218.69:8080/windows_backdoor.ps1
@@ -12291,6 +12359,7 @@ http://58.23.221.65:57979/bin.sh
 http://58.23.221.65:57979/i
 http://58.255.45.116:52268/bin.sh
 http://58.255.45.116:52268/i
+http://58.255.45.24:52153/i
 http://58.255.47.47:47630/bin.sh
 http://58.35.112.154:37813/bin.sh
 http://58.35.112.154:37813/i
@@ -12674,6 +12743,7 @@ http://60.19.219.3:59672/bin.sh
 http://60.19.219.3:59672/i
 http://60.19.220.151:37507/bin.sh
 http://60.19.220.151:37507/i
+http://60.19.220.78:56258/bin.sh
 http://60.19.221.142:60772/i
 http://60.19.221.224:45729/i
 http://60.19.222.210:40284/i
@@ -12727,6 +12797,7 @@ http://61.0.97.230:55603/bin.sh
 http://61.0.97.230:55603/i
 http://61.1.145.16:34440/bin.sh
 http://61.1.145.16:34440/i
+http://61.1.200.254:39880/bin.sh
 http://61.1.216.74:34146/i
 http://61.1.218.246:44369/bin.sh
 http://61.1.219.162:56537/bin.sh
@@ -13266,6 +13337,8 @@ http://70.39.180.195/bat.cmd
 http://70.39.180.195/py4.y
 http://70.39.197.112:6699/chfs/shared/dqwcsaa.jpg
 http://71.194.158.117:14603/.i
+http://71.207.128.92:52994/bin.sh
+http://71.207.128.92:52994/i
 http://71.32.43.224:7000/
 http://71.32.43.225:7000/
 http://71.32.43.226:7000/
@@ -13619,7 +13692,17 @@ http://83.142.209.47/nullnet_load.x86_64
 http://83.142.209.47/realtek
 http://83.142.209.47/ttmswapd
 http://83.142.209.47/vredisd0
+http://83.142.209.47/wlan.arc
+http://83.142.209.47/wlan.arm
+http://83.142.209.47/wlan.arm5
+http://83.142.209.47/wlan.arm6
+http://83.142.209.47/wlan.arm7
+http://83.142.209.47/wlan.m68k
+http://83.142.209.47/wlan.mips
 http://83.142.209.47/wlan.mpsl
+http://83.142.209.47/wlan.ppc
+http://83.142.209.47/wlan.spc
+http://83.142.209.47/wlan.x86
 http://83.142.209.47/x
 http://83.142.209.9/hiddenbin/boatnet.arc
 http://83.142.209.9/hiddenbin/boatnet.arm
@@ -14313,6 +14396,21 @@ http://94.156.152.233/bins/pspc
 http://94.156.152.233/bins/px86
 http://94.156.152.233/bins/run.sh
 http://94.156.152.233/bins/wget.sh
+http://94.156.152.233/hiddenbin/Space.arc
+http://94.156.152.233/hiddenbin/Space.arm
+http://94.156.152.233/hiddenbin/Space.arm5
+http://94.156.152.233/hiddenbin/Space.arm6
+http://94.156.152.233/hiddenbin/Space.arm7
+http://94.156.152.233/hiddenbin/Space.i686
+http://94.156.152.233/hiddenbin/Space.m68k
+http://94.156.152.233/hiddenbin/Space.mips
+http://94.156.152.233/hiddenbin/Space.mips64
+http://94.156.152.233/hiddenbin/Space.mpsl
+http://94.156.152.233/hiddenbin/Space.ppc
+http://94.156.152.233/hiddenbin/Space.sh4
+http://94.156.152.233/hiddenbin/Space.sparc
+http://94.156.152.233/hiddenbin/Space.x86
+http://94.156.152.233/hiddenbin/Space.x86_64
 http://94.156.152.238/bins/parm
 http://94.156.152.238/bins/parm5
 http://94.156.152.238/bins/parm6
@@ -16276,6 +16374,7 @@ https://any-up.anyutkiup.in.net/verification.google
 https://ap-90x.moxitron.in.net/verification.google
 https://api-node-v2.kristallwelt.in.net/verification.google
 https://api-v1-storage.altamontagna.in.net/verification.google
+https://api-v2-master.grossesystem.in.net/verification.google
 https://api.aloparatoriuz.com/LokwiUHhajhWnbX
 https://api.dealharbor.coupons/webclient
 https://api.files.link/v1/p/6eb195dd-ee4b-48a8-8166-346fc97280d7
@@ -16370,6 +16469,7 @@ https://babymafessoni.merseine.com/014br/9578069-26.2025.6.24.590358681114-48.20
 https://backend-core-7.cielonumerique.in.net/verification.google
 https://backend-core-v.schnellkraft.in.net/verification.google
 https://backend-core-x.vitagrazia.in.net/verification.google
+https://backend-node-x.petitreseau.in.net/verification.google
 https://badging.it-support-group.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 https://bafybeiamo2yli2vn6dvjshqwwvj3armjgxlo7ftkclqthmz5bvcdvitmui.ipfs.dweb.link/
 https://bafybeibqcivjhwg2msil5g62did64uhtptlf7epidbrat4gexerzfv5mmq.ipfs.dweb.link/
@@ -16388,6 +16488,7 @@ https://baraltransportes.com/20khgc26oiwefoibfuww.php
 https://baritonclick.online/uploads/sharp.exe
 https://basa-cod.skyroad.in.net/verification.google
 https://base-infra-5.mondoluce.in.net/verification.google
+https://base-infra-77.mondolavoro.in.net/verification.google
 https://base-infra-9.mondosolido.in.net/verification.google
 https://base-infra-v3.petitjardin.in.net/verification.google
 https://basecommand.orbitalmap.coupons/telemetry
@@ -16560,6 +16661,7 @@ https://cdn-b9.bleuforet.coupons/sync
 https://cdn-static-1.kristallwelt.in.net/verification.google
 https://cdn-static-2.sturmwelle.in.net/verification.google
 https://cdn-static-3.altamontagna.in.net/verification.google
+https://cdn-static-4.grossesystem.in.net/verification.google
 https://cdn.mintvoucher.coupons/webclient
 https://cdn7.mondlicht.coupons/amdkmdag
 https://cdt-working-famous-nsw.trycloudflare.com/Sep01x86_Ayoo.zip
@@ -16614,10 +16716,12 @@ https://cliff-side-sync.brightcliff.in.net/service/verification.google
 https://cliff-unit.pinecliff.in.net/verification.google
 https://cliffbird.sparrowinrock.in.net/service/verification.google
 https://climatecontrolunit.makeoverwinter.in.net/service/verification.google
+https://climole.stoppit.in.net/verification.google
 https://cling-05.clingway.in.net/verification.google
 https://cling-way.clingway.in.net/verification.google
 https://clipwes.crimsonridge.in.net/verification.google
 https://closedgranite.chifdark.in.net/verification.google
+https://cloud-drive-a1.vitasicura.in.net/verification.google
 https://cloud-drive-x.bleusoleil.in.net/verification.google
 https://cloud-m3.plum5parcel.coupons/webclient
 https://cloud-st1.perk9parcel.coupons/webclient
@@ -16737,6 +16841,7 @@ https://crypterrrrr.42web.io/img_055742.png
 https://crypto-com-web.square.site/
 https://crystalion.getron.in.net/verification.google
 https://csplay168.games/aplikasi/Csplay138.apk
+https://csplay168.site/aplikasi/Csplay138.apk
 https://ct-11q.moxitron.in.net/verification.google
 https://cubana.cloud/LogMeInResolve_Unattended.msi
 https://cubana.cloud/zoom.meeting-online/Windows/download.php
@@ -16747,6 +16852,7 @@ https://cvk6.freespe.in.net/verification.google
 https://cyber-node.tectoniview.in.net/verification.google
 https://d1h167kqs4nc739l03ng.edoctransfer.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 https://d1sapp-vvire.disapp43squithes.coupons/yskkou
+https://d3kuvingv0kz95.cloudfront.net/tgp/TASK769680691003_MarkEnd_/MOVIE_APP_1773458213152.apk
 https://d3pk6xm84jcfh3.cloudfront.net/tgp/TASK769680691003_MarkEnd_/MOVIE_APP_1771740178796.apk
 https://d3ploy-mesh.idyllmuscat.in.net/verification.google
 https://da1113.0r6ecdax.work/android/aaseoy_2.2.6/aaseoy_2.2.6_82375752.apk
@@ -16771,6 +16877,7 @@ https://darkspice.bakhkondach.in.net/internal-proxy-xj4
 https://darktimber.deepwood.in.net/log_val
 https://darkview.nightvision.coupons/lens_mod
 https://darkwater.deepwave.in.net/depth_id
+https://data-base-00.mondolavoro.in.net/verification.google
 https://data-base-101.petitjardin.in.net/verification.google
 https://data-base-v3.mondosolido.in.net/verification.google
 https://data-base-v4.mondoluce.in.net/verification.google
@@ -16830,6 +16937,7 @@ https://dev-ruddro.github.io/Facebook-Login-Page/
 https://dev-test-01.kristallwelt.in.net/verification.google
 https://dev-test-hub.altamontagna.in.net/verification.google
 https://dev-test-node.sturmwelle.in.net/verification.google
+https://dev-test-unit.grossesystem.in.net/verification.google
 https://dev.flash5saver.coupons/webclient
 https://devc.ws/%D0%92%D0%BE%D0%BEtst%D0%B0%D1%80%D1%80%D0%B5%D0%B3yos%D1%8564.zip
 https://devc.ws/%D0%92%D0%BE%D0%BEtstapp%D0%B5%D0%B3%D1%8564.zip
@@ -16914,6 +17022,7 @@ https://drive.usercontent.google.com/download
 https://drivelogic.fastlane.coupons/route_ref
 https://drp.greenenergygroup.org/LunX.zip
 https://drywind.sandwave.coupons/heat_val
+https://dshqj1.getron.in.net/verification.google
 https://dsjeqk1.pages.dev/gp/most-gifted/books/4718/ref=zg_mg_nav_books_3_4725
 https://dtp-gorod.lol/VIDEO_28022026.apk
 https://du5t0-frame.lakepit.in.net/verification.google
@@ -17124,6 +17233,7 @@ https://foll-v12.excitfollower.in.net/verification.google
 https://ford-core.ironford.in.net/verification.google
 https://ford-sync.ironford.in.net/verification.google
 https://forest-deep-sync-node.wildfern.ru/service/verification.google
+https://forest-entity.cc/telegram.txt
 https://forest-run.oaktrail.in.net/verification.google
 https://forestfrond.wildfern.in.net/service/verification.google
 https://forestleaf.bluefern.in.net/node_33-sync-patch
@@ -17245,6 +17355,8 @@ https://gen-unit.quantoris.in.net/verification.google
 https://geneexp.getreplay.in.net/verification.google
 https://genefrost.keysum.in.net/verification.google
 https://genom-inde.getontra.in.net/verification.google
+https://geo-foundation.vg/
+https://geo-foundation.vg/police.pdf
 https://geo-fresh-node.freshcliff.ru/service/verification.google
 https://geo-p1levector.geodesistpile.in.net/verification.google
 https://geo-rock-sync-base.swiftcanyon.ru/service/verification.google
@@ -17259,6 +17371,7 @@ https://ghost-node.cybergeist.in.net/verification.google
 https://gi9d0czb.serve5woodman.digital/
 https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/raw/refs/heads/main/Forgotten-Runiverse-Bot/Utils/Clicker_Cheat_Api_Game_Bot_Auto_Forgotten_Runiverse_Farm_Crypto_lozengeways.zip
 https://github.com/365player/cracked-save-to-microsoft-one-drive-extension/raw/refs/heads/main/cruck/one_drive_to_save_cracked_microsoft_extension_v2.2-beta.5.zip
+https://github.com/4realgg/Helper-Update1.0/releases/download/update1/mw--58389c35-c76b-46ac-b33e-7efe83b65fda.zip
 https://github.com/Abbashussain5/Hacking-Cheatsheets/raw/refs/heads/main/Responder/Cheatsheets_Hacking_3.4.zip
 https://github.com/Admv9/repo-cheat-modpack/raw/refs/heads/main/calculary/modpack_repo_cheat_v3.0.zip
 https://github.com/Agesha/HellDivers2-FPS-Boost/releases/download/v1.1/HD2.7z
@@ -17266,6 +17379,7 @@ https://github.com/AkashAdhikari01/StomCheat/raw/refs/heads/main/stomcheat/src/m
 https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip
 https://github.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/raw/refs/heads/master/CSS/medium-for-cracked-extension-enhancer-1.4.zip
 https://github.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/raw/refs/heads/master/circumcone/cracked-enhancer-for-medium-extension.zip
+https://github.com/Alan06121/HeartLib-Google-Colab/raw/refs/heads/main/seme/Colab-Google-Heart-Lib-v1.9-beta.1.zip
 https://github.com/Anatolylimbless794/Vape-V4-Crack-Kangaroo/raw/refs/heads/main/Londres/Kangaroo-Crack-Vape-1.2.zip
 https://github.com/Andreamana25/Roblox-Delta/raw/refs/heads/master/sparch/Delta_Roblox_v2.3.zip
 https://github.com/BannerChameleonAura/excel-free-cracked-2026/releases/download/new/ExcelSetup_2026_x64.rar
@@ -17276,9 +17390,13 @@ https://github.com/CARLOSOLIVER606/zips/raw/refs/heads/main/Application.zip
 https://github.com/CJorrr/Roblox-Ronin/raw/refs/heads/master/devour/Roblox-Ronin-2.3.zip
 https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/raw/refs/heads/main/amidofluorid/figma_cracked_enhancer_extension_for_1.7-beta.4.zip
 https://github.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/raw/refs/heads/main/.vs/Apeiron-Nft-Bot/FileContentIndex/Farm-Bot-Clicker-Crypto-Cheat-Nft-Apeiron-Auto-Game-Api-Hack-v2.1-alpha.2.zip
+https://github.com/Cuvanimta/ecoscroll/raw/refs/heads/main/assets/Software-1.6.zip
 https://github.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/raw/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip
+https://github.com/Degon3399/XTTS_V2/raw/refs/heads/main/TTS/encoder/XTT_v3.6.zip
 https://github.com/Dinonuggys-a1/Luna/raw/refs/heads/main/assets/Software_fargoing.zip
+https://github.com/DjordjeDacovic/vmux-examples/raw/refs/heads/master/claude/skills/vmux_examples_v2.6.zip
 https://github.com/DreamBursarStretch9/Battlefield-6/releases/download/Latest/Azuro.zip
+https://github.com/EZdanshak/bua/raw/refs/heads/main/screenshot/Software-1.4.zip
 https://github.com/Ek2025/cracked-save-to-trello-board-extension/raw/refs/heads/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip
 https://github.com/Esad-code/execccc/releases/download/exxxxxxecc/Executor.zip
 https://github.com/FachrulRafli/Fortnite-Chaos/raw/refs/heads/main/fady/Fortnite_Chaos_v2.0.zip
@@ -17297,7 +17415,9 @@ https://github.com/IronTraderKnow/RLoader/raw/refs/heads/main/RLoader.zip
 https://github.com/IronTraderKnow/World-of-Tanks/raw/refs/heads/main/Loader.zip
 https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip
 https://github.com/JVNTfks/cracked-webpage-translator-extension/raw/refs/heads/main/febricula/webpage-cracked-extension-translator-v3.5.zip
+https://github.com/KADOCHIMO/Embeddable-RAG-Chatbot-Widget--JavaScript-Cloudflare-Workers-FullStack/raw/refs/heads/main/src/Stack_Script_Workers_Java_Cloudflare_Embeddable_Full_Chatbot_RA_Widget_v1.6.zip
 https://github.com/Karenmoreno12/Pet-Simulator-99/raw/refs/heads/main/subject/Simulator_Pet_2.9.zip
+https://github.com/LAHBIBCHRAIKI/UnityCopilot/raw/refs/heads/main/Docs/Unity_Copilot_v2.0.zip
 https://github.com/LoicCabrel/YimMenuV2/raw/refs/heads/main/sighter/Yim_Menu_1.4.zip
 https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/raw/refs/heads/main/jogglety/assistant-cracked-tab-extension-grouping-2.8.zip
 https://github.com/MB389347/Fortnite-Chaos/raw/refs/heads/main/interlaminar/Fortnite_Chaos_v1.7.zip
@@ -17307,8 +17427,10 @@ https://github.com/Matsuzaka-U/Facial-Unification/raw/refs/heads/main/Content/Fa
 https://github.com/MaybeDesxie7/cracked-webpage-annotator-extension/raw/refs/heads/main/decrepitation/cracked-annotator-webpage-extension-2.1-beta.4.zip
 https://github.com/Mohamed45508/yimmenu-v2/raw/refs/heads/main/potlike/yimmenu-v-v3.1.zip
 https://github.com/NaoMeEsquece/Blox-Fruits/raw/refs/heads/main/catastrophically/Fruits_Blox_1.1.zip
+https://github.com/Ne9arr/complete_deep-learning-nvidia_gpu-setup-linux/raw/refs/heads/main/fingerless/gpu-deep-nvidia-linux-learning-complete-setup-2.8.zip
 https://github.com/Niwatheking/messari-crack/raw/refs/heads/main/src/__pycache__/crack-messari-v3.7-beta.2.zip
 https://github.com/NusaibaTworat2005/AlyaBot-MD/raw/refs/heads/main/commands/utils/MD-Alya-Bot-v1.9.zip
+https://github.com/Paphellas/Stewie_it_v1/raw/refs/heads/master/image_assests/Stewie_v_it_3.6-beta.4.zip
 https://github.com/Paradox251/Lynx/raw/refs/heads/main/counterreprisal/Software-1.9.zip
 https://github.com/Pheap123/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/raw/refs/heads/main/extinguishable/Trading-Crypto-Bot-l-Exchange-Blum-Cheat-Hack-Farm-blumcrypto-Chain-1.4.zip
 https://github.com/Pollob99/cracked-tab-session-saver-extension/raw/refs/heads/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip
@@ -17337,6 +17459,7 @@ https://github.com/UnlockedSine/lod/releases/download/looo/loader.zip
 https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-3.7.zip
 https://github.com/Vitor-gf/cs2/raw/refs/heads/main/2010/sharp/stripper/cs-3.7.zip
 https://github.com/YelitzaMarcano79/DOOMQL/raw/refs/heads/main/data/Software_3.8-beta.1.zip
+https://github.com/aBandicootCalledSmashes/airflow-logs-cleanup/raw/refs/heads/main/tartufish/airflow-cleanup-logs-rucervine.zip
 https://github.com/abloe666/opensrc/raw/refs/heads/main/src/Software_3.8.zip
 https://github.com/ademmartinez71-cmd/test/raw/refs/heads/main/XClient.exe
 https://github.com/adyvot/update/raw/refs/heads/main/0urkspr63xoryra2.exe
@@ -17345,10 +17468,13 @@ https://github.com/akmal101011/Vouch/raw/refs/heads/main/internal/logging/Softwa
 https://github.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/sideboard/Bot-Crypto-Farm-Auto-Clicker-Game-Api-Token-Wild-Forest-Hack-Cheat-3.5.zip
 https://github.com/alexandr300314-prog/subVerison_GTAV_Hack/raw/refs/heads/main/subVersion/d3d9/GTA_Verison_sub_Hack_2.3.zip
 https://github.com/alyamani18/mcp-agent-bridge/raw/refs/heads/main/config/mcp_agent_bridge_encyclopedial.zip
+https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/pkg/logger/huobao_drama_v2.4.zip
 https://github.com/argadia38/LAMPA-Client/raw/refs/heads/main/Eridanid/LAMP_Client_v2.8.zip
+https://github.com/atharva-netwin/DungeonRNG-KeylessRun/raw/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zip
 https://github.com/b1tcherss/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 https://github.com/beamstar/cheatengine-mcp-bridge/raw/refs/heads/main/MCP_Server/cheatengine_bridge_mcp_3.6.zip
 https://github.com/bebasmaingta5-rgb/Load/releases/download/lol/loader.zip
+https://github.com/bioeu/Agentic-MCP-Skill/raw/refs/heads/master/cli/utils/Skill_MC_Agentic_woolskin.zip
 https://github.com/blackwall0220/roblox-discord-status-bot/raw/refs/heads/master/Pelodytes/status-roblox-discord-bot-v2.8.zip
 https://github.com/bluexxim/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 https://github.com/boat077/mail-mcp-bridge/raw/refs/heads/main/imprestable/mail-mcp-bridge-3.6.zip
@@ -17398,6 +17524,7 @@ https://github.com/crminfos/yos/raw/refs/heads/main/gfplkger%2098ni43gnm%2098.zi
 https://github.com/ddandjohnnyfilms/ftp-client/raw/refs/heads/main/ehex.txt
 https://github.com/ddandjohnnyfilms/ftp-client/raw/refs/heads/main/size.txt
 https://github.com/deepSHRAVI/cracked-enhancer-for-asana-extension/raw/refs/heads/main/unjuvenile/enhancer-extension-cracked-for-asana-2.9.zip
+https://github.com/dilhansaminda/anti-power/raw/refs/heads/master/tests/scripts/anti-power-v3.1.zip
 https://github.com/dip123in/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.1.zip
 https://github.com/driptch/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.exe
 https://github.com/drnxx2/Pet-Simulator-99/raw/refs/heads/main/colorful/Simulator_Pet_v3.5.zip
@@ -17411,6 +17538,8 @@ https://github.com/exapikemanupgrade83/world-of-tanks-external/releases/download
 https://github.com/faishal10/backup-files/raw/refs/heads/main/archives/1.rar
 https://github.com/farhangalih14/nixda-vm-perm/raw/refs/heads/main/Framework/ext/freetype/include/freetype/config/nixda_vm_perm_v2.3.zip
 https://github.com/flowwysh/Swift-Executor/raw/refs/heads/main/Swift.exe
+https://github.com/frank235-alt/ZenShellHub/raw/refs/heads/master/static/Zen_Shell_Hub_2.1.zip
+https://github.com/frank235-alt/ZenShellHub/raw/refs/heads/master/static/vendor/Hub-Zen-Shell-v3.9.zip
 https://github.com/franklainkoloko/Roblox-multi-tool/raw/refs/heads/main/data/Roblox_multi_tool_v2.4.zip
 https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/raw/refs/heads/main/whoo/weapon_game_hacks_upgrade_Showdown_v1.1.zip
 https://github.com/gokulakrishnan611/docker-cheatsheet/raw/refs/heads/main/undercrest/cheatsheet-docker-1.4-beta.5.zip
@@ -17459,6 +17588,7 @@ https://github.com/moha-create/cracked-tab-scheduler-extension/raw/refs/heads/ma
 https://github.com/nasernazem/TInjector_Symbi/raw/refs/heads/master/stub/Injector_Symbi_T_v3.3.zip
 https://github.com/nbas1ss/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.exe
 https://github.com/nguyetgggr5/iMazing-Crack-Repack/raw/refs/heads/main/georgiadesite/Mazing-i-Crack-Repack-2.5-alpha.1.zip
+https://github.com/nivedh786/subdown/raw/refs/heads/main/trabeation/Software-3.7.zip
 https://github.com/nobo8/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/MACR_ROBLO_v3.0-beta.5.zip
 https://github.com/oluwadamilare777/app/raw/refs/heads/main/Launcher.zip
 https://github.com/omernizam/AITOPIA-Chrome-Extension-Cracked/raw/refs/heads/main/histomorphologically/Extension-Chrome-AITOPI-Cracked-v2.6.zip
@@ -17469,6 +17599,7 @@ https://github.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/raw/refs/heads/m
 https://github.com/pesanuntukanda/chatgpt-enterprise-premium-unlocked/raw/branch/scourwort/unlocked_chatgpt_premium_enterprise_1.9.zip
 https://github.com/prosyt/Password-tester/raw/refs/heads/main/assets/favicon/tester-Password-v3.0-beta.3.zip
 https://github.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/raw/refs/heads/main/Spaniardo/Script-Knife-Arena-Roblox-2.6-alpha.4.zip
+https://github.com/rahul123gautam/my-crazy-skills/raw/refs/heads/main/skills/workflows/skills_crazy_my_1.7.zip
 https://github.com/ravigurjar21/PC-Fields-of-Mistria-cheats/raw/refs/heads/main/downcast/Fields_Mistria_cheats_of_P_3.9.zip
 https://github.com/rd898/package/raw/refs/heads/main/json/1.json
 https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip
@@ -17477,13 +17608,16 @@ https://github.com/rtsh1/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.e
 https://github.com/rutvikpatel8854/Ultra-Game-Performance-Kit/raw/refs/heads/main/sibness/Game-Ultra-Performance-Kit-v1.1.zip
 https://github.com/ryanpheonix09/Cosmo-Legacy/raw/refs/heads/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip
 https://github.com/sameeronwheels/cracked-save-to-milanote-extension/raw/refs/heads/main/nonnucleated/to-extension-save-cracked-milanote-revalidate.zip
+https://github.com/samuelhaxk/41369/raw/refs/heads/main/256/233.txt
 https://github.com/sartakayy/cardian/raw/refs/heads/main/docs/Software-2.0.zip
 https://github.com/satish-ss/Roblox-Matcha/raw/refs/heads/master/bacula/Matcha-Roblox-v3.9-beta.1.zip
 https://github.com/selwanhasnaoui-max/Valorant-Plus-Cheat/raw/refs/heads/main/Valorant%20Plus/drectx/Valorant-Cheat-Plus-2.3.zip
 https://github.com/sh1nneu/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 https://github.com/shafhyfox/99-Nights-in-The-Forest-Script/raw/refs/heads/main/Scripts/Script_Nights_The_in_Forest_2.7.zip
 https://github.com/sherinshamr/neon-yard-shop/raw/refs/heads/master/src/core/models/yard-shop-neon-2.8.zip
+https://github.com/shippingtechnologymovie/ai/releases/download/123123/Updater-win-Setup.exe
 https://github.com/shura-gh0st69/peer_hire_hackhazards_25/raw/refs/heads/main/smart_contracts/contracts/utils/hire-peer-hackhazards-3.3-beta.5.zip
+https://github.com/sill262007/GitHub-Issue-Automation-Script/raw/refs/heads/master/assets/Script-Issue-Automation-Hub-Git-v1.4.zip
 https://github.com/simpotnii-2000se0/-Photoshop-BestCracked-2026/releases/download/new/Photoshop_2026-x64-setup.rar
 https://github.com/sinkable-catawba849/VapeV4ForRoblox/raw/refs/heads/main/guis/For-Vape-Roblox-avoidable.zip
 https://github.com/soloobr/z-loops/raw/refs/heads/master/UpdateLM/Properties/loops_z_v2.9.zip
@@ -17500,8 +17634,11 @@ https://github.com/stevencohn8888-max/t354454323432/raw/refs/heads/main/Document
 https://github.com/swissmet/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 https://github.com/szenoky/app/raw/refs/heads/main/Application.zip
 https://github.com/t1llnigh/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.exe
+https://github.com/taavish2008/nitrogen-bizhawk-ai-agent/raw/refs/heads/main/tests/ai-bizhawk-agent-nitrogen-v3.2-alpha.5.zip
 https://github.com/tahahosseini8/untaken/raw/refs/heads/main/acidoproteolytic/Software-v2.0-beta.3.zip
 https://github.com/teskkkkk/cracked-todoist-for-chrome/raw/refs/heads/main/fieldworker/cracked-chrome-for-todoist-v3.0.zip
+https://github.com/tip27ice/git-hunks/raw/refs/heads/main/stomachal/git_hunks_3.4.zip
+https://github.com/tip27ice/git-hunks/raw/refs/heads/main/stomachal/hunks-git-v1.0.zip
 https://github.com/tkboys123/whatsapp-bridge-mcp/raw/refs/heads/master/bridge/whatsapp_mcp_bridge_washhouse.zip
 https://github.com/user-attachments/files/16784059/p.zip
 https://github.com/utwb0/app/raw/refs/heads/main/Application.zip
@@ -17509,6 +17646,7 @@ https://github.com/v1tterys/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofe
 https://github.com/vansh1772/cracked-save-to-todoist-extension/raw/refs/heads/master/app/src/androidTest/extension-cracked-todoist-to-save-v2.0.zip
 https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip
 https://github.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/raw/refs/heads/main/Seekers-of-Tokane-Exp/Seekers.Tests/Bot_Api_Cheat_Seekers_of_Game_Farm_Auto_Clicker_Crypto_Hack_Tokane_1.7.zip
+https://github.com/xonigashi/ai-coding-kit/raw/refs/heads/master/protocols/coding-kit-ai-v3.9.zip
 https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension/raw/refs/heads/main/squashy/jira-work-cracked-to-management-extension-save-1.9-alpha.2.zip
 https://github.com/yenohjio/teach-JavaScript/raw/refs/heads/main/tanistry/Java-Script-teach-v3.9.zip
 https://github.com/yurism123/rbxfpsunlocker/raw/refs/heads/main/puppetman/Software_1.4-beta.3.zip
@@ -17531,6 +17669,7 @@ https://glasscube.glasspurity.coupons/render_cache
 https://glob-k2.siliconcanyon.in.net/verification.google
 https://global-net-1.mondosolido.in.net/verification.google
 https://global-net-2.mondoluce.in.net/verification.google
+https://global-net-x.mondolavoro.in.net/verification.google
 https://global-site-check.bonus3basket.coupons/webclient
 https://global-sync-srv.orbit6crate.coupons/webclient
 https://globalfruit.kiwi9ship3.coupons/ship_log
@@ -17762,6 +17901,7 @@ https://internal-dns-v.schnellkraft.in.net/verification.google
 https://internal-dns.cielonumerique.in.net/verification.google
 https://internal-promo-link.federleicht.coupons/amdkmdag
 https://internal-promo-zone.perkparcel.coupons/webclient
+https://internal-sys.petitreseau.in.net/verification.google
 https://internal-web-proxy.plum5parcel.coupons/webclient
 https://interracial-buyers-keyword-enclosure.trycloudflare.com/pm/1PhJ14.wsf
 https://interracial-buyers-keyword-enclosure.trycloudflare.com/pm/PhF17.wsf
@@ -17990,9 +18130,15 @@ https://loader-400.pages.dev/RANKUP/FREE/FreeFortniteCheat.zip
 https://loader-400.pages.dev/RANKUP/FREE/FreeFortniteCleaner.zip
 https://loader-400.pages.dev/RANKUP/FREE/FreeTempSpoofer.zip
 https://loaderdrive.bluebay.in.net/verification.google
+https://local-host.life/download_raw/9U116InjUiX3h3LY/ser.txt
+https://local-host.life/download_raw/Cw9aoa7PZwvcnVU5/mer.txt
+https://local-host.life/download_raw/Ig4TEtDBfygg1gOZ/sabvs.txt
+https://local-host.life/download_raw/Rgple3DXXxCUvYUB/images.png
+https://local-host.life/download_raw/gNhDrkROldD6EkRc/Xeno.png
 https://local-hub-01.ondeviva.in.net/verification.google
 https://local-hub-sec.espacerapide.in.net/verification.google
 https://local-hub-test.petitbureau.in.net/verification.google
+https://local-hub-v9.starkewelle.in.net/verification.google
 https://local-s1.patternshadow.in.net/verification.google
 https://local.inner.website/pb0a0e0f2q8b60407d08aa7b661oe2313772.html
 https://localhub.pack1kiwi.coupons/area_scan
@@ -18133,6 +18279,7 @@ https://metalkey.stronghold.coupons/security_init
 https://metr-k44.metricfusion.in.net/verification.google
 https://metr1-hinge.skyip.in.net/verification.google
 https://metric2-route.starload.in.net/verification.google
+https://metrics-core.grossesystem.in.net/verification.google
 https://metrics-node.altamontagna.in.net/verification.google
 https://metrics-sync.kristallwelt.in.net/verification.google
 https://metro-net.metropulse.in.net/verification.google
@@ -18514,6 +18661,7 @@ https://post-host.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://posteroutlet.getontra.in.net/verification.google
 https://potencializafinanceiramente.s3.us-east-005.backblazeb2.com/aumento.html
 https://power-grid-88.starkstrom.in.net/verification.google
+https://power-link-v8.starkewelle.in.net/verification.google
 https://powerbeat.ironstar.coupons/press_ref
 https://powerlink.ironwave.in.net/press_ref
 https://pr0ph3t.fortune23tv.coupons/msdn
@@ -18547,6 +18695,7 @@ https://pub-063eec1f9e5b40fb809e9cdf719e6add.r2.dev/yalx.txt
 https://pub-085644fd7c304ed49d4ff78a323bd506.r2.dev/2.19anSogouExplorer.zip
 https://pub-0fd793cd3be34819ad48d5cf2e05bb72.r2.dev/sev.dll
 https://pub-1e4f4c4731564bcfb8e331f9603bf557.r2.dev/index.html
+https://pub-20c44d94ab5743fbb2453666aab8608b.r2.dev/SECURITY_DOCUMENT_2025.exe
 https://pub-21135cb8269d409caad098c2e96eaa7f.r2.dev/trqd_81.vbs
 https://pub-2159475f6e9c446cae5a8cabbb7c98e4.r2.dev/GTAVietUpdate.exe
 https://pub-2b8eae5fab34490c95c0102d66e16b5d.r2.dev/INVITATIONCARD.msi
@@ -18563,6 +18712,8 @@ https://pub-4c182737706e41d29aee6cc5517f834d.r2.dev/qZtvyHlFRTQ244.bin
 https://pub-570ecbc453d2491bb6d62cb389ff791e.r2.dev/index.html
 https://pub-5ac5a2fdeab84741ad7fa0b4fde419cf.r2.dev/LogMeInResolve_Unattended.msi
 https://pub-6f7fb0d0ae0f40fbad68520fce393d92.r2.dev/222.txt
+https://pub-72dca37cb1ce4100a2f8db504cb4502f.r2.dev/ScreenConnect.ClientSetup.msi
+https://pub-7a7113e589a343048ed0ffdfeb7cd4a6.r2.dev/Zoom%20Setup.exe
 https://pub-826b2258a9f74a40abe9ee543f2409a4.r2.dev/3.600Hnevsak.zip
 https://pub-82c11a7adc094bf9bad661435ebdfce8.r2.dev/Docx_xlx_01.vbs
 https://pub-89f330ac508f4d138c9dff7c99d7fbe7.r2.dev/Docx_rqs_02.vbs
@@ -18613,6 +18764,7 @@ https://qploits.online/%D0%9Did%D0%B5%D1%81it%D1%83%20v2.zip
 https://qploits.online/D%D0%B5uscit%D1%83%20v1.zip
 https://qpzv.onfloor.in.net/verification.google
 https://qr-2.weldoxis.in.net/verification.google
+https://qsve.cyrd.live/Cyrex.zip
 https://qto12q.top/pdf.ps1
 https://quan-edge.quantovault.in.net/verification.google
 https://quan-sys.quantoris.in.net/verification.google
@@ -18685,14 +18837,19 @@ https://raw.githubusercontent.com/AkashAdhikari01/StomCheat/refs/heads/main/stom
 https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip
 https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/refs/heads/master/CSS/medium-for-cracked-extension-enhancer-1.4.zip
 https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/refs/heads/master/circumcone/cracked-enhancer-for-medium-extension.zip
+https://raw.githubusercontent.com/Alan06121/HeartLib-Google-Colab/refs/heads/main/seme/Colab-Google-Heart-Lib-v1.9-beta.1.zip
 https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip
 https://raw.githubusercontent.com/Betinhocapoeira/mcp-bsl-lsp-bridge/refs/heads/main/directories/mcp-bsl-lsp-bridge-v2.7.zip
 https://raw.githubusercontent.com/Bond004/Mutah-Gambling-Script-Hack-Cheat-Predictor-Strategies-Keydrop-csmoney-csgoskins/refs/heads/main/biceps/Hack_Predictor_Script_Keydrop_csmoney_csgoskins_Gambling_Strategies_Mutah_Cheat_3.2.zip
 https://raw.githubusercontent.com/CAMUNLOCK/Silentum-Spoofer/refs/heads/main/Silentum_Spoofer.exe
 https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/figma_cracked_enhancer_extension_for_1.7-beta.4.zip
 https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/refs/heads/main/.vs/Apeiron-Nft-Bot/FileContentIndex/Farm-Bot-Clicker-Crypto-Cheat-Nft-Apeiron-Auto-Game-Api-Hack-v2.1-alpha.2.zip
+https://raw.githubusercontent.com/Cuvanimta/ecoscroll/refs/heads/main/assets/Software-1.6.zip
 https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip
+https://raw.githubusercontent.com/Degon3399/XTTS_V2/refs/heads/main/TTS/encoder/XTT_v3.6.zip
 https://raw.githubusercontent.com/Dinonuggys-a1/Luna/refs/heads/main/assets/Software_fargoing.zip
+https://raw.githubusercontent.com/DjordjeDacovic/vmux-examples/refs/heads/master/claude/skills/vmux_examples_v2.6.zip
+https://raw.githubusercontent.com/EZdanshak/bua/refs/heads/main/screenshot/Software-1.4.zip
 https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip
 https://raw.githubusercontent.com/FachrulRafli/Fortnite-Chaos/refs/heads/main/fady/Fortnite_Chaos_v2.0.zip
 https://raw.githubusercontent.com/Furinini/cracked-webpage-bookmark-manager-extension/refs/heads/main/Rajput/webpage-cracked-manager-extension-bookmark-3.6.zip
@@ -18703,7 +18860,9 @@ https://raw.githubusercontent.com/Hatimad/cracked-enhancer-for-zoom-extension/re
 https://raw.githubusercontent.com/Heaven323555/typescript-sdk/refs/heads/main/src/typescript-sdk-v1.2.zip
 https://raw.githubusercontent.com/I-Krushna/typingmonkey/refs/heads/main/assets/Software-1.4.zip
 https://raw.githubusercontent.com/Itzzwojx/claude-telegram-relay/refs/heads/master/daemon/relay_telegram_claude_2.8.zip
+https://raw.githubusercontent.com/KADOCHIMO/Embeddable-RAG-Chatbot-Widget--JavaScript-Cloudflare-Workers-FullStack/refs/heads/main/src/Stack_Script_Workers_Java_Cloudflare_Embeddable_Full_Chatbot_RA_Widget_v1.6.zip
 https://raw.githubusercontent.com/Karenmoreno12/Pet-Simulator-99/main/subject/Simulator_Pet_2.9.zip
+https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/refs/heads/main/Docs/Unity_Copilot_v2.0.zip
 https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/assistant-cracked-tab-extension-grouping-2.8.zip
 https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/refs/heads/main/interlaminar/Fortnite_Chaos_v1.7.zip
 https://raw.githubusercontent.com/Madskkrrtt/bins/refs/heads/main/scale.txt
@@ -18713,8 +18872,10 @@ https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helpe
 https://raw.githubusercontent.com/Matsuzaka-U/Facial-Unification/main/Content/Facial_Unification_v2.6-beta.1.zip
 https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/refs/heads/main/decrepitation/cracked-annotator-webpage-extension-2.1-beta.4.zip
 https://raw.githubusercontent.com/NaoMeEsquece/Blox-Fruits/main/catastrophically/Fruits_Blox_1.1.zip
+https://raw.githubusercontent.com/Ne9arr/complete_deep-learning-nvidia_gpu-setup-linux/refs/heads/main/fingerless/gpu-deep-nvidia-linux-learning-complete-setup-2.8.zip
 https://raw.githubusercontent.com/Noam-Space/nullsec-crypto/main/python/crypto_nullsec_3.0.zip
 https://raw.githubusercontent.com/NusaibaTworat2005/AlyaBot-MD/main/commands/utils/MD-Alya-Bot-v1.9.zip
+https://raw.githubusercontent.com/Paphellas/Stewie_it_v1/refs/heads/master/image_assests/Stewie_v_it_3.6-beta.4.zip
 https://raw.githubusercontent.com/Paradox251/Lynx/refs/heads/main/counterreprisal/Software-1.9.zip
 https://raw.githubusercontent.com/Pheap123/Blum-Crypto-Trading-Bot-P2P-Chain-Exchange-blumcrypto-Farm-Hack-Cheat-4l/refs/heads/main/extinguishable/Trading-Crypto-Bot-l-Exchange-Blum-Cheat-Hack-Farm-blumcrypto-Chain-1.4.zip
 https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip
@@ -18740,6 +18901,7 @@ https://raw.githubusercontent.com/UMARi4u2get-cmd/encoder/refs/heads/main/includ
 https://raw.githubusercontent.com/VaibhavDhopte/claudecode-telegram/refs/heads/main/hooks/claudecode-telegram-3.7.zip
 https://raw.githubusercontent.com/Vitor-gf/cs2/main/2010/sharp/stripper/cs-3.7.zip
 https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/data/Software_3.8-beta.1.zip
+https://raw.githubusercontent.com/aBandicootCalledSmashes/airflow-logs-cleanup/refs/heads/main/tartufish/airflow-cleanup-logs-rucervine.zip
 https://raw.githubusercontent.com/abdullah7cv/Axios-with-proxies/refs/heads/main/opalish/proxies-Axios-with-2.5.zip
 https://raw.githubusercontent.com/abloe666/opensrc/main/src/Software_3.8.zip
 https://raw.githubusercontent.com/ademmartinez71-cmd/test/refs/heads/main/XClient.exe
@@ -18748,9 +18910,12 @@ https://raw.githubusercontent.com/akmal101011/Vouch/main/internal/logging/Softwa
 https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/refs/heads/main/sideboard/Bot-Crypto-Farm-Auto-Clicker-Game-Api-Token-Wild-Forest-Hack-Cheat-3.5.zip
 https://raw.githubusercontent.com/alexandr300314-prog/subVerison_GTAV_Hack/refs/heads/main/subVersion/d3d9/GTA_Verison_sub_Hack_2.3.zip
 https://raw.githubusercontent.com/alyamani18/mcp-agent-bridge/refs/heads/main/config/mcp_agent_bridge_encyclopedial.zip
+https://raw.githubusercontent.com/anzoafk/huobao-drama/refs/heads/master/pkg/logger/huobao_drama_v2.4.zip
 https://raw.githubusercontent.com/argadia38/LAMPA-Client/refs/heads/main/Eridanid/LAMP_Client_v2.8.zip
+https://raw.githubusercontent.com/atharva-netwin/DungeonRNG-KeylessRun/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zip
 https://raw.githubusercontent.com/b1tcherss/FiveM-Spoofer/refs/heads/main/CFXBypass.exe
 https://raw.githubusercontent.com/beamstar/cheatengine-mcp-bridge/refs/heads/main/MCP_Server/cheatengine_bridge_mcp_3.6.zip
+https://raw.githubusercontent.com/bioeu/Agentic-MCP-Skill/refs/heads/master/cli/utils/Skill_MC_Agentic_woolskin.zip
 https://raw.githubusercontent.com/bluexxim/FiveM-Spoofer/refs/heads/main/CFXBypass.exe
 https://raw.githubusercontent.com/boat077/mail-mcp-bridge/refs/heads/main/imprestable/mail-mcp-bridge-3.6.zip
 https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/refs/heads/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip
@@ -18761,6 +18926,7 @@ https://raw.githubusercontent.com/clieez/Cracked-Price-History-Tracker-Spend-Len
 https://raw.githubusercontent.com/ddandjohnnyfilms/ftp-client/refs/heads/main/ehex.txt
 https://raw.githubusercontent.com/ddandjohnnyfilms/ftp-client/refs/heads/main/size.txt
 https://raw.githubusercontent.com/deepSHRAVI/cracked-enhancer-for-asana-extension/refs/heads/main/unjuvenile/enhancer-extension-cracked-for-asana-2.9.zip
+https://raw.githubusercontent.com/dilhansaminda/anti-power/refs/heads/master/tests/scripts/anti-power-v3.1.zip
 https://raw.githubusercontent.com/dip123in/ROBLOX-MACRO-V3.0.0/main/Language/ROBLO-MACR-1.1.zip
 https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip
 https://raw.githubusercontent.com/dunigghhh/Hii/refs/heads/main/asd.exe
@@ -18773,6 +18939,8 @@ https://raw.githubusercontent.com/evilgrou-tech/drive/refs/heads/main/launcher.b
 https://raw.githubusercontent.com/evilgrou-tech/drive/refs/heads/main/run_forex.bat
 https://raw.githubusercontent.com/faishal10/backup-files/refs/heads/main/archives/1.rar
 https://raw.githubusercontent.com/farhangalih14/nixda-vm-perm/main/Framework/ext/freetype/include/freetype/config/nixda_vm_perm_v2.3.zip
+https://raw.githubusercontent.com/frank235-alt/ZenShellHub/refs/heads/master/static/Zen_Shell_Hub_2.1.zip
+https://raw.githubusercontent.com/frank235-alt/ZenShellHub/refs/heads/master/static/vendor/Hub-Zen-Shell-v3.9.zip
 https://raw.githubusercontent.com/franklainkoloko/Roblox-multi-tool/main/data/Roblox_multi_tool_v2.4.zip
 https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/refs/heads/main/whoo/weapon_game_hacks_upgrade_Showdown_v1.1.zip
 https://raw.githubusercontent.com/gokulakrishnan611/docker-cheatsheet/refs/heads/main/undercrest/cheatsheet-docker-1.4-beta.5.zip
@@ -18813,6 +18981,7 @@ https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/stub/Injecto
 https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/refs/heads/master/stub/Injector_Symbi_T_v3.3.zip
 https://raw.githubusercontent.com/nbas1ss/Silentum-Spoofer/refs/heads/main/Silentum_Spoofer.exe
 https://raw.githubusercontent.com/nguyetgggr5/iMazing-Crack-Repack/main/georgiadesite/Mazing-i-Crack-Repack-2.5-alpha.1.zip
+https://raw.githubusercontent.com/nivedh786/subdown/refs/heads/main/trabeation/Software-3.7.zip
 https://raw.githubusercontent.com/nobo8/ROBLOX-MACRO-V3.0.0/main/Language/MACR_ROBLO_v3.0-beta.5.zip
 https://raw.githubusercontent.com/omernizam/AITOPIA-Chrome-Extension-Cracked/refs/heads/main/histomorphologically/Extension-Chrome-AITOPI-Cracked-v2.6.zip
 https://raw.githubusercontent.com/ounissi-meriem/axon/main/src/core/Software-v1.8.zip
@@ -18820,17 +18989,20 @@ https://raw.githubusercontent.com/p4blo3d/cracked-enhancer-for-dropbox-extension
 https://raw.githubusercontent.com/parroalex01/Dumper-FiveM-And-Custom-Launcher/refs/heads/main/dissever/And_Launcher_Dumper_Five_Custom_v2.9.zip
 https://raw.githubusercontent.com/prosyt/Password-tester/refs/heads/main/assets/favicon/tester-Password-v3.0-beta.3.zip
 https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/refs/heads/main/Spaniardo/Script-Knife-Arena-Roblox-2.6-alpha.4.zip
+https://raw.githubusercontent.com/rahul123gautam/my-crazy-skills/refs/heads/main/skills/workflows/skills_crazy_my_1.7.zip
 https://raw.githubusercontent.com/ravigurjar21/PC-Fields-of-Mistria-cheats/refs/heads/main/downcast/Fields_Mistria_cheats_of_P_3.9.zip
 https://raw.githubusercontent.com/rd898/package/refs/heads/main/json/1.json
 https://raw.githubusercontent.com/respalditorespaldito/repalditopro/refs/heads/main/CRYP.txt
 https://raw.githubusercontent.com/rutvikpatel8854/Ultra-Game-Performance-Kit/refs/heads/main/sibness/Game-Ultra-Performance-Kit-v1.1.zip
 https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/refs/heads/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip
 https://raw.githubusercontent.com/sameeronwheels/cracked-save-to-milanote-extension/main/nonnucleated/to-extension-save-cracked-milanote-revalidate.zip
+https://raw.githubusercontent.com/samuelhaxk/41369/refs/heads/main/256/233.txt
 https://raw.githubusercontent.com/sartakayy/cardian/refs/heads/main/docs/Software-2.0.zip
 https://raw.githubusercontent.com/selwanhasnaoui-max/Valorant-Plus-Cheat/refs/heads/main/Valorant%20Plus/drectx/Valorant-Cheat-Plus-2.3.zip
 https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip
 https://raw.githubusercontent.com/sherinshamr/neon-yard-shop/refs/heads/master/src/core/models/yard-shop-neon-2.8.zip
 https://raw.githubusercontent.com/shura-gh0st69/peer_hire_hackhazards_25/refs/heads/main/smart_contracts/contracts/utils/hire-peer-hackhazards-3.3-beta.5.zip
+https://raw.githubusercontent.com/sill262007/GitHub-Issue-Automation-Script/refs/heads/master/assets/Script-Issue-Automation-Hub-Git-v1.4.zip
 https://raw.githubusercontent.com/sinkable-catawba849/VapeV4ForRoblox/main/guis/For-Vape-Roblox-avoidable.zip
 https://raw.githubusercontent.com/soloobr/z-loops/refs/heads/master/UpdateLM/Properties/loops_z_v2.9.zip
 https://raw.githubusercontent.com/stevencohn8888-max/GJH/refs/heads/main/documento_pdf.7z
@@ -18840,11 +19012,15 @@ https://raw.githubusercontent.com/stevencohn8888-max/ghghg/refs/heads/main/SECUR
 https://raw.githubusercontent.com/stevencohn8888-max/ghjjhj/refs/heads/main/ENCRYPT.Ps1
 https://raw.githubusercontent.com/stevencohn8888-max/hj/refs/heads/main/ENCRYPTED.ps1
 https://raw.githubusercontent.com/stevencohn8888-max/t354454323432/refs/heads/main/Documento_6789789_pdf.cab
+https://raw.githubusercontent.com/taavish2008/nitrogen-bizhawk-ai-agent/refs/heads/main/tests/ai-bizhawk-agent-nitrogen-v3.2-alpha.5.zip
 https://raw.githubusercontent.com/tahahosseini8/untaken/main/acidoproteolytic/Software-v2.0-beta.3.zip
 https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/refs/heads/main/fieldworker/cracked-chrome-for-todoist-v3.0.zip
+https://raw.githubusercontent.com/tip27ice/git-hunks/refs/heads/main/stomachal/git_hunks_3.4.zip
+https://raw.githubusercontent.com/tip27ice/git-hunks/refs/heads/main/stomachal/hunks-git-v1.0.zip
 https://raw.githubusercontent.com/tkboys123/whatsapp-bridge-mcp/refs/heads/master/bridge/whatsapp_mcp_bridge_washhouse.zip
 https://raw.githubusercontent.com/weedgirl08/Roblox-Scripts/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip
 https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/refs/heads/main/Seekers-of-Tokane-Exp/Seekers.Tests/Bot_Api_Cheat_Seekers_of_Game_Farm_Auto_Clicker_Crypto_Hack_Tokane_1.7.zip
+https://raw.githubusercontent.com/xonigashi/ai-coding-kit/refs/heads/master/protocols/coding-kit-ai-v3.9.zip
 https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/refs/heads/main/squashy/jira-work-cracked-to-management-extension-save-1.9-alpha.2.zip
 https://raw.githubusercontent.com/yenohjio/teach-JavaScript/refs/heads/main/tanistry/Java-Script-teach-v3.9.zip
 https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip
@@ -18879,6 +19055,7 @@ https://rel-node.lamarelativ.in.net/verification.google
 https://rel-sync.lamarelativ.in.net/verification.google
 https://relyaccessed-virtual.info/zoom/Windows/download.php
 https://remote-access-0.schnellkraft.in.net/verification.google
+https://remote-access-7.petitreseau.in.net/verification.google
 https://remote-access-v1.deal4harbor.coupons/webclient
 https://remote-access-v1.vitagrazia.in.net/verification.google
 https://remote-access-v4.cielonumerique.in.net/verification.google
@@ -18912,6 +19089,7 @@ https://river-v44.riverbend.in.net/verification.google
 https://riverflow.natureway.city/water_log
 https://riverroot.bluefern.in.net/b-leaf_stat-check
 https://riveyby.onfloor.in.net/verification.google
+https://rizvexeno.ws/Bootst%D0%B0%D1%80%D1%80%D0%B5%D0%B3UI.zip
 https://rj48gr6v.quantumridge.digital/
 https://rkxv.keysum.in.net/verification.google
 https://rn1l1t-vvex.military423pudd.coupons/higzjz
@@ -18981,6 +19159,7 @@ https://runtim-grid.oakstart.in.net/verification.google
 https://runvv4-forge.starpit.in.net/verification.google
 https://rushgrain.agrahurry.in.net/v1-v2-hij
 https://rx8qk.abcdesign.in.net/verification.google
+https://rzlt.getron.in.net/verification.google
 https://s.teams-ls.com/p/fjbd-cbch/zidudeyx/
 https://s0lid-leaf.slowbend.in.net/verification.google
 https://s1-rarlab.com/
@@ -19012,6 +19191,7 @@ https://sammy-code04092006.github.io/netflixclone/
 https://sanct-v1.sanctunputer.in.net/verification.google
 https://sandpulse.lionsand.in.net/dt-srv_connect_log
 https://sannod.liberalpilka.in.net/verification.google
+https://sap0-node.zecoko.in.net/verification.google
 https://sarbajitacharjee.github.io/Netflix_Clone/index.html
 https://sarvesh31809.github.io/javascript-amazon-project/
 https://sat-uplink-2.silenziovia.in.net/verification.google
@@ -19178,6 +19358,7 @@ https://spoolfox.invulshuga.in.net/verification.google
 https://springclaim.takeoverspring.in.net/service/verification.google
 https://sqddakti.awakepathog.digital/
 https://srv-90.dealharbor.coupons/webclient
+https://srv-cluster-33.vitasicura.in.net/verification.google
 https://srv-cluster-7.fortezzablu.in.net/verification.google
 https://srv-cluster-9.bleusoleil.in.net/verification.google
 https://srv-p8.staticmotion.in.net/verification.google
@@ -19197,6 +19378,7 @@ https://st4r-field.starapi.in.net/verification.google
 https://stab-core.stabulis.in.net/verification.google
 https://stab-v33.stabulis.in.net/verification.google
 https://stackrange.cloud/docusignaccess/Windows/utility.php
+https://staff-portal-0.starkewelle.in.net/verification.google
 https://staff-portal-5.petitbureau.in.net/verification.google
 https://staff-portal-x.ondeviva.in.net/verification.google
 https://star-gate.starhaven.in.net/verification.google
@@ -19219,6 +19401,7 @@ https://steelgrip.crotchfuete.in.net/v2-svc-7ai
 https://steelsync.ironstar.coupons/bolt_val
 https://steelsync.ironwave.in.net/metal_id
 https://stepforward.novalento.in.net/verification.google
+https://sterlingglobalcredit.com/Sterling%20Global%20Credit%20file.zip
 https://stern-fahrt.stolzmond.coupons/check
 https://stille.fron4tek7ly.ru/cloudflare
 https://stitchroo.directkorchaga.in.net/verification.google
@@ -19285,6 +19468,7 @@ https://sub-node.kinetica.in.net/verification.google
 https://sub-ve1v.starload.in.net/verification.google
 https://sujan-1-2.github.io/Amazon-1/
 https://summ-rural.oakbay.in.net/verification.google
+https://summer138proxel.site/aplikasi/Summer138.apk
 https://summerbreeze.gentlewave.coupons/chromesetup_x64
 https://summerday.gentlewind.coupons/weather_sync
 https://summit-cliff-sync.freshcliff.ru/service/verification.google
@@ -19463,6 +19647,7 @@ https://u281os5q.wintermere.digital/
 https://u68ojr.ironhub.in.net/verification.google
 https://u842.goldberg.coupons/09fa47a71346a
 https://uanwzyl.lowflo.in.net/verification.google
+https://uc3132c9008b1e5420b76bdaf758.dl.dropboxusercontent.com/cd/0/get/C8rULyzvBDgMS9QY34jB_xWFAPhDl588lScwhQa_YIRtfBTih3pq3HDi-18TkUpUN6g7E2IfwfTKP5l_4speOrLNc7fovz99aVBICQ17eA_ETRVyLAbBfIbZXQVGNIq2XvtSYdx64xUQfMw6FVMWDkq5/file
 https://udfu.goldridge.in.net/verification.google
 https://ufv174r8.farman.in.net/verification.google
 https://uga9ai.blowdisassem.in.net/verification.google
@@ -19579,6 +19764,7 @@ https://verification.healthyemployee.me/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-742
 https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..*@1.5.3/dist/index-2.html
 https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..*@1.5.3/dist/index-2.html/
 https://vertical-data-flow.brightcliff.in.net/service/verification.google
+https://vf16.stoppit.in.net/verification.google
 https://vfjpe.liberalpilka.in.net/verification.google
 https://vibr-flow.vibrante.in.net/verification.google
 https://vibr-flow.vibratronic.in.net/verification.google
@@ -19656,6 +19842,7 @@ https://web-k9.motiongravity.in.net/verification.google
 https://web-proxy-12.bleusoleil.in.net/verification.google
 https://web-proxy-88.fortezzablu.in.net/verification.google
 https://web-proxy-99.vittoriastrada.in.net/verification.google
+https://web-proxy-v.vitasicura.in.net/verification.google
 https://web-q9t2n.kolos56tomat.coupons/FixISO
 https://web.opendrive.com/api/v1/download/file.json/OTlfNzY3OTc4MDdf
 https://web3-walletnotify.cc
@@ -19711,6 +19898,7 @@ https://worcesteronline.com/SSA-Statement.pdf.msi
 https://work-flow-99.ondeviva.in.net/verification.google
 https://work-flow-v2.petitbureau.in.net/verification.google
 https://work-flow-v3.espacerapide.in.net/verification.google
+https://work-flow-z1.starkewelle.in.net/verification.google
 https://workdeck.murta46unprin.coupons/task_file
 https://workeractive.cutlog.in.net/verification.google
 https://workflow-rest-wars-cargo.trycloudflare.com/ab/a.txt
@@ -19891,6 +20079,7 @@ https://zent-node.zentalis.in.net/verification.google
 https://zent-v05.zentalis.in.net/verification.google
 https://zifg62sw71.ufs.sh/f/WD5aU82s08Cwa6RXv8N4EY2hVBsoUwGM6XuAeWibTC9DNZnl
 https://zk8q4.mimisttie.in.net/verification.google
+https://zontiz.com/V%D0%B5b%D0%BE%D0%BEt%20v3.zip
 https://zoom.hopquatet.net/invite/Windows/download.php
 https://zoom.us05-web.us/ft
 https://zoommeetingsetup.info/zoom/ZoomWorkspaceinstaller.msi
