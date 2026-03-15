@@ -39,12 +39,12 @@ All indicators are deduplicated, normalized, and ingestion-ready.
 <!-- STATS:START -->
 ## Latest Statistics
 
-- IPs: 202,164
-- URLs: 43,843
-- Domains: 160,616
+- IPs: 201,132
+- URLs: 20,131
+- Domains: 160,612
 - Hashes: 9,263
 
-Last updated: 2026-03-15T12:52:24Z
+Last updated: 2026-03-15T15:28:48Z
 <!-- STATS:END -->
 
 ---
