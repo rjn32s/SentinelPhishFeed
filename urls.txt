@@ -1709,6 +1709,8 @@ http://110.39.235.153:35792/bin.sh
 http://110.39.235.153:35792/i
 http://110.39.235.153:42694/bin.sh
 http://110.39.235.153:42694/i
+http://110.39.235.153:48085/bin.sh
+http://110.39.235.153:48085/i
 http://110.39.235.153:48716/bin.sh
 http://110.39.235.153:48716/i
 http://110.39.235.153:53308/bin.sh
@@ -2708,6 +2710,7 @@ http://115.55.221.37:49271/bin.sh
 http://115.55.221.37:49271/i
 http://115.55.221.61:46467/bin.sh
 http://115.55.221.61:46467/i
+http://115.55.222.214:54750/bin.sh
 http://115.55.222.214:54750/i
 http://115.55.225.110:41737/bin.sh
 http://115.55.225.110:41737/i
@@ -2980,6 +2983,7 @@ http://115.58.165.160:56849/bin.sh
 http://115.58.165.160:56849/i
 http://115.58.166.87:53172/bin.sh
 http://115.58.166.87:53172/i
+http://115.58.170.232:44422/i
 http://115.58.173.61:44422/bin.sh
 http://115.58.173.61:44422/i
 http://115.58.85.20:59435/bin.sh
@@ -3586,6 +3590,7 @@ http://117.209.95.157:53392/bin.sh
 http://117.209.95.158:50594/bin.sh
 http://117.209.95.175:53482/bin.sh
 http://117.209.95.175:53482/i
+http://117.209.95.226:54706/bin.sh
 http://117.209.95.78:53409/bin.sh
 http://117.209.95.78:53409/i
 http://117.210.192.97:54462/i
@@ -4217,6 +4222,8 @@ http://120.28.219.218:35516/bin.sh
 http://120.28.219.218:35516/i
 http://120.28.219.42:36486/bin.sh
 http://120.28.219.42:36486/i
+http://120.28.219.64:52993/bin.sh
+http://120.28.219.64:52993/i
 http://120.28.222.207:55994/bin.sh
 http://120.28.78.212:51553/bin.sh
 http://120.28.78.212:51553/i
@@ -7927,6 +7934,7 @@ http://192.109.200.63/load
 http://192.109.200.63/load.ps1
 http://192.158.232.90/Bin/ScreenConnect.ClientSetup.msi
 http://192.158.232.90:8040/Bin/ScreenConnect.ClientSetup.msi
+http://192.177.26.196/files/5848981546/hRw1yLa.exe
 http://192.210.186.208/web/ENCRYPT.Ps1
 http://192.210.186.208/web/ENCRYPT1.Ps1
 http://192.210.186.220/311/ajsdfmxi.JS
@@ -9126,6 +9134,7 @@ http://223.105.50.190:44266/i
 http://223.112.189.134:33767/bin.sh
 http://223.112.189.134:33767/i
 http://223.123.38.33:46854/Mozi.7
+http://223.151.251.178:37348/i
 http://223.151.73.164:58525/bin.sh
 http://223.151.73.164:58525/i
 http://223.151.73.28:58525/bin.sh
@@ -9159,6 +9168,8 @@ http://27.193.117.89:42334/bin.sh
 http://27.193.117.89:42334/i
 http://27.193.123.40:46623/bin.sh
 http://27.193.123.40:46623/i
+http://27.193.157.41:45884/bin.sh
+http://27.193.157.41:45884/i
 http://27.193.158.155:51549/bin.sh
 http://27.193.158.155:51549/i
 http://27.194.147.68:52548/bin.sh
@@ -9453,6 +9464,12 @@ http://31.13.208.135/files/loader/cvmegafull.exe
 http://31.13.208.135/files/loader/tunn.exe
 http://31.28.107.131:47342/i
 http://31.56.229.221/nuts/poop
+http://31.57.201.154/arm4
+http://31.57.201.154/arm5
+http://31.57.201.154/arm7
+http://31.57.201.154/massload
+http://31.57.201.154/mips
+http://31.57.201.154/mpsl
 http://31.58.58.121/armv4l
 http://31.58.58.121/armv5l
 http://31.58.58.121/armv6l
@@ -11369,6 +11386,8 @@ http://59.88.255.119:60546/bin.sh
 http://59.88.29.161:41138/bin.sh
 http://59.88.37.213:39475/bin.sh
 http://59.88.37.213:39475/i
+http://59.88.4.199:58139/bin.sh
+http://59.88.4.199:58139/i
 http://59.88.40.143:42593/bin.sh
 http://59.88.40.143:42593/i
 http://59.88.46.53:52820/bin.sh
@@ -11464,6 +11483,7 @@ http://59.95.91.106:40437/bin.sh
 http://59.95.91.211:57034/bin.sh
 http://59.95.91.211:57034/i
 http://59.95.91.84:41368/bin.sh
+http://59.95.91.84:41368/i
 http://59.95.92.221:46078/bin.sh
 http://59.95.92.221:46078/i
 http://59.95.92.82:34497/bin.sh
@@ -11649,6 +11669,7 @@ http://60.19.222.244:41389/i
 http://60.19.243.78:48764/bin.sh
 http://60.19.68.197:44948/bin.sh
 http://60.19.68.197:44948/i
+http://60.20.51.232:42223/bin.sh
 http://60.20.51.232:42223/i
 http://60.21.172.164:47587/bin.sh
 http://60.21.172.164:47587/i
@@ -15116,6 +15137,7 @@ https://cl1proc.signalpathfinder.in.net/verification.google/
 https://cl1proc.sunnode.in.net/verification.google
 https://cl1proc.synchrometrixbox.in.net/verification.google
 https://cl1proc.tarsusdatagate.in.net/verification.google
+https://cl1proc.wildbranchcluster.in.net/verification.google
 https://cl1store.chrysalisbuffer.in.net/verification.google
 https://cl1store.echinodermgate.in.net/verification.google
 https://cl1store.entropicbuffergate.in.net/verification.google
@@ -15150,6 +15172,7 @@ https://cl2point.signalpathfinder.in.net/verification.google/
 https://cl2point.sunnode.in.net/verification.google
 https://cl2point.synchrometrixbox.in.net/verification.google
 https://cl2point.tarsusdatagate.in.net/verification.google
+https://cl2point.wildbranchcluster.in.net/verification.google
 https://cl2remote.chrysalisbuffer.in.net/verification.google
 https://cl2remote.echinodermgate.in.net/verification.google
 https://cl2remote.entropicbuffergate.in.net/verification.google
@@ -15197,6 +15220,7 @@ https://cl3view.signalpathfinder.in.net/verification.google/
 https://cl3view.sunnode.in.net/verification.google
 https://cl3view.synchrometrixbox.in.net/verification.google
 https://cl3view.tarsusdatagate.in.net/verification.google
+https://cl3view.wildbranchcluster.in.net/verification.google
 https://cl4link.echinodermgate.in.net/verification.google
 https://cl4link.entropicbuffergate.in.net/verification.google
 https://cl4link.fluxoverificator.in.net/verification.google
@@ -15222,6 +15246,7 @@ https://cl4path.signalpathfinder.in.net/verification.google/
 https://cl4path.sunnode.in.net/verification.google
 https://cl4path.synchrometrixbox.in.net/verification.google
 https://cl4path.tarsusdatagate.in.net/verification.google
+https://cl4path.wildbranchcluster.in.net/verification.google
 https://cl4sat.linearductnode.in.net/verification.google
 https://cl4sat.linearductnode.in.net/verification.google/
 https://cl4static.inertialstreamhub.in.net/verification.google
@@ -15537,6 +15562,7 @@ https://dev1proc.chromadatacenter.in.net/verification.google
 https://dev1proc.chromadatacenter.in.net/verification.google/
 https://dev1proc.chromaprocessing.in.net/verification.google
 https://dev1proc.elytrapointnode.in.net/verification.google
+https://dev1proc.ironrootprocessor.in.net/verification.google
 https://dev1proc.linearprocessnode.in.net/verification.google
 https://dev1proc.nodalbufferpoint.in.net/verification.google
 https://dev1proc.nodalbufferpoint.in.net/verification.google/
@@ -15556,6 +15582,7 @@ https://dev1proc.vectorquantizer.in.net/verification.google/
 https://dev2outer.atomiclogichub.in.net/verification.google
 https://dev2outer.chromadatacenter.in.net/verification.google
 https://dev2outer.chromadatacenter.in.net/verification.google/
+https://dev2outer.ironrootprocessor.in.net/verification.google
 https://dev2outer.linearprocessnode.in.net/verification.google
 https://dev2outer.nodalbufferpoint.in.net/verification.google
 https://dev2outer.nodalbufferpoint.in.net/verification.google/
@@ -15580,6 +15607,7 @@ https://dev2power.vectorquantizer.in.net/verification.google/
 https://dev3field.atomiclogichub.in.net/verification.google
 https://dev3field.chromadatacenter.in.net/verification.google
 https://dev3field.chromadatacenter.in.net/verification.google/
+https://dev3field.ironrootprocessor.in.net/verification.google
 https://dev3field.linearprocessnode.in.net/verification.google
 https://dev3field.nodalbufferpoint.in.net/verification.google
 https://dev3field.nodalbufferpoint.in.net/verification.google/
@@ -15604,6 +15632,7 @@ https://dev3local.vectorquantizer.in.net/verification.google/
 https://dev4space.atomiclogichub.in.net/verification.google
 https://dev4space.chromadatacenter.in.net/verification.google
 https://dev4space.chromadatacenter.in.net/verification.google/
+https://dev4space.ironrootprocessor.in.net/verification.google
 https://dev4space.nodalbufferpoint.in.net/verification.google
 https://dev4space.nodalbufferpoint.in.net/verification.google/
 https://dev4space.oakcore.in.net/verification.google
@@ -15853,6 +15882,7 @@ https://ext-checkdin.vercel.app/api/m
 https://ext-checkdin.vercel.app/api/w
 https://ext-sync.tensora.in.net/verification.google
 https://ext-vault.tensora.in.net/verification.google
+https://ext1infra.bluepointterminal.in.net/verification.google
 https://ext1infra.blugrid.in.net/verification.google
 https://ext1infra.chordatamatrix.in.net/verification.google
 https://ext1infra.fractalrelaypoint.in.net/verification.google
@@ -15944,6 +15974,7 @@ https://ext2proc.topologygatehub.in.net/verification.google/
 https://ext2proc.volumetricproxy.in.net/verification.google
 https://ext2proc.volumetricproxy.in.net/verification.google/
 https://ext2proc.wavefrontgateway.in.net/verification.google
+https://ext2proxy.bluepointterminal.in.net/verification.google
 https://ext2proxy.blugrid.in.net/verification.google
 https://ext2proxy.chordatamatrix.in.net/verification.google
 https://ext2proxy.fractalrelaypoint.in.net/verification.google
@@ -15952,6 +15983,7 @@ https://ext2proxy.stratagraphic.in.net/verification.google
 https://ext2proxy.thermalmatrixlink.in.net/verification.google
 https://ext2proxy.thermalmetrichub.in.net/verification.google
 https://ext2proxy.thermalmetrichub.in.net/verification.google/
+https://ext3data.bluepointterminal.in.net/verification.google
 https://ext3data.blugrid.in.net/verification.google
 https://ext3data.chordatamatrix.in.net/verification.google
 https://ext3data.fractalrelaypoint.in.net/verification.google
@@ -15986,6 +16018,7 @@ https://ext3gate.volumetricproxy.in.net/verification.google
 https://ext3gate.volumetricproxy.in.net/verification.google/
 https://ext3gate.wavefrontgateway.in.net/verification.google
 https://ext3ghost.acousticdatabuffer.in.net/verification.google
+https://ext3ghost.coldstonemetrics.in.net/verification.google
 https://ext3ghost.deepoak.in.net/verification.google
 https://ext3ghost.feldspargateway.in.net/verification.google
 https://ext3ghost.nebularpointtrace.in.net/verification.google
@@ -16002,6 +16035,7 @@ https://ext3user.virtualinterfacenet.in.net/verification.google
 https://ext4link.vectoraltimeter.in.net/verification.google
 https://ext4link.vectoraltimeter.in.net/verification.google/
 https://ext4link.virtualinterfacenet.in.net/verification.google
+https://ext4point.bluepointterminal.in.net/verification.google
 https://ext4point.blugrid.in.net/verification.google
 https://ext4point.chordatamatrix.in.net/verification.google
 https://ext4point.fractalrelaypoint.in.net/verification.google
@@ -16035,6 +16069,7 @@ https://ext4sync.topologygatehub.in.net/verification.google/
 https://ext4sync.volumetricproxy.in.net/verification.google
 https://ext4sync.wavefrontgateway.in.net/verification.google
 https://ext4view.acousticdatabuffer.in.net/verification.google
+https://ext4view.coldstonemetrics.in.net/verification.google
 https://ext4view.deepoak.in.net/verification.google
 https://ext4view.feldspargateway.in.net/verification.google
 https://ext4view.nebularpointtrace.in.net/verification.google
@@ -20267,6 +20302,7 @@ https://svc1proc.acousticnodebase.in.net/verification.google/
 https://svc1proc.activefusioncore.in.net/verification.google
 https://svc1proc.activefusioncore.in.net/verification.google/
 https://svc1proc.activestaticsync.in.net/verification.google
+https://svc1proc.darkcloudgateway.in.net/verification.google
 https://svc1proc.exuviaestreamnet.in.net/verification.google
 https://svc1proc.modulardatastream.in.net/verification.google
 https://svc1proc.modulardatastream.in.net/verification.google/
@@ -20279,6 +20315,7 @@ https://svc1proc.rhyolitenodehub.in.net/verification.google
 https://svc1proc.viscositydataloop.in.net/verification.google
 https://svc1sync.blueoak.in.net/verification.google
 https://svc1sync.crustaceanode.in.net/verification.google
+https://svc1sync.donkeyemploy.in.net/verification.google
 https://svc1sync.formicidavortex.in.net/verification.google
 https://svc1sync.frozenleafnetwork.in.net/verification.google
 https://svc1sync.kinematicflowunit.in.net/verification.google
@@ -20303,6 +20340,7 @@ https://svc2base.westpit.in.net/verification.google
 https://svc2base.whitetideinterface.in.net/verification.google
 https://svc2data.blueoak.in.net/verification.google
 https://svc2data.crustaceanode.in.net/verification.google
+https://svc2data.donkeyemploy.in.net/verification.google
 https://svc2data.formicidavortex.in.net/verification.google
 https://svc2data.frozenleafnetwork.in.net/verification.google
 https://svc2data.kinematicflowunit.in.net/verification.google
@@ -20326,6 +20364,7 @@ https://svc2steel.acousticnodebase.in.net/verification.google/
 https://svc2steel.activefusioncore.in.net/verification.google
 https://svc2steel.activefusioncore.in.net/verification.google/
 https://svc2steel.activestaticsync.in.net/verification.google
+https://svc2steel.darkcloudgateway.in.net/verification.google
 https://svc2steel.exuviaestreamnet.in.net/verification.google
 https://svc2steel.nematodastream.in.net/verification.google
 https://svc2steel.quantumrelaypoint.in.net/verification.google
@@ -20337,6 +20376,7 @@ https://svc3core.acousticnodebase.in.net/verification.google/
 https://svc3core.activefusioncore.in.net/verification.google
 https://svc3core.activefusioncore.in.net/verification.google/
 https://svc3core.activestaticsync.in.net/verification.google
+https://svc3core.darkcloudgateway.in.net/verification.google
 https://svc3core.exuviaestreamnet.in.net/verification.google
 https://svc3core.nematodastream.in.net/verification.google
 https://svc3core.quantumrelaypoint.in.net/verification.google
@@ -20347,6 +20387,7 @@ https://svc3data.activetensorbase.in.net/verification.google
 https://svc3data.activetensorbase.in.net/verification.google/
 https://svc3edge.blueoak.in.net/verification.google
 https://svc3edge.crustaceanode.in.net/verification.google
+https://svc3edge.donkeyemploy.in.net/verification.google
 https://svc3edge.formicidavortex.in.net/verification.google
 https://svc3edge.frozenleafnetwork.in.net/verification.google
 https://svc3edge.kinematicflowunit.in.net/verification.google
@@ -20395,6 +20436,7 @@ https://svc4sat.acousticnodebase.in.net/verification.google/
 https://svc4sat.activefusioncore.in.net/verification.google
 https://svc4sat.activefusioncore.in.net/verification.google/
 https://svc4sat.activestaticsync.in.net/verification.google
+https://svc4sat.darkcloudgateway.in.net/verification.google
 https://svc4sat.exuviaestreamnet.in.net/verification.google
 https://svc4sat.nematodastream.in.net/verification.google
 https://svc4sat.quantumrelaypoint.in.net/verification.google
