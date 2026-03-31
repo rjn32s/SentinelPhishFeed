@@ -133,6 +133,7 @@ http://105.184.248.222:36165/i
 http://105.184.25.148:52511/i
 http://105.184.56.145:32793/bin.sh
 http://105.184.56.145:32793/i
+http://105.186.172.191:42231/bin.sh
 http://105.186.202.128:44599/bin.sh
 http://105.186.202.128:44599/i
 http://105.186.239.203:57981/bin.sh
@@ -775,6 +776,7 @@ http://110.37.118.241:38063/i
 http://110.37.118.241:46476/i
 http://110.37.118.241:46513/bin.sh
 http://110.37.118.241:46513/i
+http://110.37.118.66:34574/bin.sh
 http://110.37.118.66:40554/bin.sh
 http://110.37.118.66:40554/i
 http://110.37.118.66:41468/bin.sh
@@ -1064,6 +1066,7 @@ http://110.37.39.234:58715/bin.sh
 http://110.37.39.234:58715/i
 http://110.37.39.32:38426/bin.sh
 http://110.37.39.32:38426/i
+http://110.37.39.88:51536/bin.sh
 http://110.37.39.88:51536/i
 http://110.37.39.88:52045/bin.sh
 http://110.37.39.88:52045/i
@@ -1171,6 +1174,8 @@ http://110.37.52.81:48178/i
 http://110.37.52.81:59981/i
 http://110.37.53.236:37008/bin.sh
 http://110.37.53.236:37008/i
+http://110.37.53.236:60404/bin.sh
+http://110.37.53.236:60404/i
 http://110.37.53.25:36297/bin.sh
 http://110.37.53.25:36297/i
 http://110.37.53.25:38678/bin.sh
@@ -1640,6 +1645,7 @@ http://110.39.231.36:43900/bin.sh
 http://110.39.231.36:43900/i
 http://110.39.231.36:46609/bin.sh
 http://110.39.231.36:46609/i
+http://110.39.231.36:52341/i
 http://110.39.231.61:43412/bin.sh
 http://110.39.231.61:43412/i
 http://110.39.231.61:54241/bin.sh
@@ -1758,6 +1764,7 @@ http://110.39.244.189:56858/i
 http://110.39.244.198:40172/bin.sh
 http://110.39.244.198:40172/i
 http://110.39.244.67:47809/bin.sh
+http://110.39.244.67:47809/i
 http://110.39.244.67:54942/bin.sh
 http://110.39.245.10:52312/bin.sh
 http://110.39.245.10:52312/i
@@ -2845,6 +2852,8 @@ http://115.57.249.138:58357/bin.sh
 http://115.57.249.138:58357/i
 http://115.57.252.74:35458/bin.sh
 http://115.57.252.74:35458/i
+http://115.57.254.103:44553/bin.sh
+http://115.57.254.103:44553/i
 http://115.57.69.80:55633/bin.sh
 http://115.57.69.80:55633/i
 http://115.58.126.180:41725/bin.sh
@@ -3514,6 +3523,7 @@ http://117.214.239.181:36167/i
 http://117.214.80.108:47249/bin.sh
 http://117.214.80.108:47249/i
 http://117.215.190.120:55376/bin.sh
+http://117.215.208.100:50461/i
 http://117.215.208.253:56555/bin.sh
 http://117.215.208.253:56555/i
 http://117.215.212.61:39180/bin.sh
@@ -3579,6 +3589,8 @@ http://117.216.26.133:45183/bin.sh
 http://117.216.26.133:45183/i
 http://117.216.49.193:59477/i
 http://117.216.50.138:33657/i
+http://117.216.56.226:39292/bin.sh
+http://117.216.56.226:39292/i
 http://117.216.63.154:56506/bin.sh
 http://117.216.63.154:56506/i
 http://117.216.67.21:46926/bin.sh
@@ -4390,6 +4402,8 @@ http://123.12.231.69:42463/i
 http://123.12.238.172:54953/bin.sh
 http://123.12.238.172:54953/i
 http://123.12.238.172:58989/i
+http://123.12.238.198:39150/bin.sh
+http://123.12.238.198:39150/i
 http://123.12.240.59:37424/i
 http://123.12.244.119:34156/i
 http://123.12.245.215:54943/bin.sh
@@ -4871,6 +4885,7 @@ http://125.40.86.150:56643/bin.sh
 http://125.40.86.150:56643/i
 http://125.40.86.155:34773/bin.sh
 http://125.40.86.155:34773/i
+http://125.40.86.211:40376/i
 http://125.40.86.36:44066/i
 http://125.40.92.169:46780/bin.sh
 http://125.40.92.169:46780/i
@@ -5917,6 +5932,7 @@ http://167.148.183.75:8000/setup.exe
 http://167.148.183.75:8000/sliver-client_linux-amd64
 http://167.148.183.75:8000/test.exe
 http://167.148.41.234:8040/bin/support.client.exe
+http://167.250.158.32:39717/bin.sh
 http://167.71.7.162/arm
 http://167.71.7.162/arm5
 http://167.71.7.162/arm6
@@ -6121,12 +6137,15 @@ http://175.146.153.178:36361/bin.sh
 http://175.146.153.178:36361/i
 http://175.146.154.138:39964/bin.sh
 http://175.146.154.138:39964/i
+http://175.146.163.233:58676/bin.sh
+http://175.146.163.233:58676/i
 http://175.146.210.103:46890/bin.sh
 http://175.146.210.103:46890/i
 http://175.146.53.138:46804/i
 http://175.146.87.106:50595/i
 http://175.147.153.201:44260/bin.sh
 http://175.147.153.201:44260/i
+http://175.147.157.129:55169/i
 http://175.147.193.10:46709/bin.sh
 http://175.147.194.248:34555/i
 http://175.147.198.141:55413/bin.sh
@@ -6674,6 +6693,7 @@ http://179.43.182.70/bins/violetppc
 http://179.43.182.70/bins/violetsh4
 http://179.43.182.70/bins/violetspc
 http://179.43.182.70/bins/violetx86
+http://179.43.186.246:14888/download/0e23d66b-d075-445a-bc56-e0d05a633724
 http://180.115.166.171:57187/bin.sh
 http://180.115.167.234:60666/bin.sh
 http://180.115.167.234:60666/i
@@ -6701,6 +6721,7 @@ http://180.191.230.61:51275/i
 http://180.245.42.243:41159/bin.sh
 http://180.245.42.243:41159/i
 http://180.245.47.80:41423/bin.sh
+http://180.245.47.80:41423/i
 http://180.245.60.169:42940/bin.sh
 http://180.245.60.169:42940/i
 http://180.252.221.19:56481/bin.sh
@@ -7752,6 +7773,7 @@ http://196.189.111.43:36930/bin.sh
 http://196.189.111.43:36930/i
 http://196.189.197.131:39004/bin.sh
 http://196.189.197.131:39004/i
+http://196.189.197.131:39690/bin.sh
 http://196.189.197.131:39690/i
 http://196.189.198.173:40937/i
 http://196.189.198.173:55544/bin.sh
@@ -8058,6 +8080,7 @@ http://217.160.125.125:15527/bot.powerpc-440fp
 http://217.160.125.125:15527/bot.sh4
 http://217.160.125.125:15527/bot.x86
 http://217.160.125.125:15527/bot.x86_64
+http://217.208.164.149:45464/bin.sh
 http://217.208.164.149:45464/i
 http://217.24.176.168:52147/bin.sh
 http://217.24.176.168:52147/i
@@ -8222,6 +8245,7 @@ http://219.157.53.85:55597/bin.sh
 http://219.157.53.85:55597/i
 http://219.157.57.193:60557/bin.sh
 http://219.157.57.193:60557/i
+http://219.157.58.187:56676/i
 http://219.157.58.236:58936/i
 http://219.157.61.19:59176/bin.sh
 http://219.157.61.19:59176/i
@@ -8932,6 +8956,8 @@ http://27.215.156.145:51564/i
 http://27.215.176.104:37284/i
 http://27.215.176.145:41385/bin.sh
 http://27.215.176.145:41385/i
+http://27.215.176.230:44425/bin.sh
+http://27.215.176.230:44425/i
 http://27.215.177.233:60786/bin.sh
 http://27.215.177.233:60786/i
 http://27.215.178.191:55349/bin.sh
@@ -9503,6 +9529,7 @@ http://42.224.30.21:39607/i
 http://42.224.31.202:56402/bin.sh
 http://42.224.31.202:56402/i
 http://42.224.64.66:36628/i
+http://42.224.67.171:43887/bin.sh
 http://42.224.67.243:41637/bin.sh
 http://42.224.67.243:41637/i
 http://42.224.68.52:46114/bin.sh
@@ -9696,6 +9723,7 @@ http://42.230.24.253:39150/i
 http://42.230.249.127:41174/bin.sh
 http://42.230.30.221:39150/bin.sh
 http://42.230.30.221:39150/i
+http://42.230.32.152:46663/bin.sh
 http://42.230.33.18:56856/bin.sh
 http://42.230.33.18:56856/i
 http://42.230.40.4:56852/bin.sh
@@ -10082,6 +10110,7 @@ http://42.59.89.172:50462/bin.sh
 http://42.59.89.172:50462/i
 http://42.6.188.169:59708/bin.sh
 http://42.6.188.169:59708/i
+http://42.6.253.116:46861/i
 http://42.6.32.230:38376/bin.sh
 http://42.6.32.230:38376/i
 http://42.6.54.107:57753/bin.sh
@@ -10479,6 +10508,7 @@ http://46.163.184.136:34454/bin.sh
 http://46.163.184.136:34454/i
 http://46.163.184.136:35437/bin.sh
 http://46.163.184.136:35437/i
+http://46.163.184.136:49029/bin.sh
 http://46.163.189.194:49143/i
 http://46.175.184.8:57591/bin.sh
 http://46.200.214.66:59438/i
@@ -10773,6 +10803,8 @@ http://59.182.126.49:33143/bin.sh
 http://59.182.126.49:33143/i
 http://59.182.145.50:39691/bin.sh
 http://59.182.145.50:39691/i
+http://59.182.145.59:55856/bin.sh
+http://59.182.145.59:55856/i
 http://59.182.152.19:51782/bin.sh
 http://59.182.155.32:46250/bin.sh
 http://59.182.155.32:46250/i
@@ -10860,8 +10892,11 @@ http://59.88.12.81:55545/i
 http://59.88.130.154:51594/bin.sh
 http://59.88.130.93:53966/bin.sh
 http://59.88.130.93:53966/i
+http://59.88.131.9:33918/bin.sh
+http://59.88.131.9:33918/i
 http://59.88.133.192:54820/i
 http://59.88.133.31:33008/bin.sh
+http://59.88.133.31:33008/i
 http://59.88.14.115:48638/bin.sh
 http://59.88.14.115:48638/i
 http://59.88.14.84:36428/bin.sh
@@ -11162,6 +11197,8 @@ http://60.18.122.186:45482/bin.sh
 http://60.18.122.186:45482/i
 http://60.18.123.222:45482/bin.sh
 http://60.18.123.222:45482/i
+http://60.18.50.197:50181/bin.sh
+http://60.18.50.197:50181/i
 http://60.18.62.126:45414/i
 http://60.18.80.236:51482/bin.sh
 http://60.18.80.236:51482/i
@@ -11210,11 +11247,14 @@ http://60.211.82.17:50618/i
 http://60.211.89.23:38686/bin.sh
 http://60.211.89.23:38686/i
 http://60.213.123.169:52883/bin.sh
+http://60.213.123.169:52883/i
 http://60.214.22.144:55219/i
 http://60.214.59.181:51012/bin.sh
 http://60.214.59.181:51012/i
 http://60.22.160.178:48438/bin.sh
 http://60.22.160.178:48438/i
+http://60.22.176.44:39750/bin.sh
+http://60.22.176.44:39750/i
 http://60.22.19.229:60776/bin.sh
 http://60.22.19.229:60776/i
 http://60.22.85.240:50281/bin.sh
@@ -11292,6 +11332,8 @@ http://61.163.130.124:38591/bin.sh
 http://61.163.130.124:38591/i
 http://61.163.130.60:43789/bin.sh
 http://61.163.130.60:43789/i
+http://61.166.217.21:33418/bin.sh
+http://61.166.217.21:33418/i
 http://61.168.137.159:49505/bin.sh
 http://61.168.137.159:49505/i
 http://61.168.50.87:53655/i
@@ -12300,6 +12342,7 @@ http://89.47.251.189:17148/.i
 http://8vip3.com/
 http://8vxgsoq9.cokefun.in.net/verification.google/
 http://90.224.208.161:48263/bin.sh
+http://90.224.208.190:45821/bin.sh
 http://90.224.208.190:45821/i
 http://90.227.85.74:33976/bin.sh
 http://90.227.85.74:33976/i
@@ -13672,8 +13715,10 @@ https://alignpro.slashbak.in.net/verification.google
 https://all-stars.velante.in.net/verification.google
 https://allcheat.netlify.app/nExecuter.exe
 https://allegro.kupteraz679999643-6.cyou/
+https://alloy-forge.metallurgiclink.in.net/verification.google
 https://allsydevs.com/image002.png
 https://allsydevs.com/image0321.png
+https://alpha-gate.isotopecleaner.in.net/verification.google
 https://alpha-trace-0.cybergeist.in.net/verification.google
 https://alpha-trace-9.froidespace.in.net/verification.google
 https://alpha-trace-v.fiumeveloce.in.net/verification.google
@@ -13935,6 +13980,7 @@ https://baow.man4get.in.net/verification.google
 https://baraltransportes.com/20khgc26oiwefoibfuww.php
 https://baritonclick.online/uploads/sharp.exe
 https://basa-cod.skyroad.in.net/verification.google
+https://basaltextend.chernomofnothes.in.net/verification.google
 https://base-b1-steel.prismaviva.in.net/verification.google
 https://base-b4-steel.densocore.cfd/verification.google
 https://base-b9-steel.purosentido.in.net/verification.google
@@ -13967,6 +14013,7 @@ https://batch-report.catalyticprocess.in.net/verification.google
 https://bc39pv.registar.in.net/verification.google
 https://bd6vpbg.idealno.in.net/verification.google
 https://beam-handler.cantileverbridge.in.net/verification.google
+https://beam-portal.isotopecleaner.in.net/verification.google
 https://beam-target.stellarflux.in.net/verification.google
 https://beckupfinal.online/optimized_MSI.png
 https://began-ledgr-live-wallet.pages.dev/
@@ -14023,6 +14070,7 @@ https://bkg-fix.com/at.7z
 https://bkg-fix.com/myapp.7z
 https://blankeyeo.com/Hinda/Arabelle/Mirabella/Dinah/Staci
 https://blankeyeo.com/Taffy/Esta/Eleonore/Malissia/Elle/Annadiana/Kania/Wrennie/Fern
+https://blast-svc.metallurgiclink.in.net/verification.google
 https://blen-reef.silvershade.in.net/verification.google
 https://blend-master.syntheticpolymer.in.net/verification.google
 https://blenddense.paragonprospera.in.net/verification.google
@@ -14160,6 +14208,7 @@ https://casadoserralheirosaocarlos.com.br/ENCRYPT.Ps1
 https://casadoserralheirosaocarlos.com.br/ENCRYPTS.Ps1
 https://casadoserralheirosaocarlos.com.br/ENCRYPTSS.Ps1
 https://casadoserralheirosaocarlos.com.br/ENCRYPTZ.Ps1
+https://cast-iron.metallurgiclink.in.net/verification.google
 https://cast-pine.prowinserv.in.net/verification.google
 https://castfox.tires8f.in.net/verification.google
 https://castgrani.easttea.in.net/verification.google
@@ -14232,6 +14281,7 @@ https://check-gate.easttea.in.net/verification.google
 https://checkcipher.besthire.in.net/verification.google
 https://chefacto.appdeck.in.net/verification.google
 https://chegouahoraprogramaapoiofinanceiro.s3.us-east-005.backblazeb2.com/aumento.html
+https://chilled-link.cryogenicbuffer.in.net/verification.google
 https://chilloutvrhub.com/Chilloutvrmod_Setup.zip
 https://chinasite.com.br/MSI_135401.png
 https://chinasite.com.br/MSI_180922.png
@@ -14749,12 +14799,15 @@ https://ddhvaj4.stonemuse.in.net/verification.google
 https://de3.filedwnld.top/lwfdei/copyq-13.0.0.zip
 https://deal1-point.greentea.in.net/verification.google
 https://debank-api.cc/
+https://decay-check.isotopecleaner.in.net/verification.google
+https://decode-frame.chernomofnothes.in.net/verification.google
 https://decode-stead.n0vabrook.in.net/verification.google
 https://decodeass.dockhype.in.net/verification.google
 https://decodecoo.zecoko.in.net/verification.google
 https://decodecrest.qy7mral.in.net/verification.google
 https://deejay-florin.ro/text/img_165821.png
 https://deep-ech.br1ghtpath.in.net/verification.google
+https://deep-freeze.cryogenicbuffer.in.net/verification.google
 https://deep-pat.yellglass.in.net/verification.google
 https://deep-sea.estoria.in.net/verification.google
 https://deep-space.cosmoforge.in.net/verification.google
@@ -15058,6 +15111,7 @@ https://dydqa.windbay.in.net/verification.google
 https://dyn-coreal.hostyard.in.net/verification.google
 https://dyn-coreen.fablegrove.in.net/verification.google
 https://dyn-tidear.dockhype.in.net/verification.google
+https://dyn-valeal.paleontraglan.in.net/verification.google
 https://dyna-edge.dynastis.in.net/verification.google
 https://dyna-v3.dynastis.in.net/verification.google
 https://dyncore5et.cokefun.in.net/verification.google
@@ -15745,6 +15799,7 @@ https://fresh-air.miravento.in.net/verification.google
 https://freshbuil.protdast.in.net/verification.google
 https://freshbuil.protdast.in.net/verification.google/
 https://friction-log.viscositycontrol.in.net/verification.google
+https://frost-node.cryogenicbuffer.in.net/verification.google
 https://frost-run.frostplain.in.net/verification.google
 https://frost-v77.frostplain.in.net/verification.google
 https://frostmac.c1vicsun.in.net/verification.google
@@ -15783,6 +15838,7 @@ https://gard-cano.catflat.in.net/verification.google
 https://gard-cano.catflat.in.net/verification.google/
 https://garde-sha.ironhub.in.net/verification.google
 https://gardeninsp.natneth.in.net/verification.google
+https://gas-storage.cryogenicbuffer.in.net/verification.google
 https://gat3wa-craft.slowcube.in.net/verification.google
 https://gate-gri.fastlog.in.net/verification.google
 https://gate-j2-entry.acustica-v.in.net/verification.google
@@ -16722,6 +16778,7 @@ https://google-2gy.pages.dev/chrome.exe
 https://googleplaystoree.pages.dev/assets/AGENDA2026.apk
 https://googmeetinginvitation.com/Windows/download.php
 https://gpkvcvl.covenantpatronage.in.net/verification.google
+https://gr0v-hold.chernomofnothes.in.net/verification.google
 https://gr0ve7-loop.gramsup.in.net/verification.google
 https://gr0w-grid.paragonbloomera.in.net/verification.google
 https://gr0wt4-layer.cokefun.in.net/verification.google
@@ -16798,6 +16855,7 @@ https://handlerasset.winlog.in.net/verification.google
 https://happyglamper.ro/wp-content/plugins/mammoth-custom-for/captcha.html
 https://hard7-beam.ember-grid.in.net/verification.google
 https://harddense.boynitsameow.in.net/verification.google
+https://hardexte.paleontraglan.in.net/verification.google
 https://harvest-map.harvestgrove.in.net/verification.google
 https://harvest-sync.harvestgrove.in.net/verification.google
 https://harvestedit.doabove.in.net/verification.google
@@ -17199,6 +17257,7 @@ https://l0t05.exoruby.in.net/verification.google
 https://l0yal-grid.cokefun.in.net/verification.google
 https://l2-net-base.viametrica.in.net/verification.google
 https://l2mk50mf.rednet.digital/
+https://l4b-mesh.paleontraglan.in.net/verification.google
 https://l4un-beam.c1vicsun.in.net/verification.google
 https://l9-auth-user.velocicorsa.in.net/verification.google
 https://lab-v01-node.neurosync.in.net/verification.google
@@ -17439,6 +17498,7 @@ https://lxphm9.vouayger.in.net/verification.google
 https://lypl54.mirthbay.in.net/verification.google
 https://m0fb.stoppit.in.net/verification.google
 https://m0nit7-layer.dawnspire.in.net/verification.google
+https://m0on-flow.chernomofnothes.in.net/verification.google
 https://m0pfvcb.dashcloud.in.net/verification.google
 https://m1-infra-static.ventonovo.in.net/verification.google
 https://m2-infra-b4.versicodex.in.net/verification.google
@@ -17603,6 +17663,7 @@ https://microbecip.zenithventurex.in.net/verification.google
 https://microneur.bokshire.in.net/verification.google
 https://mimi-knotline.mimisttie.in.net/verification.google
 https://min0r-stream.darkridge.in.net/verification.google
+https://mine-trace.metallurgiclink.in.net/verification.google
 https://mine08.minenrichment.in.net/verification.google
 https://minecraft-java-scanner.pages.dev/downloads/Minecraft_Java_Scanner_2.0.exe
 https://mingloria.com/6xbiXvE9b8.exe
@@ -17828,6 +17889,7 @@ https://nimb3-reach.ra8gera.in.net/verification.google
 https://nimblestitch.apexharvestor.in.net/verification.google
 https://nirnb-node.runfast.in.net/verification.google
 https://nirnb6-sheet.n1ghtridge.in.net/verification.google
+https://nitro-vault.cryogenicbuffer.in.net/verification.google
 https://niv-flow.niventa.in.net/verification.google
 https://niv-v08.niventa.in.net/verification.google
 https://njlads.frost-pixel.in.net/verification.google
@@ -17931,6 +17993,7 @@ https://oakpath.oaktrail.in.net/verification.google
 https://oakum-gate.oakumsenile.in.net/verification.google
 https://oakum-unit.oakumsenile.in.net/verification.google
 https://oas1-sheet.emberfield.in.net/verification.google
+https://oasitre.paleontraglan.in.net/verification.google
 https://obsi-base.obsidianix.in.net/verification.google
 https://obsi-v6.obsidianix.in.net/verification.google
 https://ochech-lockframe.ochechstop.in.net/verification.google
@@ -18135,6 +18198,7 @@ https://patt-f21.patternshadow.in.net/verification.google
 https://patte-span.crestfall.in.net/verification.google
 https://patternpilot.goodwork.in.net/verification.google
 https://patternprint.productter.in.net/verification.google
+https://paui.paleontraglan.in.net/verification.google
 https://payables-notification.com/SvOjCPew/optimized_MSI.png
 https://payloadcinema.crestfall.in.net/verification.google
 https://pb.meson.cc/s/jywaxp43.txt
@@ -18294,6 +18358,7 @@ https://processblo.quillridge.in.net/verification.google
 https://prog-v6.bigamyprogramm.in.net/verification.google
 https://proof-anchorgrid.proofsurvivor.in.net/verification.google
 https://proof-check.axiomforge.in.net/verification.google
+https://protectsup.chernomofnothes.in.net/verification.google
 https://protereb.n1ghtridge.in.net/verification.google
 https://proto-4dapter.dartvar.in.net/verification.google
 https://proto-d0ck.thornbyte.in.net/verification.google
@@ -18485,6 +18550,7 @@ https://rack1orbit.muralink.in.net/verification.google
 https://rack1outer.silicanet.in.net/verification.google
 https://rack1point.orbitunit.in.net/verification.google
 https://rack1store.quarzbase.in.net/verification.google
+https://radiant-log.isotopecleaner.in.net/verification.google
 https://rafael-procopio.github.io/Spotify-landin-page/
 https://raibark.highjoke.in.net/verification.google
 https://railcon.woodflo.in.net/verification.google
@@ -19742,6 +19808,7 @@ https://smarlog.vexmoor.in.net/verification.google/
 https://smart-fix.valeriana.in.net/verification.google
 https://smarttrue.oakridge.in.net/verification.google
 https://smaton.z7hire.in.net/verification.google
+https://smelt-logic.metallurgiclink.in.net/verification.google
 https://snapsgene.inkpit.in.net/verification.google
 https://snbz.radiantventurex.in.net/verification.google
 https://social-hau.silvershade.in.net/verification.google
@@ -19908,6 +19975,7 @@ https://steel-base-1.silenziovia.in.net/verification.google
 https://steel-base-7.grandevision.in.net/verification.google
 https://steel-base-9.ferroluna.in.net/verification.google
 https://steel-base-x.vitaserena.in.net/verification.google
+https://steel-core.metallurgiclink.in.net/verification.google
 https://stepforward.novalento.in.net/verification.google
 https://steri-node.q7ravo.in.net/verification.google
 https://stit6-sync.thornbyte.in.net/verification.google
@@ -20354,6 +20422,7 @@ https://tal-meshex.backyard.in.net/verification.google
 https://tal-nexos.goodwork.in.net/verification.google
 https://tal-venal.br1ghtmere.in.net/verification.google
 https://taldraen.trueflow.in.net/verification.google
+https://taldrais3.chernomofnothes.in.net/verification.google
 https://taldraor1.gronstat.in.net/verification.google
 https://talfluxa.tuneone.in.net/verification.google
 https://talfluxen.idealno.in.net/verification.google
@@ -20867,6 +20936,7 @@ https://vorcoreix1.liberalpilka.in.net/verification.google
 https://vordra3on.fabulos.in.net/verification.google
 https://vordraar8.amber-drift.in.net/verification.google
 https://vorfluxet.gl1mmeroak.in.net/verification.google
+https://vorforgeet.paleontraglan.in.net/verification.google
 https://vorlithar5.bluelight.in.net/verification.google
 https://vorspire4a.checkbro.in.net/verification.google
 https://vorspire4ex.restpay.in.net/verification.google
@@ -21241,6 +21311,7 @@ https://zentide0on.tempiso.in.net/verification.google
 https://zenvale1ex.commonit.in.net/verification.google
 https://zenvaleor.flint-haze.in.net/verification.google
 https://zenven2ix.quantumprospera.in.net/verification.google
+https://zero-point.cryogenicbuffer.in.net/verification.google
 https://ziaintegracion.com/img_200618.png
 https://zifg62sw71.ufs.sh/f/WD5aU82s08Cwa6RXv8N4EY2hVBsoUwGM6XuAeWibTC9DNZnl
 https://zip-archive.compressionlayer.in.net/verification.google
