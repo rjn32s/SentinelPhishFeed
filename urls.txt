@@ -646,6 +646,7 @@ http://110.37.103.207:34864/bin.sh
 http://110.37.103.207:34864/i
 http://110.37.103.207:53267/bin.sh
 http://110.37.103.207:53267/i
+http://110.37.103.213:38750/i
 http://110.37.103.213:39852/bin.sh
 http://110.37.103.213:47403/bin.sh
 http://110.37.103.213:47403/i
@@ -1248,6 +1249,7 @@ http://110.37.61.44:52593/bin.sh
 http://110.37.61.44:52593/i
 http://110.37.61.44:54795/bin.sh
 http://110.37.61.44:54795/i
+http://110.37.62.32:36321/bin.sh
 http://110.37.65.205:33894/bin.sh
 http://110.37.65.205:33894/i
 http://110.37.65.205:36745/bin.sh
@@ -1424,6 +1426,8 @@ http://110.37.91.29:53637/i
 http://110.37.91.29:56942/bin.sh
 http://110.37.92.149:38047/bin.sh
 http://110.37.92.149:38047/i
+http://110.37.92.149:38332/bin.sh
+http://110.37.92.149:38332/i
 http://110.37.92.149:49424/i
 http://110.37.92.149:50915/bin.sh
 http://110.37.92.149:50915/i
@@ -2086,6 +2090,7 @@ http://112.98.97.191:34651/i
 http://113.12.255.0:58626/bin.sh
 http://113.12.255.0:58626/i
 http://113.191.207.19:56331/i
+http://113.206.11.117:48723/bin.sh
 http://113.206.14.54:60299/bin.sh
 http://113.206.14.54:60299/i
 http://113.206.14.6:60299/bin.sh
@@ -2354,6 +2359,8 @@ http://115.49.25.47:48470/i
 http://115.49.25.54:56748/bin.sh
 http://115.49.25.54:56748/i
 http://115.49.251.122:37620/i
+http://115.49.26.59:58637/bin.sh
+http://115.49.26.59:58637/i
 http://115.49.27.208:36681/bin.sh
 http://115.49.27.208:36681/i
 http://115.49.27.49:38620/bin.sh
@@ -2466,6 +2473,7 @@ http://115.50.65.234:35183/i
 http://115.50.68.239:55385/bin.sh
 http://115.50.68.3:48865/bin.sh
 http://115.50.68.3:48865/i
+http://115.50.71.48:59574/bin.sh
 http://115.50.71.48:59574/i
 http://115.50.91.143:51727/bin.sh
 http://115.50.91.143:51727/i
@@ -3048,6 +3056,8 @@ http://115.63.52.240:50164/bin.sh
 http://115.63.52.240:50164/i
 http://115.63.52.99:59115/bin.sh
 http://115.63.52.99:59115/i
+http://115.63.53.247:54896/bin.sh
+http://115.63.53.247:54896/i
 http://115.63.55.105:42295/bin.sh
 http://115.63.55.105:42295/i
 http://115.63.55.137:44166/bin.sh
@@ -3303,6 +3313,8 @@ http://117.209.118.132:58306/bin.sh
 http://117.209.118.132:58306/i
 http://117.209.119.213:32820/bin.sh
 http://117.209.12.203:36412/bin.sh
+http://117.209.12.20:53213/bin.sh
+http://117.209.12.20:53213/i
 http://117.209.12.21:60720/bin.sh
 http://117.209.12.21:60720/i
 http://117.209.12.239:57242/bin.sh
@@ -6732,6 +6744,8 @@ http://177.76.44.91/hiddenbin/boatnet.spc
 http://177.76.44.91/hiddenbin/boatnet.x86
 http://177.76.44.91/hiddenbin/boatnet.x86-DEBUG
 http://177.76.44.91/hiddenbin/boatnet.x86_64
+http://177.86.229.12:53418/bin.sh
+http://177.86.229.12:53418/i
 http://178.141.132.131:51769/i
 http://178.141.152.167:42814/bin.sh
 http://178.141.152.167:42814/i
@@ -7055,6 +7069,7 @@ http://182.114.49.66:33615/bin.sh
 http://182.114.49.66:33615/i
 http://182.114.51.101:54757/bin.sh
 http://182.114.51.101:54757/i
+http://182.114.51.196:58528/bin.sh
 http://182.114.51.196:58528/i
 http://182.115.161.138:51640/bin.sh
 http://182.115.161.138:51640/i
@@ -7472,6 +7487,7 @@ http://182.127.177.51:33144/i
 http://182.127.178.249:44949/bin.sh
 http://182.127.178.249:44949/i
 http://182.127.190.229:50687/bin.sh
+http://182.127.190.229:50687/i
 http://182.127.220.207:56490/bin.sh
 http://182.127.220.207:56490/i
 http://182.127.221.6:42731/bin.sh
@@ -8967,6 +8983,8 @@ http://222.142.254.159:59820/bin.sh
 http://222.142.254.159:59820/i
 http://222.142.254.165:41922/bin.sh
 http://222.142.254.165:41922/i
+http://222.142.254.76:44360/bin.sh
+http://222.142.254.76:44360/i
 http://222.142.93.65:57143/bin.sh
 http://222.142.93.65:57143/i
 http://222.160.220.47:54273/i
@@ -9070,6 +9088,8 @@ http://27.206.35.240:50622/bin.sh
 http://27.206.35.240:50622/i
 http://27.206.58.209:57622/bin.sh
 http://27.206.58.209:57622/i
+http://27.206.81.60:51577/bin.sh
+http://27.206.81.60:51577/i
 http://27.207.142.101:40227/bin.sh
 http://27.207.142.101:40227/i
 http://27.207.161.85:36289/i
@@ -10147,6 +10167,8 @@ http://42.239.191.80:57983/bin.sh
 http://42.239.191.80:57983/i
 http://42.239.227.212:58225/bin.sh
 http://42.239.227.212:58225/i
+http://42.239.227.216:35637/bin.sh
+http://42.239.227.216:35637/i
 http://42.239.227.33:47025/bin.sh
 http://42.239.227.33:47025/i
 http://42.239.229.133:48362/bin.sh
@@ -10978,6 +11000,8 @@ http://59.183.132.38:42371/i
 http://59.183.140.157:55888/i
 http://59.183.141.119:55344/bin.sh
 http://59.183.96.197:51129/bin.sh
+http://59.183.98.231:43200/bin.sh
+http://59.183.98.231:43200/i
 http://59.183.98.39:38874/i
 http://59.184.213.30:39280/bin.sh
 http://59.184.215.201:44827/bin.sh
@@ -11130,6 +11154,7 @@ http://59.92.172.38:48594/bin.sh
 http://59.92.172.38:48594/i
 http://59.92.175.236:51265/i
 http://59.92.180.146:60634/bin.sh
+http://59.92.180.146:60634/i
 http://59.92.68.67:41361/bin.sh
 http://59.92.68.67:41361/i
 http://59.92.83.77:44097/bin.sh
@@ -11328,6 +11353,8 @@ http://60.162.207.49:59356/i
 http://60.162.211.159:34526/i
 http://60.162.220.217:59146/bin.sh
 http://60.162.220.217:59146/i
+http://60.162.40.39:53373/bin.sh
+http://60.162.40.39:53373/i
 http://60.17.158.18:58849/i
 http://60.18.10.74:60629/bin.sh
 http://60.18.10.74:60629/i
@@ -11435,6 +11462,7 @@ http://60.23.239.36:40954/i
 http://60.23.239.53:47046/bin.sh
 http://60.23.239.53:47046/i
 http://60.243.207.15:57542/i
+http://60.243.227.24:49621/bin.sh
 http://60.27.218.208:46393/i
 http://61.0.107.16:59289/bin.sh
 http://61.0.107.16:59289/i
@@ -11548,6 +11576,8 @@ http://61.52.117.19:42787/bin.sh
 http://61.52.117.19:42787/i
 http://61.52.118.171:33119/bin.sh
 http://61.52.118.171:33119/i
+http://61.52.119.138:57761/bin.sh
+http://61.52.119.138:57761/i
 http://61.52.139.22:56638/bin.sh
 http://61.52.139.22:56638/i
 http://61.52.156.107:42109/bin.sh
@@ -12252,8 +12282,10 @@ http://85.166.152.13:39662/bin.sh
 http://85.166.152.13:39662/i
 http://85.226.212.168:59318/bin.sh
 http://85.226.212.168:59318/i
+http://85.239.147.6/files/1333144962/IxvWeHF.exe
 http://85.239.147.6/files/1781548144/3UFJ4Lc.exe
 http://85.239.147.6/files/1781548144/ebJvLxF.exe
+http://85.239.147.6/files/1781548144/td5Qn5I.exe
 http://85.239.147.6/files/5900855435/eNLe4nm.exe
 http://85.239.147.6/files/638251020/aMe4P4o.exe
 http://85.239.147.6/files/6560547276/Yzztzly.exe
@@ -12423,6 +12455,11 @@ http://87.121.84.19/hiddenbin/boatnet.sh4
 http://87.121.84.19/hiddenbin/boatnet.spc
 http://87.121.84.19/hiddenbin/boatnet.x86
 http://87.121.84.19/hiddenbin/boatnet.x86_64
+http://87.121.84.45/main_arm5
+http://87.121.84.45/main_arm6
+http://87.121.84.45/main_arm7
+http://87.121.84.45/main_m68k
+http://87.121.84.45/main_ppc
 http://87.121.84.56/nuts/poop
 http://87.121.84.57/nuts/poop
 http://87.121.84.80/x86
@@ -12732,6 +12769,7 @@ http://94.26.106.197/x86
 http://94.34.190.36:1178/.i
 http://95.106.58.28:4563/i
 http://95.159.32.180:54863/bin.sh
+http://95.159.32.180:54863/i
 http://95.165.187.102:56551/bin.sh
 http://95.165.187.102:56551/i
 http://95.214.40.65:30161/bin.sh
@@ -14409,6 +14447,7 @@ https://build-deploy.vectorforge.in.net/verification.google
 https://buildsprou.goldsys.in.net/verification.google
 https://buildwar.thornbyte.in.net/verification.google
 https://bulk-export.datacrest.in.net/verification.google
+https://bulk-logic.datacascade.in.net/verification.google
 https://bulledesophros.top/access/Remote%20Access-macos-intel-offline.dmg
 https://bulledesophros.top/access/Remote%20Access-macos-offline.dmg
 https://bulledesophros.top/access/Remote%20Access-windows32-offline.exe
@@ -14478,6 +14517,7 @@ https://casadoserralheirosaocarlos.com.br/ENCRYPTSS.Ps1
 https://casadoserralheirosaocarlos.com.br/ENCRYPTZ.Ps1
 https://cast-iron.metallurgiclink.in.net/verification.google
 https://cast-pine.prowinserv.in.net/verification.google
+https://cast-spar.coddlcaught.in.net/verification.google
 https://castfox.tires8f.in.net/verification.google
 https://castgrani.easttea.in.net/verification.google
 https://casual9-forge.stoppit.in.net/verification.google
@@ -15005,6 +15045,7 @@ https://d8-net-global.velocicorsa.in.net/verification.google
 https://d8.tfdl.net/public/2026-03-25/4c08a097-0c18-4ced-a7cb-ae468f709454/Release.exe
 https://da1113.0r6ecdax.work/android/aaseoy_2.2.6/aaseoy_2.2.6_82375752.apk
 https://dach-core.dachshreinsur.in.net/verification.google
+https://daem-gate.granulatetouch.in.net/verification.google
 https://daemon6-logic.crestfall.in.net/verification.google
 https://daemonclear.latticeventure.in.net/verification.google
 https://daemondeli.chromeflack.in.net/verification.google
@@ -15035,6 +15076,7 @@ https://data-field.digisphere.in.net/verification.google
 https://data-gate.quantovault.in.net/verification.google
 https://data-packet.regionaltelemetry.in.net/verification.google
 https://data-pipeline.vectorforge.in.net/verification.google
+https://data-relay.infovector.in.net/verification.google
 https://data-sync-00.grandemuro.in.net/verification.google
 https://data-sync-01.silberstrom.in.net/verification.google
 https://data-sync-v2.silberstern.in.net/verification.google
@@ -15341,6 +15383,7 @@ https://dl.dropboxusercontent.com/scl/fi/5h9hwpknqlaqd1xzrlgu3/optimized_MSI.png
 https://dl.dropboxusercontent.com/scl/fi/v2kq2p1pi88qdu0bwyi2t/ZoomInstallerUpdate8.3.zip
 https://dl.dropboxusercontent.com/scl/fi/x97ra6bino9olbolx8ha8/optimized_MSI.png
 https://dla.zhuayoukong.com/oldapk/all/zhuayoukong/btgame/2511.apk
+https://dlnhov4.granulatetouch.in.net/verification.google
 https://dmaii.co/sys.vbs
 https://dmv.uqoo.nl/a/Adobe.ClientSetup.msi
 https://dn710909.ca.archive.org/0/items/optimized_msi_20260318_0931/optimized_MSI.png
@@ -15374,6 +15417,7 @@ https://dpaste.com/46DHTVYZ5.txt
 https://dpaste.com/EG9HNFJBP.txt
 https://dpvvgwcg.stormglade.in.net/verification.google
 https://dpwqj.gronstat.in.net/verification.google
+https://dqkgif.granulatetouch.in.net/verification.google
 https://dr1v5-frame.dropaway.in.net/verification.google
 https://dr4vv-forge.farjoran.in.net/verification.google
 https://dr4w-trail.ember-grid.in.net/verification.google
@@ -15900,6 +15944,7 @@ https://farm-run.rabbitfarm.in.net/verification.google
 https://farm03.rabbitfarm.in.net/verification.google
 https://fast-9.eluvia.in.net/verification.google
 https://fast-trace.dynaflux.in.net/verification.google
+https://fast-track.nanostream.in.net/verification.google
 https://fast-track.quantacircuit.in.net/verification.google
 https://fast-track.velocityterminal.in.net/verification.google
 https://fast-web.luminos.in.net/verification.google
@@ -16006,6 +16051,7 @@ https://flerai.dombove.in.net/verification.google
 https://flh72g.highjoke.in.net/verification.google
 https://flight-path.aerovector.in.net/verification.google
 https://flow-core.fluxbridge.in.net/verification.google
+https://flow-drop.datacascade.in.net/verification.google
 https://flow-gate.synchromesh.in.net/verification.google
 https://flow-guide.centralizedduct.in.net/verification.google
 https://flow-master.urbanflowmetric.in.net/verification.google
@@ -17110,6 +17156,7 @@ https://green-road.altovante.in.net/verification.google
 https://greenfields-world.cc/dev/jeFopmg.txt
 https://grid-backbone.reinforcedmatrix.in.net/verification.google
 https://grid-mesh.thistlecore.in.net/verification.google
+https://grid-secure.cyberlattice.in.net/verification.google
 https://gridfocus.cloudfloot.in.net/verification.google
 https://grim-vault.grimasdiscuss.in.net/verification.google
 https://grim06.grimasdiscuss.in.net/verification.google
@@ -17284,6 +17331,7 @@ https://hyp3-grid.onelight.in.net/verification.google
 https://hyp3-track.z7hire.in.net/verification.google
 https://hyp3r-stream.goodtime.in.net/verification.google
 https://hyp3r8-stream.octagonon.in.net/verification.google
+https://hyper-14b.granulatetouch.in.net/verification.google
 https://hyper-4uth.oakwhisper.in.net/verification.google
 https://hyper-f4ll.paragonforge.in.net/verification.google
 https://hyper-guid3.botslap.in.net/verification.google
@@ -17353,6 +17401,7 @@ https://index-master.foundationmetric.in.net/verification.google
 https://indiasproperty.com/
 https://infant-woodgrid.infantwoodman.in.net/verification.google
 https://info-orbit.digisphere.in.net/verification.google
+https://info-point.infovector.in.net/verification.google
 https://info-resmi2477.blogspot.com/
 https://info-summit.datacrest.in.net/verification.google
 https://infra-hub.altimetrica.in.net/verification.google
@@ -17654,6 +17703,7 @@ https://lejrmakei.com/WORDPRESS%202026.zip
 https://lent-net.chopexcellent.in.net/verification.google
 https://letcurre.windright.in.net/verification.google
 https://lettercompi.aspdos.in.net/verification.google
+https://level-check.datacascade.in.net/verification.google
 https://level-check.elevationnodebox.in.net/verification.google
 https://lfgs.latticeharbinger.in.net/verification.google
 https://lgd9j832.devopsn.in.net/verification.google
@@ -17691,6 +17741,7 @@ https://link-v2-power.starkewand.in.net/verification.google
 https://link-v6.organiclink.in.net/verification.google
 https://link-v7-entry.petittravail.in.net/verification.google
 https://link-v9-point.vectorbase.in.net/verification.google
+https://link-vault.cyberlattice.in.net/verification.google
 https://link-x9-power.starkewolke.in.net/verification.google
 https://link-y5.vertexanchor.in.net/verification.google
 https://link-z0-sat.grandeserveur.in.net/verification.google
@@ -17992,6 +18043,7 @@ https://mermarkal5.velorune.in.net/verification.google
 https://mermeshor.velvet-dune.in.net/verification.google
 https://mernex0or.dartvar.in.net/verification.google
 https://mertide3on.bramblepath.in.net/verification.google
+https://mesh-gate.cyberlattice.in.net/verification.google
 https://mesh-gateway.reinforcedmatrix.in.net/verification.google
 https://mesh-proxy.cyberhaven.in.net/verification.google
 https://messteady.brimvale.in.net/verification.google
@@ -18032,6 +18084,7 @@ https://mi5t-mount.x7lora.in.net/verification.google
 https://micr-line.cloudgloss.in.net/verification.google
 https://micr-line.cloudgloss.in.net/verification.google/
 https://micro-bio.hryvmicrobiol.in.net/verification.google
+https://micro-bit.nanostream.in.net/verification.google
 https://micro-chip.circuitflux.in.net/verification.google
 https://micro-pulse.quantaflux.in.net/verification.google
 https://micro-scale.nanovector.in.net/verification.google
@@ -18071,6 +18124,7 @@ https://mobshah.com/kbIkdoe.txt
 https://mod-logic.automodcompass.in.net/verification.google
 https://mod-track.automodcompass.in.net/verification.google
 https://mod3-trace.invulshuga.in.net/verification.google
+https://mode14-node.coddlcaught.in.net/verification.google
 https://modelultra.takefree.in.net/verification.google
 https://modern8-signal.logcheck.in.net/verification.google
 https://modernbranc.cl0udmere.in.net/verification.google
@@ -18228,6 +18282,7 @@ https://nest09.cryptonest.in.net/verification.google
 https://net-88-global.mondofuturo.in.net/verification.google
 https://net-d8-global.optimumvia.in.net/verification.google
 https://net-d88-global.termoviva.cfd/verification.google
+https://net-fiber.cyberlattice.in.net/verification.google
 https://net-hub.commundesign.in.net/verification.google
 https://net-v11-global.mondolucente.in.net/verification.google
 https://net-v6-global.biosphera.in.net/verification.google
@@ -18581,6 +18636,7 @@ https://pastes.io/raw/5K9OAroT
 https://pasteur0-lab.alaspasteur.in.net/verification.google
 https://pasturepow.fabulos.in.net/verification.google
 https://path-bridge.linearbackbone.in.net/verification.google
+https://path-finder.infovector.in.net/verification.google
 https://path-finder.orbitforge.in.net/verification.google
 https://path-net.goldpath.in.net/verification.google
 https://path-site.goldpath.in.net/verification.google
@@ -18705,6 +18761,7 @@ https://point4work.virtualresource.in.net/verification.google
 https://pol43-plate.nexuspatronage.in.net/verification.google
 https://pole-rt-inger.com/WORDPRESS%202026.zip
 https://polygon-svc.vertexbloom.in.net/verification.google
+https://pool-manager.datacascade.in.net/verification.google
 https://pop-x88-node.optico-voda.in.net/verification.google
 https://port-fol.makuhaportfol.in.net/verification.google
 https://port-v8.makuhaportfol.in.net/verification.google
@@ -18981,6 +19038,7 @@ https://range-extend.signalcrest.in.net/verification.google
 https://range-finder.isothermalmetric.in.net/verification.google
 https://rantier-loopnode.rantiercling.in.net/verification.google
 https://rapid-fire.velocityterminal.in.net/verification.google
+https://rapid-io.nanostream.in.net/verification.google
 https://raster-node.pixelmatrix.in.net/verification.google
 https://rav3-plate.onfloor.in.net/verification.google
 https://rav3n-span.gothrough.in.net/verification.google
@@ -19915,6 +19973,7 @@ https://rnanif-gate.stoppit.in.net/verification.google
 https://rne4d7-zone.cuffsorbsky.in.net/verification.google
 https://rnedia-field.duskforge.in.net/verification.google
 https://rnolecu0-drive.cinderpeak.in.net/verification.google
+https://rnonito-watch.granulatetouch.in.net/verification.google
 https://ro4d-stream.jokerun.in.net/verification.google
 https://road-to-hell.top/m
 https://road-to-hell.top/o
@@ -19959,6 +20018,7 @@ https://round-trip.orbitforge.in.net/verification.google
 https://rout3-glow.skyl0om.in.net/verification.google
 https://rout34-point.stonemuse.in.net/verification.google
 https://routcha.cokefun.in.net/verification.google
+https://route-api.infovector.in.net/verification.google
 https://route-engine.navigationalpath.in.net/verification.google
 https://route-spa.windfield.in.net/verification.google
 https://routercanva.bluelight.in.net/verification.google
@@ -20185,6 +20245,7 @@ https://shell2core.veloxsite.in.net/verification.google
 https://shelldecode.gl1mmeroak.in.net/verification.google
 https://shie1d-leaf.coddlcaught.in.net/verification.google
 https://shiel-track.farngo.in.net/verification.google
+https://shield-base.cyberlattice.in.net/verification.google
 https://shield-base.refractorymatrix.in.net/verification.google
 https://shield-relay.reinforcedmatrix.in.net/verification.google
 https://shieldretainer.rockbay.in.net/verification.google
@@ -20249,6 +20310,7 @@ https://slopar.farmanager.in.net/verification.google
 https://slowdemand.fabulos.in.net/verification.google
 https://small-frame.cameoinfusion.in.net/verification.google
 https://small-hub.silvura.in.net/verification.google
+https://small-packet.nanostream.in.net/verification.google
 https://small-unit.nanovector.in.net/verification.google
 https://smarlog.vexmoor.in.net/verification.google
 https://smarlog.vexmoor.in.net/verification.google/
@@ -20258,6 +20320,7 @@ https://smaton.z7hire.in.net/verification.google
 https://smelt-logic.metallurgiclink.in.net/verification.google
 https://smelt-logic.novaforge.in.net/verification.google
 https://snapsgene.inkpit.in.net/verification.google
+https://snapshotgeyser.coddlcaught.in.net/verification.google
 https://snbz.radiantventurex.in.net/verification.google
 https://social-hau.silvershade.in.net/verification.google
 https://socketusercontent.com/blob/QGKJPg-gHR5Q43Kt6GATFGgDa_B1SZpimbgZA0eXdZxo
@@ -20481,6 +20544,7 @@ https://str3-scope.sleepbut.in.net/verification.google
 https://stre-v9.aquastream.in.net/verification.google
 https://stre06.aquastream.in.net/verification.google
 https://stream-audit.urbanflowmetric.in.net/verification.google
+https://stream-view.datacascade.in.net/verification.google
 https://streamervial.slashbak.in.net/verification.google
 https://streamglo.plotsafe.in.net/verification.google
 https://streamnoble.gothrough.in.net/verification.google
@@ -20989,6 +21053,7 @@ https://three.s3.cubbit.eu/amb-Raw-fileupload.txt
 https://three.s3.cubbit.eu/oriv1.7.2.0-venry-1upload.txt
 https://thyc.sandball.in.net/verification.google
 https://tideruntime.checkbro.in.net/verification.google
+https://tier-access.datacascade.in.net/verification.google
 https://tiger.kesug.com/img_053646.png
 https://tikuprivate-uz.sbs/TikTok18.apk
 https://timb-point.lockoak.in.net/verification.google
@@ -21045,6 +21110,7 @@ https://trace-44-alpha.froidelumiere.in.net/verification.google
 https://trace-beacon.navigationalpath.in.net/verification.google
 https://trace-element.isotopecleaner.in.net/verification.google
 https://trace-net.volumex.in.net/verification.google
+https://trace-sync.infovector.in.net/verification.google
 https://trace-unit.volumex.in.net/verification.google
 https://trace-x1-alpha.genomax.in.net/verification.google
 https://trace-x11-alpha.nux-systems.in.net/verification.google
@@ -21282,6 +21348,7 @@ https://vec-core.suspendvector.in.net/verification.google
 https://vec-v1.suspendvector.in.net/verification.google
 https://vect01-gate.latticepatronage.in.net/verification.google
 https://vector-base.navigationalpath.in.net/verification.google
+https://vector-node.infovector.in.net/verification.google
 https://vehb.chromeflack.in.net/verification.google
 https://vel-data.veloxis.in.net/verification.google
 https://vel-lineix.frost-echo.in.net/verification.google
@@ -21555,6 +21622,7 @@ https://wild-cat.estoria.in.net/verification.google
 https://wild-mount.vivatwoman.in.net/verification.google
 https://wild-river.estrellis.in.net/verification.google
 https://wild-sync.wolfhaven.in.net/verification.google
+https://wildcircuit.granulatetouch.in.net/verification.google
 https://wind-flow.brillwhistleb.in.net/verification.google
 https://wind-flow.winddock.in.net/verification.google
 https://wind-unit.windcrest.in.net/verification.google
@@ -21831,6 +21899,7 @@ https://zonawood.org/download/fetch/list6/27126/view/f03a548c-96e2-478d-95c0-d3c
 https://zonawood.org/download/fetch/list7/22587/view/425f5ffd-be0e-485d-9be4-f4aaae07dfef
 https://zonawood.org/download/fetch/list8/25319/view/b923fa53-d44a-4f36-be14-b6f8e7d145f6
 https://zonawood.org/download/fetch/list9/13621/view/630bc2a7-8ca6-40be-b927-086185fb490a
+https://zone-portal.cyberlattice.in.net/verification.google
 https://zone-portal.metropolitangrid.in.net/verification.google
 https://zone-v11-area.silberstromz.in.net/verification.google
 https://zone-v2-area.silberstromx.in.net/verification.google
