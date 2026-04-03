@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-03T18:46:19Z",
-  "run_id": 164374,
+  "generated_at": "2026-04-03T21:33:06Z",
+  "run_id": 164375,
   "feeds_processed": 12,
   "feeds_skipped": 24,
   "feeds_failed": 0,
   "counts": {
-    "ips": 196881,
-    "urls": 21701,
+    "ips": 196824,
+    "urls": 21735,
     "domains": 160612,
     "hashes": 9460
   },
