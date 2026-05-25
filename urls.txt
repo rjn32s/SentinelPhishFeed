@@ -1855,6 +1855,8 @@ http://115.210.196.120:41119/i
 http://115.216.136.234:59694/i
 http://115.218.57.14:20200/i
 http://115.218.60.94:20200/bin.sh
+http://115.48.128.180:48881/bin.sh
+http://115.48.128.180:48881/i
 http://115.48.13.208:42976/bin.sh
 http://115.48.13.208:42976/i
 http://115.48.133.144:42929/bin.sh
@@ -2752,6 +2754,7 @@ http://116.138.97.81:45537/i
 http://116.139.139.27:38710/bin.sh
 http://116.139.139.27:38710/i
 http://116.139.183.5:48771/bin.sh
+http://116.139.240.165:39639/bin.sh
 http://116.139.240.165:39639/i
 http://116.139.240.205:56269/bin.sh
 http://116.139.35.213:35733/bin.sh
@@ -3319,6 +3322,7 @@ http://123.12.225.38:50228/bin.sh
 http://123.12.225.38:50228/i
 http://123.12.226.173:48250/bin.sh
 http://123.12.226.173:48250/i
+http://123.12.228.96:36085/i
 http://123.12.23.29:33957/i
 http://123.12.236.135:43822/i
 http://123.12.236.23:59227/bin.sh
@@ -3894,6 +3898,8 @@ http://125.40.68.185:47171/bin.sh
 http://125.40.68.185:47171/i
 http://125.40.81.168:55552/bin.sh
 http://125.40.81.168:55552/i
+http://125.40.83.241:38958/bin.sh
+http://125.40.83.241:38958/i
 http://125.40.83.30:45417/bin.sh
 http://125.40.83.30:45417/i
 http://125.40.86.249:54487/bin.sh
@@ -6009,6 +6015,7 @@ http://176.65.139.26/X
 http://176.65.139.26/X86_64
 http://176.65.139.26/bins.sh
 http://176.65.139.26/jaws.sh
+http://176.65.139.3/bot-armv7l
 http://176.65.139.36/bins/arm
 http://176.65.139.36/bins/arm5
 http://176.65.139.36/bins/arm6
@@ -7654,6 +7661,14 @@ http://194.163.151.12/windyloveyou/windy.spc
 http://194.163.151.12/windyloveyou/windy.x86
 http://194.163.151.12/windyloveyou/windy.x86_64
 http://194.26.192.44/iciv36xx0z
+http://194.32.248.126/updates/Microsoft%20Windows%20Health%20Service%20Diagnostics.exe
+http://194.32.248.126/updates/Microsoft%20Windows%20PnP%20Device%20Driver%20Loader.exe
+http://194.32.248.126/updates/OneDrive%20Sync%20Shell%20Extension%20Processor.exe
+http://194.32.248.126/updates/System%20Protection%20Background%20Task.exe
+http://194.32.248.126/updates/Windows%20Update%20Diagnostic%20Task%20Handler.exe
+http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe
+http://194.32.248.126/updates/svchost.exe
+http://194.32.248.126/updates/svchost_laptop.exe
 http://194.41.112.253/bot.exe
 http://194.58.47.204/a.sh
 http://194.69.200.166:46202/bin.sh
@@ -8468,6 +8483,7 @@ http://221.14.170.18:59686/i
 http://221.14.170.58:43514/bin.sh
 http://221.14.170.58:43514/i
 http://221.14.174.59:55850/i
+http://221.14.175.175:32935/i
 http://221.14.189.105:47504/bin.sh
 http://221.14.189.105:47504/i
 http://221.14.189.170:52257/i
@@ -9248,6 +9264,7 @@ http://27.37.110.143:50779/i
 http://27.37.110.185:40003/i
 http://27.37.110.234:43603/i
 http://27.37.110.39:41074/i
+http://27.37.111.151:49663/i
 http://27.37.111.24:43603/i
 http://27.37.112.190:41763/bin.sh
 http://27.37.112.190:41763/i
@@ -9798,6 +9815,7 @@ http://42.224.197.109:36583/bin.sh
 http://42.224.197.109:36583/i
 http://42.224.2.129:53615/Mozi.m
 http://42.224.2.184:49704/bin.sh
+http://42.224.2.184:49704/i
 http://42.224.25.249:48311/bin.sh
 http://42.224.25.249:48311/i
 http://42.224.25.80:50933/i
@@ -10100,6 +10118,7 @@ http://42.230.24.165:59393/bin.sh
 http://42.230.24.165:59393/i
 http://42.230.25.83:59989/bin.sh
 http://42.230.25.83:59989/i
+http://42.230.39.169:54023/bin.sh
 http://42.230.39.169:54023/i
 http://42.230.40.82:37881/bin.sh
 http://42.230.40.82:37881/i
@@ -10202,7 +10221,10 @@ http://42.232.72.116:43340/i
 http://42.232.86.121:60521/bin.sh
 http://42.232.87.147:60914/bin.sh
 http://42.232.87.147:60914/i
+http://42.232.87.67:38503/bin.sh
 http://42.232.87.67:38503/i
+http://42.232.89.246:45833/bin.sh
+http://42.232.89.246:45833/i
 http://42.233.104.106:45988/bin.sh
 http://42.233.104.106:45988/i
 http://42.233.104.50:51598/i
@@ -11640,6 +11662,14 @@ http://45.88.186.209/Bin/ScreenConnect.ClientSetup.exe
 http://45.88.186.209/bin/support.client.exe
 http://45.88.186.69/Bin/ScreenConnect.ClientSetup.exe
 http://45.88.186.69/bin/support.client.exe
+http://45.90.98.190:5001/amd64
+http://45.90.98.190:5001/arm
+http://45.90.98.190:5001/arm5
+http://45.90.98.190:5001/arm6
+http://45.90.98.190:5001/arm64
+http://45.90.98.190:5001/mips
+http://45.90.98.190:5001/mipsle
+http://45.90.98.190:5001/x86
 http://45.90.98.190:7231/bins.sh
 http://45.92.1.213/Bin/ScreenConnect.ClientSetup.exe
 http://45.92.1.66/Bin/ScreenConnect.ClientSetup.exe
@@ -12062,6 +12092,7 @@ http://59.96.141.96:58041/i
 http://59.96.142.113:59680/bin.sh
 http://59.96.142.113:59680/i
 http://59.96.142.174:57395/bin.sh
+http://59.96.142.175:38767/i
 http://59.96.142.179:42598/bin.sh
 http://59.96.142.72:55043/bin.sh
 http://59.96.142.72:55043/i
@@ -13823,6 +13854,7 @@ http://91.92.242.236/files-129312398/files/file_5002ecd7b717fe68.exe
 http://91.92.242.236/files-129312398/files/file_50287593ed694836.exe
 http://91.92.242.236/files-129312398/files/file_53bcb69c7af4ffe6.exe
 http://91.92.242.236/files-129312398/files/file_58e75d774ea83f95.exe
+http://91.92.242.236/files-129312398/files/file_5a73b563a79eac7a.exe
 http://91.92.242.236/files-129312398/files/file_5ab3abbbdad65db3.exe
 http://91.92.242.236/files-129312398/files/file_60ac81dcbb06b186.exe
 http://91.92.242.236/files-129312398/files/file_60f25696fe0ad71f.exe
@@ -14045,6 +14077,7 @@ http://94.156.152.234/realtek.sh
 http://94.156.152.234/selfrep.sh
 http://94.156.152.234/testload.sh
 http://94.156.152.234/x86
+http://94.156.152.234:8080/arm7
 http://94.156.152.234:8080/armv5l
 http://94.156.152.234:8080/armv6l
 http://94.156.152.234:8080/armv7l
@@ -15965,6 +15998,7 @@ https://77.91.96.50/bin/support.client.exe
 https://781q.convinc8mission.bet/software-distribution-dxnp2c7/meta-verify.index
 https://7dml.netstack.lat/0shl86c5-49ae-4854-a5b9-368f88ad4245/auth.check
 https://7fsk.bexla9rin.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk
+https://7louefau.microservice-compass.digital/
 https://7m5mdmsm.qeniral8.surf/kiss-m0dem-defndr-myrai-sdf934/kwtor.dll
 https://7mnkjpr.scient-telograyka.lat/kl0re-best34kjfeen-fmmexcel-wr3775-on75/on3.verification
 https://7onw.byerottin8.lat/kl0re-best34kjfeen-fmmexcel-wr3775-on75/on3.verification
@@ -16372,6 +16406,7 @@ https://axis.silvermoonlight.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.
 https://axis4logicnet.torquegridunit.bet/software-distribution-dxnp2c7/meta-verify.index
 https://axwq1.sorix7el.lat/sh1ne-apps-testsh-zec833-lives7z/put34b.camp
 https://ayanattaarbab.github.io/netflix-ui/
+https://ayov.olcsongepet.hu/f98df549-ed2a-4a85-ace1-1b9c3f88e999
 https://azktfv.wildflora-processing-network.garden/06b418ca-748f-48a6-a20b-734b940a6b25/ggl.bsc
 https://azur3-branch.sunmeadow.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://azwxo.narrownessoutri8ht.pics/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
@@ -17762,6 +17797,7 @@ https://flux.silvermoonlight.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.
 https://flux.urbanpulse.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://flux.vmesscab.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://fmnnyp.qen2virex.lat/sh1ne-apps-testsh-zec833-lives7z/put34b.camp
+https://fmslna.nr1office.hu/ba14db08-71ec-4426-8b31-89cca907a26f
 https://foci5taskhub.mero2beam.surf/software-distribution-dxnp2c7/meta-verify.index
 https://focus-mutovka-transfer-able.courses/a87982c8-b7e5-4323-8793-3b7232b68d90/google.ct
 https://focusflame.bexla9rin.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk
@@ -18519,6 +18555,7 @@ https://idx.rowlocks.pics/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
 https://ie.nhyfhbc.net/adodmsisk/index.html
 https://ie78lu.greenbloom.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://ieeljt.fittkor.hu/0ea4384d-3295-4e89-829c-803c6e58deff
+https://iejzed.liltkereskedohaz.hu/71130d2d-1299-4a5b-a840-5ccf59ac8ff2
 https://ieke13.7toralex.lat/sh1ne-apps-testsh-zec833-lives7z/put34b.camp
 https://if8drhcl.greenbloom.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://igqe.belief-handcraft.bet/software-distribution-dxnp2c7/meta-verify.index
@@ -19105,6 +19142,7 @@ https://lumvaleum3.kyr1vomen.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://lunar2waveunit.alphafluxnode.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://lunarwaveunit.titanmeshflow.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://lv5evztg.cyberneticprostheticlab.digital/
+https://lvavdb.nyitottkeramia.hu/a0d2d88c-7c10-401b-bfbb-2f0e4a3506ee
 https://lvbj1i51.codeflux.lat/0shll3eb-5bc6-4f5a-aac4-96cb0296157a/auth.review
 https://lvhpvce.yeldfor.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://lwbc.actsdks.surf/draw-msft-cl0ud-acc-trust7934/gettwo.dll
@@ -19620,6 +19658,7 @@ https://oak-branch.swimsuit-unable.lat/shednndce-looge-hronospp-up83sds35-onboar
 https://oakbalancer.setqueueat.lat/so7f5fa6-c8d5-4c28-9e4a-c9fb43ca0d86/verify.check
 https://oasis1-span.pixel-harbor.life/c2cb43a1-3db9-486a-a707-ee88bcdb4813/google.ocx
 https://oasis5-well.so1aver.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
+https://oazd.olcsongepet.hu/0b9ddb80-1e61-48ac-a257-4e207a2240fd
 https://ob53rv-mesh.greenbloom.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://obese-table-usweb-play.wiki/b7f892e0-e5c3-4e36-9aa6-26e0daecc724/google.cl
 https://obese-uzousweb-play.wiki/6a15feb6-1c4b-4183-962e-b5f4376b3e5a/google.ct
@@ -21986,6 +22025,7 @@ https://wave7logicnet.felo7wave.surf/software-distribution-dxnp2c7/meta-verify.i
 https://wayradigitalmusic.com/vs/CZ1290078882100-8261001.zip
 https://wayradigitalmusic.com/vs/RC07833082771003-003281.zip
 https://wayradigitalmusic.com/vs/bst.vbs
+https://wdplqn.liltkereskedohaz.hu/035d5c0c-7925-4c67-a94c-b4cf6f154a86
 https://we-max-photo.vercel.app/
 https://web-access7.foersteron.work/verify-token-7a1f/runtime.validator
 https://web-git-05-08-trystagingbutprobwillfailbcunauthe-c7b77b-uniswap.vercel.app/
@@ -22282,6 +22322,7 @@ https://ysuz4thn.bellow-norushka-pianissimo.digital/
 https://yuo7qefc.mixruby.life/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
 https://yv1v.di7ectkoshevoy.lat/sh1ne-logs-neppy-upd8335-www3/get123c.camp
 https://yv1v.di7ectkoshevoy.lat/shednndce-looge-hronospp-up83sds35-onboard/wverif.camp
+https://yvcg.oltigergely.hu/86b9499e-bc56-4220-804d-32d305158a58
 https://ywh94lky.champag-mannered.digital/
 https://yxhe.voidstream.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://yywyvtur.hor1inka-lonely.digital/
