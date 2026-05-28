@@ -432,6 +432,7 @@ http://110.36.20.85:36342/bin.sh
 http://110.36.20.85:36342/i
 http://110.36.20.85:54307/bin.sh
 http://110.36.20.85:54307/i
+http://110.36.22.249:40491/bin.sh
 http://110.36.22.249:40491/i
 http://110.36.23.216:37527/bin.sh
 http://110.36.23.216:37527/i
@@ -498,6 +499,7 @@ http://110.36.27.207:47829/i
 http://110.36.27.207:49457/bin.sh
 http://110.36.28.183:34447/bin.sh
 http://110.36.28.183:34447/i
+http://110.36.28.183:40436/i
 http://110.36.28.183:55158/i
 http://110.36.28.230:44960/i
 http://110.36.28.230:54129/bin.sh
@@ -651,6 +653,7 @@ http://110.36.86.84:59527/bin.sh
 http://110.36.88.208:56175/i
 http://110.36.89.2:44679/bin.sh
 http://110.36.89.2:44679/i
+http://110.36.89.2:49663/bin.sh
 http://110.36.89.2:50944/bin.sh
 http://110.36.89.2:50944/i
 http://110.36.89.45:46808/bin.sh
@@ -1080,6 +1083,8 @@ http://110.37.90.59:51873/bin.sh
 http://110.37.90.59:51873/i
 http://110.37.91.29:36024/bin.sh
 http://110.37.91.29:36024/i
+http://110.37.91.29:37605/bin.sh
+http://110.37.91.29:37605/i
 http://110.37.91.29:39343/bin.sh
 http://110.37.91.29:39343/i
 http://110.37.91.29:43196/bin.sh
@@ -1520,6 +1525,7 @@ http://112.248.185.5:54937/i
 http://112.248.185.5:57152/bin.sh
 http://112.248.185.5:57152/i
 http://112.248.186.232:46881/bin.sh
+http://112.248.186.232:46881/i
 http://112.248.187.167:34638/bin.sh
 http://112.248.187.167:34638/i
 http://112.248.187.52:47274/bin.sh
@@ -2110,6 +2116,8 @@ http://115.52.29.200:33015/bin.sh
 http://115.52.29.200:33015/i
 http://115.52.52.55:54972/bin.sh
 http://115.52.52.55:54972/i
+http://115.52.83.228:52985/bin.sh
+http://115.52.83.228:52985/i
 http://115.53.12.146:50572/bin.sh
 http://115.53.12.146:50572/i
 http://115.53.208.109:39846/bin.sh
@@ -2744,6 +2752,8 @@ http://117.190.134.253:41077/i
 http://117.193.110.127:55917/bin.sh
 http://117.193.110.127:55917/i
 http://117.193.152.175:36872/bin.sh
+http://117.196.185.190:56035/bin.sh
+http://117.196.185.190:56035/i
 http://117.198.25.85:47718/i
 http://117.205.166.231:60050/bin.sh
 http://117.205.170.102:33473/bin.sh
@@ -3206,6 +3216,7 @@ http://123.12.156.24:41276/i
 http://123.12.167.30:58492/bin.sh
 http://123.12.185.130:40393/bin.sh
 http://123.12.185.130:40393/i
+http://123.12.193.100:45734/bin.sh
 http://123.12.193.246:51901/bin.sh
 http://123.12.193.246:51901/i
 http://123.12.194.122:38974/bin.sh
@@ -4267,6 +4278,13 @@ http://144.172.99.140/27/goodtimetowintheworld.hta
 http://144.208.127.191/live-013-0512.exe
 http://144.31.134.1/build.exe
 http://144.31.191.28/WW26A.exe
+http://146.19.213.198:8080/vulcan_386
+http://146.19.213.198:8080/vulcan_amd64
+http://146.19.213.198:8080/vulcan_arm5
+http://146.19.213.198:8080/vulcan_arm64
+http://146.19.213.198:8080/vulcan_arm7
+http://146.19.213.198:8080/vulcan_mips
+http://146.19.213.198:8080/vulcan_mipsle
 http://147.45.45.245/genius
 http://148.170.135.198:51859/bin.sh
 http://148.170.135.198:51859/i
@@ -6669,6 +6687,7 @@ http://182.116.112.123:48051/bin.sh
 http://182.116.112.123:48051/i
 http://182.116.113.84:33696/bin.sh
 http://182.116.113.84:33696/i
+http://182.116.114.173:33396/bin.sh
 http://182.116.115.240:56013/bin.sh
 http://182.116.115.240:56013/i
 http://182.116.116.135:42966/bin.sh
@@ -6945,6 +6964,7 @@ http://182.121.245.87:45266/bin.sh
 http://182.121.245.87:45266/i
 http://182.121.248.218:51385/bin.sh
 http://182.121.248.218:51385/i
+http://182.121.254.168:57694/bin.sh
 http://182.121.41.199:56616/bin.sh
 http://182.121.41.199:56616/i
 http://182.121.41.1:58590/i
@@ -7289,6 +7309,7 @@ http://182.176.116.4:60859/i
 http://182.176.94.171:48805/bin.sh
 http://182.176.94.171:48805/i
 http://182.187.137.7:56824/bin.sh
+http://182.187.137.7:56824/i
 http://182.191.69.89:40817/bin.sh
 http://182.23.87.242:48272/i
 http://182.240.195.58:33480/bin.sh
@@ -8240,6 +8261,8 @@ http://219.157.182.229:51628/bin.sh
 http://219.157.182.229:51628/i
 http://219.157.189.201:46285/bin.sh
 http://219.157.189.201:46285/i
+http://219.157.191.90:46285/bin.sh
+http://219.157.191.90:46285/i
 http://219.157.214.66:38487/i
 http://219.157.218.100:47777/bin.sh
 http://219.157.218.100:47777/i
@@ -10414,6 +10437,7 @@ http://42.56.150.65:44943/bin.sh
 http://42.56.150.65:44943/i
 http://42.56.165.38:48413/bin.sh
 http://42.56.165.38:48413/i
+http://42.56.176.10:34631/i
 http://42.56.191.203:46645/bin.sh
 http://42.56.191.203:46645/i
 http://42.56.197.204:43772/bin.sh
@@ -10558,6 +10582,17 @@ http://45.11.229.145/manji.sh4
 http://45.11.229.145/manji.spc
 http://45.11.229.145/manji.x86
 http://45.11.229.145/x86
+http://45.141.26.218/main_arm
+http://45.141.26.218/main_arm5
+http://45.141.26.218/main_arm6
+http://45.141.26.218/main_arm7
+http://45.141.26.218/main_m68k
+http://45.141.26.218/main_mips
+http://45.141.26.218/main_mpsl
+http://45.141.26.218/main_ppc
+http://45.141.26.218/main_sh4
+http://45.141.26.218/main_x86
+http://45.141.26.218/main_x86_64
 http://45.144.93.164:8080/sshd
 http://45.144.93.164:8081/sshd
 http://45.144.93.164:8082/sshd
@@ -12146,6 +12181,8 @@ http://61.176.13.144:33721/bin.sh
 http://61.176.13.144:33721/i
 http://61.176.17.167:42796/bin.sh
 http://61.176.17.167:42796/i
+http://61.176.178.35:49208/bin.sh
+http://61.176.178.35:49208/i
 http://61.176.210.63:39040/bin.sh
 http://61.176.210.63:39040/i
 http://61.216.49.125:44113/i
@@ -14964,6 +15001,13 @@ http://parasjha.info/bins/bot_powerpc
 http://parasjha.info/bins/bot_sh4
 http://parasjha.info/bins/bot_x86
 http://parasjha.info/bins/bot_x86_64
+http://parisspinsnow.com:8080/vulcan_386
+http://parisspinsnow.com:8080/vulcan_amd64
+http://parisspinsnow.com:8080/vulcan_arm5
+http://parisspinsnow.com:8080/vulcan_arm64
+http://parisspinsnow.com:8080/vulcan_arm7
+http://parisspinsnow.com:8080/vulcan_mips
+http://parisspinsnow.com:8080/vulcan_mipsle
 http://park.terraview.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 http://passoverphysiqclass.wiki/8dc15019-74d9-459a-af06-8382bd308a1f/google.ct
 http://pastee.dev/r/5vai1jn1
@@ -15522,6 +15566,9 @@ https://14.46.136.77/clean
 https://14.46.136.77/i686
 https://14.46.136.77/sh
 https://14.46.136.77/x86_64
+https://148.163.124.99/hold.bat
+https://148.163.124.99/hold.js
+https://148.163.124.99/hold.vbs
 https://14yo-pulse.sena9vix.surf/software-distribution-dxnp2c7/meta-verify.index
 https://155b3nro.proxy-cascade.digital/
 https://158.94.208.197/Bin/ScreenConnect.ClientSetup.exe
@@ -15902,6 +15949,7 @@ https://airy.brightreef.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.goog
 https://airy.brightskyway.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://airy.ipfsway.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://airy.logicreef.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
+https://akfzi.lampaoszlopbolt.hu/273e0892-e361-4cb3-8939-92155a5f924b
 https://aklze.bercibutor.hu/5c2f6759-671b-46e8-872e-0671fd1a0488
 https://alchemical-formula-scroll.garden/866fee0b-b1db-4cf0-9cee-5d6bf2c4565a/google.ct
 https://alig9-trail.1dorelax.surf/kiss-m0dem-defndr-myrai-sdf934/kwtor.dll
@@ -18124,6 +18172,7 @@ https://hvzu.flen4vax.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://hwhza.brandbuilder.hu/6d2182cb-9cb4-4e68-839a-5cfa8dd7a030
 https://hwujn.welovevent.com/cf023057-c5f4-40c4-ad45-80df6993e956
 https://hxiueawy.eu.cc/d/7593fd5cefff
+https://hxoaa2b8.parossag.hu/
 https://hxuznl6x.biennial-polovauniverse.digital/
 https://hydraulic-actuator-valve.garden/fb3bee94-2817-46e3-b438-f2740a893218/google.ct
 https://hydropower-irrigation.garden/11acaa4a-2b88-418b-b652-63b84ab3eb57/google.cl
@@ -21133,6 +21182,7 @@ https://ultra.novi7xel.surf/UserCenterPlugin.dll
 https://ultra.silverwoodhub.lat/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://ultraceda.sorix3en.lat/sh1ne-logs-neppy-upd8335-www3/get123c.camp
 https://ultrafal.notice-ohlamon.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
+https://ulyow.legrandpartnerklub.hu/3df77533-10c3-4773-8de7-65d9ce5a7973
 https://un1o-loop.tavro4xel.lat/sh1ne-apps-testsh-zec833-lives7z/put34b.camp
 https://undo5logicway.undo-wingless.bet/software-distribution-dxnp2c7/meta-verify.index
 https://unhoq4.arch-vivarium.lat/draw-msft-cl0ud-acc-trust7934/gettwo.dll
@@ -21429,6 +21479,9 @@ https://wayradigitalmusic.com/vs/RC07833082771003-003281.zip
 https://wayradigitalmusic.com/vs/bst.vbs
 https://wdplqn.liltkereskedohaz.hu/035d5c0c-7925-4c67-a94c-b4cf6f154a86
 https://we-max-photo.vercel.app/
+https://we.love.servers.at.ioflood.net/hold.bat
+https://we.love.servers.at.ioflood.net/hold.js
+https://we.love.servers.at.ioflood.net/hold.vbs
 https://web-access7.foersteron.work/verify-token-7a1f/runtime.validator
 https://web-git-erin-update-numericalinputs-uniswap.vercel.app/explore
 https://web-git-erin-update-numericalinputs-uniswap.vercel.app/portfolio
@@ -21576,6 +21629,7 @@ https://winupd.smartcloudstorageset.lat/klpq2ia-77q9xy8b-kiew9b-vkd6-8aiuqtv/acc
 https://winupd.technoglobalnet.lat/sh5hne-c8b9b4-sskjy-znq2k2of-ybay3z/usr294-verif.confirm
 https://wipe3taskhub.everfo7mat.bet/software-distribution-dxnp2c7/meta-verify.index
 https://wire2pathgate.pylonstaticnet.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
+https://wiwcg.lelekbuvar.hu/4be3eaad-7dbf-4e92-81a6-b9731b084b38
 https://wk4z.retellin8tolle.bet/software-distribution-dxnp2c7/meta-verify.index
 https://wknzex.petalresourcehub.garden/fdfd834c-fa9a-453c-be53-f12c71dc1213/ggl.bsc
 https://wkqsof7p.network-pulse.digital/
