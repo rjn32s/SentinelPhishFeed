@@ -1210,6 +1210,8 @@ http://112.232.34.216:34355/bin.sh
 http://112.232.34.216:34355/i
 http://112.232.34.216:45434/bin.sh
 http://112.232.34.216:45434/i
+http://112.232.34.216:50450/bin.sh
+http://112.232.34.216:50450/i
 http://112.233.150.71:39108/bin.sh
 http://112.233.150.71:39108/i
 http://112.234.118.229:47219/bin.sh
@@ -1483,6 +1485,7 @@ http://115.42.75.111:38182/Mozi.a
 http://115.48.11.107:59711/bin.sh
 http://115.48.11.107:59711/i
 http://115.48.11.72:56497/bin.sh
+http://115.48.11.72:56497/i
 http://115.48.128.213:34316/bin.sh
 http://115.48.131.208:50799/i
 http://115.48.132.200:47180/bin.sh
@@ -1608,6 +1611,7 @@ http://115.49.68.186:58951/i
 http://115.49.7.141:37485/bin.sh
 http://115.49.7.141:37485/i
 http://115.49.7.17:57272/bin.sh
+http://115.49.7.17:57272/i
 http://115.49.74.172:46168/bin.sh
 http://115.49.74.172:46168/i
 http://115.49.74.188:53463/bin.sh
@@ -1828,6 +1832,7 @@ http://115.55.195.197:43333/i
 http://115.55.196.212:56432/bin.sh
 http://115.55.196.212:56432/i
 http://115.55.217.5:52830/bin.sh
+http://115.55.217.5:52830/i
 http://115.55.218.198:35795/bin.sh
 http://115.55.218.198:35795/i
 http://115.55.218.32:48283/bin.sh
@@ -2040,6 +2045,8 @@ http://115.57.237.132:38874/bin.sh
 http://115.57.237.132:38874/i
 http://115.57.238.77:46268/bin.sh
 http://115.57.238.77:46268/i
+http://115.57.243.240:39118/bin.sh
+http://115.57.243.240:39118/i
 http://115.57.244.20:50583/i
 http://115.57.247.167:47937/bin.sh
 http://115.57.247.241:48897/bin.sh
@@ -2808,6 +2815,7 @@ http://123.14.236.127:33228/i
 http://123.14.237.201:56703/bin.sh
 http://123.14.237.201:56703/i
 http://123.14.238.199:59716/i
+http://123.14.244.78:53002/bin.sh
 http://123.14.244.78:53002/i
 http://123.14.244.83:55404/bin.sh
 http://123.14.244.83:55404/i
@@ -3116,6 +3124,7 @@ http://124.131.130.85:35766/bin.sh
 http://124.131.130.85:35766/i
 http://124.131.132.59:36471/i
 http://124.131.133.189:48765/i
+http://124.131.155.158:43263/bin.sh
 http://124.131.155.158:43263/i
 http://124.131.156.186:34764/bin.sh
 http://124.131.156.186:34764/i
@@ -5297,6 +5306,7 @@ http://180.245.6.227:53685/bin.sh
 http://180.245.6.227:53685/i
 http://180.252.217.131:47955/bin.sh
 http://180.252.217.131:47955/i
+http://180.252.221.210:54024/bin.sh
 http://180.92.225.138:22966/i
 http://181.193.106.86:38347/bin.sh
 http://181.193.106.86:38347/i
@@ -5646,6 +5656,8 @@ http://182.119.71.177:60755/bin.sh
 http://182.119.71.177:60755/i
 http://182.119.8.101:57633/bin.sh
 http://182.119.8.101:57633/i
+http://182.119.8.139:38635/bin.sh
+http://182.119.8.139:38635/i
 http://182.119.93.67:50658/i
 http://182.120.145.126:49506/bin.sh
 http://182.120.145.126:49506/i
@@ -7999,6 +8011,7 @@ http://27.215.124.208:49890/bin.sh
 http://27.215.124.208:49890/i
 http://27.215.126.15:47199/bin.sh
 http://27.215.126.15:47199/i
+http://27.215.126.180:40935/i
 http://27.215.140.130:39579/bin.sh
 http://27.215.140.130:39579/i
 http://27.215.142.155:55051/bin.sh
@@ -8102,6 +8115,7 @@ http://27.44.144.168:43603/i
 http://27.44.144.172:49663/i
 http://27.44.144.178:36056/i
 http://27.44.144.179:43421/i
+http://27.44.144.207:60780/i
 http://27.44.144.208:57621/bin.sh
 http://27.44.144.208:57621/i
 http://27.44.144.30:46745/i
@@ -8611,6 +8625,8 @@ http://42.224.168.97:38680/i
 http://42.224.17.248:33841/bin.sh
 http://42.224.17.248:33841/i
 http://42.224.171.172:48679/i
+http://42.224.172.49:46579/bin.sh
+http://42.224.172.49:46579/i
 http://42.224.184.24:45232/bin.sh
 http://42.224.184.24:45232/i
 http://42.224.184.31:36040/bin.sh
@@ -9052,6 +9068,7 @@ http://42.235.90.54:49233/bin.sh
 http://42.235.90.54:49233/i
 http://42.235.91.184:58762/bin.sh
 http://42.235.91.184:58762/i
+http://42.235.92.168:52481/i
 http://42.235.92.238:41179/bin.sh
 http://42.235.92.238:41179/i
 http://42.235.93.247:36757/bin.sh
@@ -10147,6 +10164,7 @@ http://45.225.135.18/1.xml
 http://45.225.135.18/check.sh
 http://45.225.135.18/deploy_softwaretech.sh
 http://45.225.135.18/o
+http://45.225.135.18/w.sh
 http://45.225.135.18:8080/I53KfWiXe
 http://45.225.135.18:9482/3HHWfOep7RFh57unS2k
 http://45.231.145.15:52254/bin.sh
@@ -11491,6 +11509,8 @@ http://61.53.80.201:53095/bin.sh
 http://61.53.80.201:53095/i
 http://61.53.80.233:54338/bin.sh
 http://61.53.80.233:54338/i
+http://61.53.81.68:44744/bin.sh
+http://61.53.81.68:44744/i
 http://61.53.83.173:50804/bin.sh
 http://61.53.83.173:50804/i
 http://61.53.83.190:44962/bin.sh
@@ -12501,6 +12521,7 @@ http://91.92.242.236/files-129312398/files/file_48eaba086fa8f176.exe
 http://91.92.242.236/files-129312398/files/file_49084d3b125cbd42.exe
 http://91.92.242.236/files-129312398/files/file_4b52551724e14b53.exe
 http://91.92.242.236/files-129312398/files/file_4b7cf889b2d63efb.exe
+http://91.92.242.236/files-129312398/files/file_4c436927d72aed3f.msi
 http://91.92.242.236/files-129312398/files/file_4c46142d9f2fb57c.exe
 http://91.92.242.236/files-129312398/files/file_4c4781157c8c74ab.exe
 http://91.92.242.236/files-129312398/files/file_4e2018f59b40990b.exe
@@ -14374,6 +14395,7 @@ https://64.89.161.156/svchost.vbs
 https://64.89.161.187/Bin/ScreenConnect.ClientSetup.exe
 https://66.63.170.33/img/1.jpg
 https://6901jz2b.hesabdarishabahang.xyz/
+https://69x4o4j5.bet808.casino/
 https://69xb4m1d.betmajic.cc/
 https://6aq224cu.luxerabet100.com/
 https://6b4ki3sp.abt90kade.com/
@@ -15020,6 +15042,7 @@ https://erledigung.click/
 https://errcxxn.libertabet.tv/9f7eda19-fac9-451e-a68a-033499bf7a72
 https://errmx.defamogadas.xyz/7db760e6-9549-4a6b-9704-68a53c16a554
 https://es23okhi.enfej.win/
+https://esjvtzn6.aloo.bet/
 https://esnjo.tractor11.com/51a1db11-2cfd-4243-a99a-a9bb7d239870
 https://esqbzfn.bet365iran.com/45602df4-d39c-4827-8cae-1084f7bd043f
 https://estirarsobrelivro.com/MSI_101603.png
@@ -15200,6 +15223,7 @@ https://github.com/KhineKhineLin/Paralives-Ultimate-Trainer-2026/releases/downlo
 https://github.com/Kikimora-arch/solid-doodle/releases/download/Realease/JavaChecker.exe
 https://github.com/PondEscalator/nlp-quickbook-classification/releases/download/Release/NLP_Quickbook.zip
 https://github.com/TealWeaponsmith/arc-raiders-fps-optimizer-Ai/releases/download/Optimizer-Booster/ArkOptimizerFPS+.by.xxgamecoder.zip
+https://github.com/VideoPad-Free-for-PC/.github/archive/refs/heads/main.zip
 https://github.com/abhishek-dungen/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip
 https://github.com/abizerjafferjee/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip
 https://github.com/alkhudarigroupuae/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip
@@ -15939,7 +15963,6 @@ https://nickkpixx123.world/t.js
 https://nickylody124.life/t.js
 https://nienzsq.funbet24.bet/e429f601-18da-4107-8310-96ac56b1a83e
 https://niftxdi.bet313.app/e518012f-cbfd-4cf4-ad00-933028d01cef
-https://nightmare-cheats.pw/NMLoader4.2.1.zip
 https://nightmare-cheats.pw/download
 https://niowimq.shansline.com/775007a3-5703-46ae-bcd6-68f8ebc0f2f2
 https://njb2hl8n.betobord.live/
@@ -22058,6 +22081,7 @@ https://xupga.daneshkhanevade.xyz/f1239b7b-f498-489f-8cb1-5e59cb73b97e
 https://xvbfkf.jamjahani.app/2be3a3ae-4afa-4b5f-aaf4-a010647e6e60
 https://xvjjvja.differentialmamuli.store/ea1d6d5b-993a-45d3-a133-ea71d8beef3e
 https://xweepogg.jamjahani2026.football/eaafea33-00a7-4ed3-ad29-ddbe9349d2de
+https://xwnfpj7t.betrein.pro/
 https://xwtwlrkc.masaelmohandesi.xyz/b5ad4e07-9c41-46d3-94ab-63e209ebf91b
 https://xwwitjs.rayonbet.com/5e565f30-6b82-4f4b-94d0-1d30c4d9b952
 https://xxgbaenv.onlineblackjackscam.com/
