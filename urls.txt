@@ -2655,6 +2655,8 @@ http://123.10.15.235:48416/bin.sh
 http://123.10.15.235:48416/i
 http://123.10.201.107:33697/bin.sh
 http://123.10.201.107:33697/i
+http://123.10.227.134:53465/bin.sh
+http://123.10.227.134:53465/i
 http://123.10.230.114:44681/bin.sh
 http://123.10.230.114:44681/i
 http://123.10.230.223:41212/Mozi.a
@@ -2781,6 +2783,8 @@ http://123.12.87.33:53880/bin.sh
 http://123.12.87.33:53880/i
 http://123.123.205.117:26387/bin.sh
 http://123.123.205.117:26387/i
+http://123.129.1.230:35858/bin.sh
+http://123.129.1.230:35858/i
 http://123.129.10.96:45552/i
 http://123.129.128.187:58844/bin.sh
 http://123.129.128.187:58844/i
@@ -4015,6 +4019,14 @@ http://141.11.88.125/bins/mips
 http://141.11.88.125/bins/ppc
 http://141.11.88.125/bins/sh4
 http://141.11.88.125/bins/x86
+http://141.11.88.126/bins/arm5
+http://141.11.88.126/bins/arm6
+http://141.11.88.126/bins/arm7
+http://141.11.88.126/bins/m68k
+http://141.11.88.126/bins/mips
+http://141.11.88.126/bins/ppc
+http://141.11.88.126/bins/sh4
+http://141.11.88.126/bins/x86
 http://141.11.88.127/arm
 http://141.11.88.127/arm5
 http://141.11.88.127/arm6
@@ -5832,6 +5844,8 @@ http://182.121.218.204:56695/bin.sh
 http://182.121.218.204:56695/i
 http://182.121.219.220:56695/i
 http://182.121.224.33:47251/i
+http://182.121.224.35:36741/bin.sh
+http://182.121.224.35:36741/i
 http://182.121.225.199:42140/Mozi.m
 http://182.121.225.199:42140/bin.sh
 http://182.121.225.199:42140/i
@@ -6128,6 +6142,7 @@ http://182.129.144.42:56974/i
 http://182.176.121.85:33869/bin.sh
 http://182.176.121.85:33869/i
 http://182.176.84.232:33899/Mozi.m
+http://182.180.151.150:42383/i
 http://182.239.81.126:43623/bin.sh
 http://182.38.191.105:56615/bin.sh
 http://182.38.191.105:56615/i
@@ -7240,6 +7255,7 @@ http://217.60.241.44/ppc
 http://217.60.241.44/ppc2
 http://217.60.241.44/x86
 http://218.101.27.83:17874/i
+http://218.101.27.83:50181/i
 http://218.16.164.107:53377/bin.sh
 http://218.16.164.107:53377/i
 http://218.16.164.112:53377/bin.sh
@@ -7442,6 +7458,7 @@ http://219.157.50.8:45761/i
 http://219.157.58.156:47845/i
 http://219.157.59.111:50823/bin.sh
 http://219.157.59.111:50823/i
+http://219.157.66.199:42321/i
 http://219.157.66.34:60571/bin.sh
 http://219.157.66.34:60571/i
 http://219.157.66.50:45999/bin.sh
@@ -7474,6 +7491,7 @@ http://220.192.227.92:33688/bin.sh
 http://220.192.227.92:33688/i
 http://220.192.7.203:34707/bin.sh
 http://220.192.7.203:34707/i
+http://220.201.156.155:43300/i
 http://220.202.65.145:45746/Mozi.a
 http://220.202.65.145:45746/bin.sh
 http://220.202.65.145:45746/i
@@ -8164,6 +8182,7 @@ http://27.215.81.243:44826/i
 http://27.215.82.69:58121/bin.sh
 http://27.215.82.69:58121/i
 http://27.215.86.177:51820/bin.sh
+http://27.216.188.219:41392/i
 http://27.216.243.150:39103/bin.sh
 http://27.216.243.150:39103/i
 http://27.217.3.117:50573/bin.sh
@@ -8296,6 +8315,7 @@ http://27.44.147.40:37399/bin.sh
 http://27.44.147.40:37399/i
 http://27.44.147.60:52992/i
 http://27.44.147.6:47311/bin.sh
+http://27.44.147.6:47311/i
 http://27.44.147.71:34846/i
 http://27.44.147.81:48312/i
 http://27.44.147.89:53751/i
@@ -8676,7 +8696,11 @@ http://41.216.189.157/nz/nz.spc
 http://41.216.189.157/nz/nz.x86
 http://41.216.189.157/nz/nz.x86_64
 http://41.216.189.157/nz/o.xml
+http://41.216.189.157/nz/w.sh
+http://41.216.189.157/nz/wget.sh
 http://41.216.189.157/o.xml
+http://41.216.189.157/w.sh
+http://41.216.189.157/wget.sh
 http://41.216.225.118:42776/i
 http://41.216.226.236:53275/i
 http://41.249.183.169:34691/i
@@ -9256,6 +9280,7 @@ http://42.238.193.100:50876/i
 http://42.238.240.251:44088/bin.sh
 http://42.238.240.251:44088/i
 http://42.238.240.251:53200/i
+http://42.238.241.117:47417/bin.sh
 http://42.238.241.117:47417/i
 http://42.238.243.89:38164/bin.sh
 http://42.238.243.89:38164/i
@@ -9298,6 +9323,8 @@ http://42.239.242.48:55615/i
 http://42.239.242.98:58855/i
 http://42.239.246.79:42065/bin.sh
 http://42.239.246.79:42065/i
+http://42.239.74.140:48416/bin.sh
+http://42.239.74.140:48416/i
 http://42.242.128.139:48309/i
 http://42.4.140.56:55719/bin.sh
 http://42.4.140.56:55719/i
@@ -9333,6 +9360,7 @@ http://42.54.151.28:51476/i
 http://42.54.243.223:35153/i
 http://42.54.3.165:50302/i
 http://42.54.3.39:46446/Mozi.7
+http://42.54.89.80:37559/i
 http://42.55.12.197:57882/bin.sh
 http://42.55.12.197:57882/i
 http://42.55.138.195:46174/bin.sh
@@ -9395,6 +9423,8 @@ http://42.58.12.25:57795/bin.sh
 http://42.58.12.25:57795/i
 http://42.58.137.158:35093/bin.sh
 http://42.58.137.158:35093/i
+http://42.58.167.28:50302/bin.sh
+http://42.58.167.28:50302/i
 http://42.58.210.127:38727/bin.sh
 http://42.58.210.127:38727/i
 http://42.58.210.64:38727/bin.sh
@@ -11185,6 +11215,7 @@ http://59.103.116.68:50721/bin.sh
 http://59.103.116.68:50721/i
 http://59.103.116.68:50760/bin.sh
 http://59.103.116.68:50760/i
+http://59.103.121.32:41365/i
 http://59.176.80.131:60859/Mozi.a
 http://59.42.89.103:56735/bin.sh
 http://59.42.89.103:56735/i
@@ -11421,6 +11452,7 @@ http://61.52.37.247:54710/bin.sh
 http://61.52.37.247:54710/i
 http://61.52.38.113:44055/bin.sh
 http://61.52.4.161:56319/bin.sh
+http://61.52.4.161:56319/i
 http://61.52.4.166:34297/bin.sh
 http://61.52.4.166:34297/i
 http://61.52.41.243:50983/bin.sh
@@ -12125,6 +12157,8 @@ http://77.53.231.107:49605/i
 http://77.79.160.210:33446/bin.sh
 http://77.79.160.210:33758/bin.sh
 http://77.79.160.210:35206/i
+http://77.79.160.210:43243/bin.sh
+http://77.79.160.210:43243/i
 http://77.79.160.210:47271/bin.sh
 http://77.83.191.127:28534/i
 http://77.83.39.66/Bin/ScreenConnect.ClientSetup.exe
@@ -12295,6 +12329,8 @@ http://83.219.1.198:53056/i
 http://83.219.1.198:55183/bin.sh
 http://83.219.1.198:55183/i
 http://83.219.1.198:58281/i
+http://83.219.1.198:58786/bin.sh
+http://83.219.1.198:58786/i
 http://83.228.109.209:35967/i
 http://83.228.109.209:46434/i
 http://83.233.104.113:3747/Mozi.7
@@ -14075,6 +14111,7 @@ http://ybhub.com.au/stego_paload.png
 http://zihnyunrui.com/sking.png
 http://zihnyunrui.com/xobs.png
 http://zihnyunrui.com/xwor.png
+http://zov.ismak.icu/nova.sh
 https://0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev/email=serio9@a7635df8d4d6224abb8157d09b5546373c8d.org
 https://00pq7d1j.1xboropartners.com/
 https://015bj63k.parspoker90.com/
@@ -14418,6 +14455,7 @@ https://54328cf8554e67ed-185-174-159-197.serveousercontent.com/_next/static/medi
 https://543533s9.nagshekeshi.xyz/
 https://559775.com/
 https://56c1ukt9.shart303.net/
+https://5732ru8p.1x303.casino/
 https://58shz66o.tahlilsazeha.xyz/
 https://59k3ql4x.akhlagvaahkam.xyz/
 https://5ay2qa01.electriccrash.bet/
@@ -15653,6 +15691,7 @@ https://j110p.vip/
 https://j110r.vip/
 https://j110v.vip/
 https://j1yidzep.boombasket.bet/
+https://j29oqmyl.1xgame.net/
 https://j2rfzlmu.enf90.net/
 https://j7n7i2dx.enfej.win/
 https://jabalitowers.nexatestwp.com/bunkering/advocacies
@@ -15756,6 +15795,7 @@ https://kaza.com.hk/hld/optimized_MSI.png
 https://kazwbt9n.2026.futbol/
 https://kbm5utm8.shart303.com/
 https://kdf.betbacklink.com/828d0bd4-5a79-4c2e-b0cb-9442f513c675
+https://kdoyvze.megaparii.pro/e1e2ab52-6d71-4a04-b9e3-195d0da9e36b
 https://kdphdmr.rahnemayenegaresh.site/86ce6ecb-367c-4c13-b461-19db64aa048a
 https://kdqtqtbo.ace9bet.net/95bb93c4-8e14-472f-b4b9-b89a28edf05c
 https://kdthbhbm.prozhecart.com/66b86068-ca14-4d15-94fa-13ff563634f0
@@ -15805,6 +15845,7 @@ https://kxgzi.barnamenevisi.xyz/e0cb7604-5541-4381-b3a1-8c0e45f41f8c
 https://kyard07v.vip1xbet.net/
 https://kyxuncq.jamjahani.net/4dd869f3-d2d5-46cb-bd77-e04cd21ec65e
 https://kzkzbbha.hugugmadani6.xyz/db068de5-b6f6-4178-abdf-bd3d1b9cbfcc
+https://kztxtnj.pastiadajalan.pro/6412b97f-613a-48fd-89c5-11619f833705
 https://l2ekym1s.megaparivip.vip/
 https://l3fcolra.fubet24.net/
 https://l3q1ng7a.azmoondadrasi.xyz/
@@ -15851,6 +15892,7 @@ https://llmpgrax.mechanickhodakarami.shop/6dd71a0b-77ae-45c3-94e6-1d9e3f7e6376
 https://llonnk.bankefile.com/b0d8fe01-aef2-4f6d-b392-852ed6d3eb68
 https://lmlnqaju.karbordriyaziyat.xyz/be0903b8-c368-450b-96a6-f8ae118fddba
 https://lnc1c2cf.anodaz.vip/
+https://lofybdv.megaparii.pro/556ffabb-6029-4fd5-9860-2bb1dd443051
 https://loginservice.cloud/E.xEybX2V1mJRSQQ
 https://logname.vip/
 https://logs-smoky-psi.vercel.app/index1.html
@@ -15861,6 +15903,7 @@ https://lplhoo.pishbinigame.com/72544e76-576d-4a90-947d-a5351c4655ad
 https://lq8j82kc.shirbetfarsi.com/
 https://lqakwmlg.taktikbetkade.com/
 https://lqlrmchm.tasisathosseini.shop/354a0040-5bbb-434a-91e2-dd82db39436f
+https://lqqpunt.megaparii.pro/eb79550f-2286-41cd-adb9-88609d5d306b
 https://lrobb95.github.io/Personal-Project-Netflix-Clone/
 https://lrucuzu.rika90.bet/5d7b4297-0d2f-4348-be83-9cd079265887
 https://lrvizgxp.lincoplus.xyz/8a688702-f713-4b7b-9b47-d8ff26a0835d
@@ -16193,6 +16236,7 @@ https://penumbra-extension.com/catalog
 https://pffvv3yw.22bahis-tr.com/
 https://pfoleggz.enfejwin.com/
 https://pfyfyt.bankefiile.com/aa879b30-c23c-44d3-b492-947d4f5a5740
+https://pg1mu94o.yek.baby/
 https://pgfor.bookdrive.xyz/385fed85-99a7-48c6-acd2-73f6c92c60ae
 https://phcbmap.vip1xbet.net/3ba097aa-2c3d-423f-b757-ac32580b80b2
 https://phitqv0l.ravabetensani.site/
@@ -21639,6 +21683,7 @@ https://seuvsq.pablobet90.com/172ed5dc-3712-4551-a9e5-935744c282c2
 https://sewgqnm.winxbet.co/a001e2c9-70b4-4f77-8503-366bdda8ab4a
 https://sfdwdmq.mangobetfarsi.com/053d3da2-9033-4467-b64a-0aaee7f984f7
 https://sfmbqki.betfa90.net/154d2797-7ba2-4938-a2d0-861767fd647b
+https://sfsgldq.1xx.games/1f64cf21-2062-460f-8877-2a610ba412dc
 https://sh.classera.com/enT3ac
 https://sh6rkpx6.shartmag.bet/
 https://share.google/0G5qGzn5JIG09Ms3N
@@ -21974,6 +22019,7 @@ https://vvpfsda.pasoor11.bet/779f2e95-ee00-4fbe-8b49-4e80c5c74cc4
 https://vvxcqgv.jamjahani.world/ebe27db7-5c7b-43e4-91f2-e6929b5fa13e
 https://vwdpxdo.shartmag.bet/4ec13303-f558-4347-9375-8e01aea8e332
 https://vwochim.megaparikade.com/79f1c4da-a639-4799-ae13-de96fa85d349
+https://vwvlxxx.megaparii.pro/e8eec2e7-5687-47a7-8324-243d680257b5
 https://vxg18bmc.btyek.baby/
 https://vzhtsv4n.1x303.casino/
 https://vzyeissn.rial.bet/9cd38751-cfc3-49c5-acbd-5f8214fcc2dc
