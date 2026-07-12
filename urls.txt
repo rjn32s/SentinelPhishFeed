@@ -208,6 +208,7 @@ http://105.184.182.42:54111/bin.sh
 http://105.184.182.42:54111/i
 http://105.184.194.116:48473/bin.sh
 http://105.184.194.116:48473/i
+http://105.184.236.22:51533/bin.sh
 http://105.184.30.75:49789/bin.sh
 http://105.184.30.75:49789/i
 http://105.184.50.135:45901/bin.sh
@@ -1219,6 +1220,7 @@ http://112.248.6.136:55486/i
 http://112.248.61.219:42732/Mozi.m
 http://112.248.61.219:42732/bin.sh
 http://112.248.61.219:42732/i
+http://112.248.61.25:49352/i
 http://112.248.63.250:57422/bin.sh
 http://112.248.63.250:57422/i
 http://112.248.81.8:34763/bin.sh
@@ -2400,6 +2402,7 @@ http://120.28.193.170:35442/bin.sh
 http://120.28.197.118:47227/i
 http://120.28.200.110:32910/bin.sh
 http://120.28.200.110:32910/i
+http://120.28.219.218:58497/bin.sh
 http://120.28.220.18:35797/bin.sh
 http://120.28.220.18:35797/i
 http://120.28.68.44:57208/bin.sh
@@ -3244,6 +3247,7 @@ http://125.45.63.235:53847/i
 http://125.45.64.185:52195/bin.sh
 http://125.45.64.185:52195/i
 http://125.45.65.228:36488/bin.sh
+http://125.45.65.228:36488/i
 http://125.45.66.153:40467/bin.sh
 http://125.45.66.153:40467/i
 http://125.45.66.27:37920/i
@@ -4322,6 +4326,7 @@ http://174.34.242.49:34523/i
 http://175.107.12.59:41122/bin.sh
 http://175.107.16.92:35222/bin.sh
 http://175.107.16.92:35222/i
+http://175.107.16.92:50429/i
 http://175.11.240.242:50915/bin.sh
 http://175.11.240.242:50915/i
 http://175.146.155.175:48594/bin.sh
@@ -5264,6 +5269,7 @@ http://182.123.245.51:60755/bin.sh
 http://182.123.245.51:60755/i
 http://182.124.123.201:55097/i
 http://182.124.126.196:40819/i
+http://182.124.129.1:40347/bin.sh
 http://182.124.130.236:59353/bin.sh
 http://182.124.130.236:59353/i
 http://182.124.134.19:55546/bin.sh
@@ -5832,6 +5838,7 @@ http://196.190.193.95:50192/bin.sh
 http://196.190.224.62:42172/bin.sh
 http://196.190.224.62:42172/i
 http://196.190.229.115:35148/bin.sh
+http://196.190.229.115:35148/i
 http://196.190.69.149:43566/bin.sh
 http://196.190.69.149:54767/bin.sh
 http://196.190.69.149:54767/i
@@ -7950,6 +7957,7 @@ http://42.231.54.207:35879/i
 http://42.231.61.214:38036/bin.sh
 http://42.231.61.214:38036/i
 http://42.231.64.77:48785/i
+http://42.231.66.147:33877/bin.sh
 http://42.231.66.147:33877/i
 http://42.231.67.209:43298/bin.sh
 http://42.231.67.209:43298/i
@@ -7989,6 +7997,7 @@ http://42.232.238.130:33808/i
 http://42.232.238.189:41000/i
 http://42.232.24.184:45923/bin.sh
 http://42.232.24.184:45923/i
+http://42.232.24.238:41409/i
 http://42.232.49.243:55776/bin.sh
 http://42.232.49.243:55776/i
 http://42.232.49.36:33627/i
@@ -8221,6 +8230,7 @@ http://42.53.7.120:34795/bin.sh
 http://42.53.7.120:34795/i
 http://42.54.15.46:59843/bin.sh
 http://42.54.15.46:59843/i
+http://42.54.2.44:50302/bin.sh
 http://42.54.243.223:35153/i
 http://42.54.3.130:55899/bin.sh
 http://42.54.3.130:55899/i
@@ -9790,6 +9800,7 @@ http://61.52.112.205:49080/i
 http://61.52.157.175:51845/bin.sh
 http://61.52.157.175:51845/i
 http://61.52.157.39:39677/i
+http://61.52.157.57:42493/bin.sh
 http://61.52.158.23:38354/i
 http://61.52.159.173:55158/bin.sh
 http://61.52.159.173:55158/i
@@ -9836,6 +9847,8 @@ http://61.52.48.239:47823/bin.sh
 http://61.52.48.239:47823/i
 http://61.52.49.215:52908/bin.sh
 http://61.52.49.215:52908/i
+http://61.52.5.162:47162/bin.sh
+http://61.52.5.162:47162/i
 http://61.52.52.87:43810/i
 http://61.52.54.253:40951/bin.sh
 http://61.52.54.253:40951/i
@@ -9851,6 +9864,7 @@ http://61.52.76.123:41001/i
 http://61.52.77.184:54129/i
 http://61.52.78.136:39827/bin.sh
 http://61.52.78.136:39827/i
+http://61.52.80.33:56674/i
 http://61.52.85.193:41001/bin.sh
 http://61.52.85.193:41001/i
 http://61.52.86.74:51890/i
@@ -12693,6 +12707,34 @@ http://icy-lab-0431.guilherme-telecomunicacoes2024.workers.dev/zvuia
 http://id89565.cfd/stealc.exe
 http://id89652.cfd/uploads/RIuBqY6b3GgC.exe
 http://id89652.cfd/uploads/V2BIqXDFGxz4.exe
+http://igmc.ddns.net/ar-15/ar15.arc
+http://igmc.ddns.net/ar-15/ar15.arm
+http://igmc.ddns.net/ar-15/ar15.arm5
+http://igmc.ddns.net/ar-15/ar15.arm6
+http://igmc.ddns.net/ar-15/ar15.arm7
+http://igmc.ddns.net/ar-15/ar15.i686
+http://igmc.ddns.net/ar-15/ar15.m68k
+http://igmc.ddns.net/ar-15/ar15.mips
+http://igmc.ddns.net/ar-15/ar15.mpsl
+http://igmc.ddns.net/ar-15/ar15.ppc
+http://igmc.ddns.net/ar-15/ar15.sh4
+http://igmc.ddns.net/ar-15/ar15.spc
+http://igmc.ddns.net/ar-15/ar15.x86
+http://igmc.ddns.net/ar-15/ar15.x86_64
+http://igmc.duckdns.org/ar-15/ar15.arc
+http://igmc.duckdns.org/ar-15/ar15.arm
+http://igmc.duckdns.org/ar-15/ar15.arm5
+http://igmc.duckdns.org/ar-15/ar15.arm6
+http://igmc.duckdns.org/ar-15/ar15.arm7
+http://igmc.duckdns.org/ar-15/ar15.i686
+http://igmc.duckdns.org/ar-15/ar15.m68k
+http://igmc.duckdns.org/ar-15/ar15.mips
+http://igmc.duckdns.org/ar-15/ar15.mpsl
+http://igmc.duckdns.org/ar-15/ar15.ppc
+http://igmc.duckdns.org/ar-15/ar15.sh4
+http://igmc.duckdns.org/ar-15/ar15.spc
+http://igmc.duckdns.org/ar-15/ar15.x86
+http://igmc.duckdns.org/ar-15/ar15.x86_64
 http://igmc.duckdns.org/c.sh
 http://igmc.duckdns.org/chromek
 http://igmc.duckdns.org/dipndotsk
@@ -13915,6 +13957,7 @@ https://9c8joror.melbetir.app/
 https://9ergp1lh.yekshart.app/
 https://9fmgmj87.garatequran.xyz/
 https://9fuqcqf6.ravabetensani.site/
+https://9h5e0vbd.jadoou.club/
 https://9jdr35y2.kir.bet/
 https://9k4etp9p.azmoondadrasi.xyz/
 https://9lw19l8l.betbuf.live/
@@ -13955,6 +13998,7 @@ https://accountfacebook.blogspot.com/
 https://acessaurl.com/SWiHSeG
 https://ach-sa.com/wp-content/plugins/resmushit-image-optimizer/stego_payload.png
 https://acmgrupo.com/new/optimized_MSI.png
+https://acthwqwn.behtarin-site-shartbandi.com/21e8f421-57c5-470b-80e7-7191fece8290
 https://acu1ajv0.irxbetkade.com/
 https://adbjginw.bet90forward.win/9c46f044-4b7e-42e9-af1c-c35f5808ab58
 https://addeg.quranmohagegin.shop/b6e5f7fe-ac21-4fef-b7ed-e8ea43269d4c
@@ -15331,6 +15375,7 @@ https://olttywek.hugugtejarat4.xyz/6aeb3b92-1c8f-47cf-a06f-0dcd8a3ee4fa
 https://omani-disputes.com/txt/adkbjdd.txt
 https://omgolqds.sazebetonarme.xyz/a9880af7-4ec5-41c9-8708-164db92d52dd
 https://omjsikzk.irantop.bet/9ce99d4e-dcbe-420f-9e17-84b4b69b8143
+https://omwf.jadoou.art/3fdbe0c1-4fe2-478f-ad6c-b1efed486439
 https://one-verif.lol/o
 https://onlinemailbox63478962351php.weebly.com/
 https://onnzlkiy.shartbandi.games/103d6889-6e12-44d9-9b49-ea5952cc9014
@@ -20720,6 +20765,7 @@ https://rfdatuh.yek.boats/274c6c72-a290-48d6-9444-eeb61f2d3356
 https://rfedpuuc.falsafekonkour.site/
 https://rfhudhbz.313betsingup.casino/
 https://rfvxpytm.psgnewsiran.com/1c9c47bd-f7bc-44e4-908c-82b6a1f5e7c7
+https://rgklgdmw.jadoobet.click/
 https://rgojzoub.masaelmohandesi.xyz/84685321-511e-4f41-8e2c-ca2e6fb1629c
 https://rhgxzyok.fotoiran.ir/490d05b8-70a7-4d4f-bbc2-681951c23280
 https://riya0827.github.io/Netflix-Clone/
@@ -20988,6 +21034,7 @@ https://tfd2ceqg.bet365persian.com/
 https://tfpvi.testranandegi.com/cad89886-cd51-421d-a844-b7955e75db47
 https://tfpypiqq.karbordriyaziyat.xyz/8d94cd44-7f7f-468f-aec5-446e19920eb9
 https://tfxeoexc.betfakade.com/
+https://tgjg.jadoou.autos/a9c55ebf-3bc9-4e5b-87bf-59904e3bdb15
 https://tglc.bahsegel90.com/550d27af-f70d-448f-8781-78ec5fc2e1e4
 https://thebrighttable.com/bbl2/Client.exe
 https://thhcalzn.jam-jahani.com/30f8acb1-5d2d-4756-a5b1-2939496416c8
@@ -21318,6 +21365,7 @@ https://xlp38wsp.yekiran.com/
 https://xlrvvrbvb.mabanimashin.site/fe651bd7-9fec-4fc0-920c-4433f5734090
 https://xlyvz7lr.motuntakhasosi.store/
 https://xmevvdl.ac90bet.com/2b0daa5b-fd00-4799-83a8-c1c440226b6a
+https://xmgonqda.jadoobet.xyz/02fd6dad-2527-4251-b2c9-648e0dc3f04d
 https://xmxmplzc.hugugmadanikatouzian.xyz/790b17d6-da34-4360-8e08-798766b701d4
 https://xmyzx.shansline.com/23e56000-c578-4482-9e4a-3eccf1e9465f
 https://xntwroz.melbetkade.com/49750f58-70a0-4bc9-a794-e8f0b8a6e0d2
