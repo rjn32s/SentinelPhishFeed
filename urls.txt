@@ -1293,6 +1293,7 @@ http://112.249.77.54:39034/bin.sh
 http://112.249.77.54:39034/i
 http://112.25.235.194:33174/i
 http://112.25.235.194:46904/i
+http://112.251.225.122:36907/i
 http://112.251.225.244:45459/bin.sh
 http://112.251.225.244:45459/i
 http://112.252.196.44:41579/i
@@ -3398,6 +3399,7 @@ http://125.44.62.231:47335/i
 http://125.44.63.160:43675/bin.sh
 http://125.44.63.160:43675/i
 http://125.45.10.255:38689/i
+http://125.45.148.93:57695/bin.sh
 http://125.45.148.93:57695/i
 http://125.45.48.113:43164/bin.sh
 http://125.45.48.113:43164/i
@@ -4321,6 +4323,7 @@ http://157.66.146.183:43544/i
 http://158.101.170.110:8080/pty10
 http://158.101.170.110:8080/pty3
 http://158.101.170.110:8080/pty4
+http://158.255.83.180:39837/Mozi.7
 http://158.94.208.235/PW/img_042730.png
 http://158.94.208.44/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/6eq5gvOfRvNmCi54.exe
 http://158.94.208.44/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/9z7BGnRGpgs8cZv7.exe
@@ -4554,6 +4557,8 @@ http://163.142.92.39:50864/i
 http://163.142.92.41:38525/i
 http://163.142.93.143:44893/bin.sh
 http://163.142.93.143:44893/i
+http://163.142.93.187:39139/bin.sh
+http://163.142.93.187:39139/i
 http://163.142.93.247:42822/i
 http://163.142.94.183:60512/bin.sh
 http://163.142.94.232:42822/i
@@ -4728,6 +4733,8 @@ http://175.148.152.124:45480/i
 http://175.148.153.116:59949/bin.sh
 http://175.148.153.116:59949/i
 http://175.148.155.138:35825/i
+http://175.148.158.154:36869/bin.sh
+http://175.148.158.154:36869/i
 http://175.148.159.236:43123/bin.sh
 http://175.148.159.236:43123/i
 http://175.148.201.94:60468/bin.sh
@@ -4807,6 +4814,7 @@ http://175.175.2.55:41358/i
 http://175.175.215.229:57947/bin.sh
 http://175.175.215.229:57947/i
 http://175.175.26.181:34146/bin.sh
+http://175.175.7.234:37031/i
 http://175.175.92.119:49061/bin.sh
 http://175.175.92.119:49061/i
 http://175.175.96.62:47695/bin.sh
@@ -5639,6 +5647,7 @@ http://182.117.153.96:58569/i
 http://182.117.157.252:35315/bin.sh
 http://182.117.157.252:35315/i
 http://182.117.165.9:33305/bin.sh
+http://182.117.165.9:33305/i
 http://182.117.166.180:56188/i
 http://182.117.2.57:37641/bin.sh
 http://182.117.2.57:37641/i
@@ -5784,6 +5793,7 @@ http://182.121.117.230:60436/i
 http://182.121.136.139:55917/bin.sh
 http://182.121.136.139:55917/i
 http://182.121.137.203:37078/bin.sh
+http://182.121.138.136:38226/bin.sh
 http://182.121.141.220:34479/bin.sh
 http://182.121.141.220:34479/i
 http://182.121.143.204:58754/i
@@ -6258,6 +6268,8 @@ http://190.109.227.219:37896/bin.sh
 http://190.109.227.219:37896/i
 http://190.109.227.76:52075/bin.sh
 http://190.109.227.76:52075/i
+http://190.109.228.150:37896/bin.sh
+http://190.109.228.150:37896/i
 http://190.109.228.177:37896/i
 http://190.109.228.199:53843/bin.sh
 http://190.109.228.199:53843/i
@@ -7760,6 +7772,8 @@ http://222.142.240.17:50115/bin.sh
 http://222.142.240.17:50115/i
 http://222.142.244.182:45803/bin.sh
 http://222.142.244.182:45803/i
+http://222.142.245.198:49568/bin.sh
+http://222.142.245.198:49568/i
 http://222.142.246.106:49196/bin.sh
 http://222.142.246.106:49196/i
 http://222.142.247.93:45803/bin.sh
@@ -8698,6 +8712,7 @@ http://42.224.169.34:41660/bin.sh
 http://42.224.169.34:41660/i
 http://42.224.170.242:39192/bin.sh
 http://42.224.170.242:39192/i
+http://42.224.175.231:41660/bin.sh
 http://42.224.175.231:41660/i
 http://42.224.191.38:50966/bin.sh
 http://42.224.191.38:50966/i
@@ -10569,6 +10584,7 @@ http://59.90.191.103:50794/bin.sh
 http://59.90.191.103:50794/i
 http://59.91.116.175:52715/bin.sh
 http://59.91.116.175:52715/i
+http://59.91.206.69:41124/bin.sh
 http://59.96.136.212:58967/bin.sh
 http://59.96.136.212:58967/i
 http://59.96.136.41:41095/bin.sh
@@ -11129,6 +11145,12 @@ http://77.79.160.210:51525/bin.sh
 http://77.79.160.210:51525/i
 http://77.90.185.28/mot
 http://77.90.185.39/dots
+http://77.90.185.66/mirai.arm
+http://77.90.185.66/mirai.arm5
+http://77.90.185.66/mirai.arm7
+http://77.90.185.66/mirai.mips
+http://77.90.185.66/mirai.mpsl
+http://77.90.185.66/wget
 http://779a0e.icefactory.cl/
 http://78.165.115.123:50272/i
 http://78.165.192.47:50272/bin.sh
@@ -15836,6 +15858,7 @@ https://github.com/dm-7926/dz-nvd/raw/main/m1n.zip
 https://github.com/dm-7926/dz-nvd/raw/main/udm-m.bat
 https://github.com/dm-7926/dz-nvd/raw/refs/heads/main/m1n.zip
 https://github.com/dm-7926/dz-nvd/raw/refs/heads/main/udm-m.bat
+https://github.com/faraza-1/chillvrmod.com/releases/download/v1.0.0/ChillVROut.exe
 https://github.com/hackerschoice/gsocket/releases/download/v1.4.43/gs-netcat_linux-x86_64
 https://github.com/hamerderta/lzxhcjhsdajfslfgdsgh/releases/download/malware/xeno.V1.3.55.exe
 https://github.com/hexmostafa/SshCracker/releases/download/SshCrackerV1.0.0/SshCracker.exe
@@ -17068,6 +17091,7 @@ https://www.claimed-gifts.blogspot.com/
 https://www.downloadpirate.com/moho-pro-14-win-x64-full-version-free-download/
 https://www.dra.com.ve/wp-content/languages/plugins/ds5.txt
 https://www.dra.com.ve/wp-content/languages/plugins/ds5.txt)
+https://www.dropbox.com/scl/fi/20bypo9tl56golwmhkuzx/WatchGoParty.exe
 https://www.dropbox.com/scl/fi/58zjwuoe83qjjpj7tt3y2/ChilloutVrMod.exe
 https://www.dropbox.com/scl/fi/87ikws7x5qn2p1ogczanv/unitymanager.exe
 https://www.dropbox.com/scl/fi/fl9uweistzcccua040lmj/Hinge.exe
