@@ -5449,6 +5449,7 @@ http://178.75.28.248:55046/i
 http://179.108.89.220:43996/i
 http://179.108.89.220:54262/bin.sh
 http://179.108.89.220:54262/i
+http://179.108.89.220:55094/bin.sh
 http://179.108.89.220:55094/i
 http://179.49.213.85:54579/bin.sh
 http://18.175.166.211:60101/linux
@@ -5972,6 +5973,7 @@ http://182.121.157.159:37305/i
 http://182.121.157.48:59212/i
 http://182.121.16.139:39047/bin.sh
 http://182.121.16.139:39047/i
+http://182.121.162.111:53842/i
 http://182.121.17.189:45420/i
 http://182.121.172.86:34608/i
 http://182.121.178.215:39984/i
@@ -6787,6 +6789,7 @@ http://2.26.81.123/bins/xnxnxnxnxnxnxnxnx86_64xnxn
 http://2.26.81.123/run.sh
 http://2.26.81.46/bins/arm
 http://2.26.81.46/bins/arm5
+http://2.26.81.46/bins/arm6
 http://2.26.81.46/bins/arm7
 http://2.26.81.46/bins/dbg
 http://2.26.81.46/bins/i686
@@ -7968,6 +7971,8 @@ http://222.142.249.107:53982/bin.sh
 http://222.142.249.107:53982/i
 http://222.142.250.233:37018/bin.sh
 http://222.142.250.233:37018/i
+http://222.142.250.250:43654/bin.sh
+http://222.142.250.250:43654/i
 http://222.142.250.254:57339/bin.sh
 http://222.142.250.254:57339/i
 http://222.142.250.52:37343/i
@@ -9910,6 +9915,17 @@ http://45.38.249.148/data_mips
 http://45.38.249.148/data_mipsel
 http://45.38.249.148/data_powerpc
 http://45.38.249.148/data_x86_64
+http://45.38.249.63/bbc
+http://45.38.249.63/data_aarch64
+http://45.38.249.63/data_arm4
+http://45.38.249.63/data_arm5
+http://45.38.249.63/data_arm6
+http://45.38.249.63/data_arm7
+http://45.38.249.63/data_mips
+http://45.38.249.63/data_mipsel
+http://45.38.249.63/data_powerpc
+http://45.38.249.63/data_x86
+http://45.38.249.63/data_x86_64
 http://45.66.228.114/eclipse.armv4l
 http://45.66.228.114/eclipse.armv5l
 http://45.66.228.114/eclipse.armv6l
@@ -12099,6 +12115,7 @@ http://91.92.242.236/files-129312398/files/file_8a7c2cae7ca4b114.exe
 http://91.92.242.236/files-129312398/files/file_8b0de4fcc07257ed.exe
 http://91.92.242.236/files-129312398/files/file_8b4782335952b88e.exe
 http://91.92.242.236/files-129312398/files/file_8d4eff19b5763782.exe
+http://91.92.242.236/files-129312398/files/file_8f2a9c058325ac38.exe
 http://91.92.242.236/files-129312398/files/file_908baa13e195f0df.exe
 http://91.92.242.236/files-129312398/files/file_91b0a71f46718f87.exe
 http://91.92.242.236/files-129312398/files/file_92e4897484e237a6.exe
