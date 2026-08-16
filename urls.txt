@@ -551,6 +551,7 @@ http://110.36.22.249:44558/bin.sh
 http://110.36.22.249:44558/i
 http://110.36.22.249:50192/i
 http://110.36.24.140:51609/i
+http://110.36.25.33:32877/i
 http://110.36.25.33:43664/i
 http://110.36.25.33:45137/bin.sh
 http://110.36.25.33:45137/i
@@ -1087,6 +1088,7 @@ http://112.239.113.122:44773/i
 http://112.239.113.216:51622/bin.sh
 http://112.239.113.216:51622/i
 http://112.239.122.112:54204/bin.sh
+http://112.239.122.112:54204/i
 http://112.239.251.230:33039/bin.sh
 http://112.239.251.230:33039/i
 http://112.239.97.33:40194/bin.sh
@@ -1319,6 +1321,8 @@ http://114.227.48.176:58022/bin.sh
 http://114.227.48.176:58022/i
 http://114.227.48.185:58022/bin.sh
 http://114.227.48.185:58022/i
+http://114.227.49.3:38196/bin.sh
+http://114.227.49.3:38196/i
 http://114.227.50.186:47510/bin.sh
 http://114.227.50.186:47510/i
 http://114.227.52.84:57134/bin.sh
@@ -1675,6 +1679,7 @@ http://115.55.129.62:42063/i
 http://115.55.130.14:38206/i
 http://115.55.130.196:43005/bin.sh
 http://115.55.130.196:43005/i
+http://115.55.130.218:47315/bin.sh
 http://115.55.131.216:52075/bin.sh
 http://115.55.131.216:52075/i
 http://115.55.134.46:35308/bin.sh
@@ -2094,6 +2099,7 @@ http://116.138.249.233:41996/i
 http://116.139.178.90:48866/bin.sh
 http://116.139.178.90:48866/i
 http://116.139.55.148:54765/bin.sh
+http://116.140.186.83:34139/i
 http://116.149.19.3:33747/bin.sh
 http://116.162.55.77:10000/
 http://116.169.248.98:42731/i
@@ -2232,6 +2238,7 @@ http://119.138.108.48:54844/i
 http://119.14.97.112:60013/bin.sh
 http://119.148.103.41:33345/bin.sh
 http://119.148.103.41:33345/i
+http://119.165.184.118:41931/i
 http://119.166.141.245:58165/bin.sh
 http://119.166.194.8:35798/bin.sh
 http://119.166.194.8:35798/i
@@ -2369,6 +2376,7 @@ http://120.84.214.100:50458/i
 http://120.84.214.125:39910/i
 http://120.84.214.125:40164/i
 http://120.84.214.126:36545/i
+http://120.84.214.127:40959/i
 http://120.84.214.187:35959/bin.sh
 http://120.84.214.20:38525/i
 http://120.84.214.242:35671/i
@@ -2760,6 +2768,7 @@ http://123.185.91.8:52353/bin.sh
 http://123.185.91.8:52353/i
 http://123.188.214.188:44236/bin.sh
 http://123.188.214.188:44236/i
+http://123.188.223.103:33612/bin.sh
 http://123.188.223.103:33612/i
 http://123.188.44.167:51273/bin.sh
 http://123.188.44.167:51273/i
@@ -3187,6 +3196,7 @@ http://125.42.30.82:53730/i
 http://125.42.33.2:54415/bin.sh
 http://125.42.33.2:54415/i
 http://125.42.41.80:44594/i
+http://125.42.65.22:32872/i
 http://125.43.0.49:47371/i
 http://125.43.0.79:34827/bin.sh
 http://125.43.0.79:34827/i
@@ -3250,6 +3260,8 @@ http://125.44.18.151:41954/i
 http://125.44.18.154:33850/i
 http://125.44.18.255:59219/bin.sh
 http://125.44.18.255:59219/i
+http://125.44.181.178:58549/bin.sh
+http://125.44.181.178:58549/i
 http://125.44.188.95:41419/i
 http://125.44.19.167:51278/bin.sh
 http://125.44.19.167:51278/i
@@ -4600,6 +4612,7 @@ http://170.205.31.25/xlumen/lkxstress.ppc
 http://170.205.31.25/xlumen/lkxstress.sh4
 http://170.205.31.25/xlumen/lkxstress.x86
 http://170.205.31.25/xlumen/lkxstress.x86_64
+http://171.213.150.35:35745/i
 http://171.213.177.184:53333/i
 http://171.213.200.200:54131/bin.sh
 http://171.213.200.200:54131/i
@@ -4645,6 +4658,8 @@ http://175.10.48.253:40771/bin.sh
 http://175.100.126.159/all.sh
 http://175.107.16.92:47673/i
 http://175.107.16.92:60176/i
+http://175.107.209.223:44599/bin.sh
+http://175.107.209.223:44599/i
 http://175.107.229.126:33054/bin.sh
 http://175.107.229.126:33054/i
 http://175.146.102.110:54712/bin.sh
@@ -5589,6 +5604,7 @@ http://182.114.243.24:39493/i
 http://182.114.252.205:60751/i
 http://182.114.252.68:59050/bin.sh
 http://182.114.252.68:59050/i
+http://182.114.255.161:44359/i
 http://182.114.255.23:39795/bin.sh
 http://182.114.255.23:39795/i
 http://182.114.34.162:50206/bin.sh
@@ -7262,6 +7278,8 @@ http://218.252.224.196:43882/i
 http://218.29.22.30:49264/bin.sh
 http://218.29.22.30:49264/i
 http://218.29.22.80:39112/i
+http://218.29.28.21:33666/bin.sh
+http://218.29.28.21:33666/i
 http://218.56.204.114:55973/bin.sh
 http://218.56.204.114:55973/i
 http://218.57.63.136:45926/bin.sh
@@ -7269,6 +7287,8 @@ http://218.73.97.231:34731/bin.sh
 http://218.73.97.231:34731/i
 http://218.74.100.187:56483/bin.sh
 http://218.74.100.187:56483/i
+http://218.91.14.121:32924/bin.sh
+http://218.91.14.121:32924/i
 http://218.91.67.4:40286/bin.sh
 http://218.91.67.4:40286/i
 http://219.154.174.185:43822/bin.sh
@@ -7627,6 +7647,8 @@ http://221.200.215.15:58631/i
 http://221.200.220.208:52188/bin.sh
 http://221.202.17.138:38962/bin.sh
 http://221.202.17.138:38962/i
+http://221.202.206.125:41411/bin.sh
+http://221.202.206.125:41411/i
 http://221.202.217.172:38131/bin.sh
 http://221.202.227.69:54765/bin.sh
 http://221.202.227.69:54765/i
@@ -7760,6 +7782,8 @@ http://222.138.151.245:57357/i
 http://222.138.181.164:52853/bin.sh
 http://222.138.181.164:52853/i
 http://222.138.181.201:51235/bin.sh
+http://222.138.182.37:37037/bin.sh
+http://222.138.182.37:37037/i
 http://222.138.206.175:44075/bin.sh
 http://222.138.206.175:44075/i
 http://222.138.217.166:52474/bin.sh
@@ -7788,6 +7812,8 @@ http://222.139.227.215:54795/i
 http://222.139.227.250:48104/i
 http://222.139.37.132:39031/i
 http://222.139.38.162:51120/i
+http://222.139.69.87:33578/bin.sh
+http://222.139.69.87:33578/i
 http://222.139.73.191:33865/bin.sh
 http://222.139.73.191:33865/i
 http://222.139.74.170:37461/bin.sh
@@ -9430,6 +9456,7 @@ http://42.58.176.82:33016/i
 http://42.58.234.152:39916/bin.sh
 http://42.58.234.152:39916/i
 http://42.58.252.41:50980/i
+http://42.59.204.16:37885/i
 http://42.59.226.215:51916/bin.sh
 http://42.59.226.215:51916/i
 http://42.59.232.35:51478/bin.sh
@@ -12158,6 +12185,7 @@ http://93.157.253.209:45451/i
 http://93.157.253.209:53033/Mozi.a
 http://93.171.80.160:10689/i
 http://93.171.80.160:37929/i
+http://94.154.32.238/s.ps1
 http://94.154.32.252/Bin/ScreenConnect.ClientSetup.exe
 http://94.154.32.80/Bin/ScreenConnect.ClientSetup.exe
 http://94.154.35.240/svc.exe
@@ -14044,6 +14072,38 @@ http://move-dram-film.xyz/avast_update
 http://mrsweaterltd.com/o85pdfv8yi.png
 http://nearzero-drug.xyz/avast_update
 http://neural-atlas-code-flat.courses/6c30840a-96be-4de0-ab56-885512b6a791/google.ct
+http://newstan.online/asset/update.dat
+http://newstan.online:8443/crypter_server_linux
+http://newstan.online:8443/crypter_server_linux.exe
+http://newstan.online:8443/output/18cb7182b6e8e7b6.exe
+http://newstan.online:8443/output/18cb7296bb21486f.exe
+http://newstan.online:8443/output/18cb72c503457787.exe
+http://newstan.online:8443/output/18cb7333cef1df5b.exe
+http://newstan.online:8443/output/18cb73a84c0c2684.exe
+http://newstan.online:8443/output/18cb7441f57b1a78.exe
+http://newstan.online:8443/output/18cb7a9ae6f1d608.exe
+http://newstan.online:8443/output/18cb7ca62cfb04e6.exe
+http://newstan.online:8443/output/18cb9c2f86cabdb2.exe
+http://newstan.online:8443/output/18cb9cea2d96337e.exe
+http://newstan.online:8443/payload.exe
+http://newstan.online:8443/payload/18cb7a9ae6f1d608.bin
+http://newstan.online:8443/payload/18cb7ca62cfb04e6.bin
+http://newstan.online:8443/payload/18cb9cea2d96337e.bin
+http://newstan.online:8443/payloads/18cb4b870df50ce6.bin
+http://newstan.online:8443/payloads/18cb4ba64c9fd789.bin
+http://newstan.online:8443/payloads/18cb4bd89774939d.bin
+http://newstan.online:8443/payloads/18cb4cb2cb097b20.bin
+http://newstan.online:8443/payloads/18cb4ccfb9e27fc2.bin
+http://newstan.online:8443/payloads/18cb4cef6566cc70.bin
+http://newstan.online:8443/payloads/18cb4d062cca7589.bin
+http://newstan.online:8443/payloads/18cb4d3ad86bac08.bin
+http://newstan.online:8443/payloads/18cb7182b6e8e7b6.bin
+http://newstan.online:8443/payloads/18cb7296bb21486f.bin
+http://newstan.online:8443/payloads/18cb72c503457787.bin
+http://newstan.online:8443/payloads/18cb7333cef1df5b.bin
+http://newstan.online:8443/payloads/18cb73a84c0c2684.bin
+http://newstan.online:8443/payloads/18cb7441f57b1a78.bin
+http://newstan.online:8443/payloads/18cb9c2f86cabdb2.bin
 http://next-jazz-iron.xyz/avast_update
 http://nice-aunt-milk.xyz/avast_update
 http://nice-poolback.xyz/avast_update
