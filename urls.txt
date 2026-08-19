@@ -1480,6 +1480,8 @@ http://115.49.75.168:36083/i
 http://115.49.82.37:48169/i
 http://115.49.90.44:58247/bin.sh
 http://115.49.90.44:58247/i
+http://115.49.94.7:42242/bin.sh
+http://115.49.94.7:42242/i
 http://115.50.0.3:52567/bin.sh
 http://115.50.0.3:52567/i
 http://115.50.1.109:36145/i
@@ -2365,6 +2367,7 @@ http://120.84.212.190:40164/bin.sh
 http://120.84.212.190:40164/i
 http://120.84.212.190:43969/i
 http://120.84.212.61:48371/i
+http://120.84.213.18:32896/bin.sh
 http://120.84.213.195:39888/i
 http://120.84.213.21:46712/bin.sh
 http://120.84.213.21:46712/i
@@ -2630,6 +2633,7 @@ http://123.13.142.66:59668/bin.sh
 http://123.13.142.66:59668/i
 http://123.13.148.234:38211/i
 http://123.13.2.112:41839/i
+http://123.13.2.164:47376/bin.sh
 http://123.13.2.246:57475/bin.sh
 http://123.13.2.246:57475/i
 http://123.13.27.244:52593/bin.sh
@@ -3147,6 +3151,8 @@ http://125.41.0.130:46833/i
 http://125.41.0.156:58056/bin.sh
 http://125.41.0.156:58056/i
 http://125.41.1.174:35830/i
+http://125.41.1.44:45185/bin.sh
+http://125.41.1.44:45185/i
 http://125.41.137.141:54358/bin.sh
 http://125.41.137.141:54358/i
 http://125.41.138.40:50809/bin.sh
@@ -4525,6 +4531,7 @@ http://167.86.99.169/bins/bins/chud.sh4
 http://167.86.99.169/bins/bins/chud.sparc
 http://167.86.99.169/bins/bins/chud.x86_64
 http://167.86.99.169/cat.sh
+http://167.86.99.169/iran.aarch64
 http://167.86.99.169/iran.arc
 http://167.86.99.169/iran.armv4l
 http://167.86.99.169/iran.armv5l
@@ -5410,13 +5417,25 @@ http://179.108.89.220:55094/bin.sh
 http://179.108.89.220:55094/i
 http://179.49.213.85:54579/bin.sh
 http://18.175.166.211:60101/linux
+http://18.236.12.51/bins/chud.arc
+http://18.236.12.51/bins/chud.arm
+http://18.236.12.51/bins/chud.arm5
+http://18.236.12.51/bins/chud.arm6
+http://18.236.12.51/bins/chud.arm7
+http://18.236.12.51/bins/chud.m68k
 http://18.236.12.51/bins/chud.mips
+http://18.236.12.51/bins/chud.mpsl
+http://18.236.12.51/bins/chud.ppc
+http://18.236.12.51/bins/chud.sh4
 http://18.236.12.51/bins/chud.x86
+http://18.236.12.51/bins/chud.x86_64
 http://180.103.139.79:3588/i
 http://180.107.162.176:3588/bin.sh
 http://180.107.162.176:3588/i
 http://180.114.248.166:45399/bin.sh
 http://180.115.73.17:55504/i
+http://180.115.85.248:45790/bin.sh
+http://180.115.85.248:45790/i
 http://180.120.7.20:44129/bin.sh
 http://180.120.7.20:44129/i
 http://180.125.200.33:44678/bin.sh
@@ -6112,6 +6131,7 @@ http://182.126.113.27:51140/i
 http://182.126.117.59:58546/bin.sh
 http://182.126.117.59:58546/i
 http://182.126.119.15:49602/i
+http://182.126.119.188:36580/bin.sh
 http://182.126.119.188:36580/i
 http://182.126.120.131:56874/i
 http://182.126.121.209:60111/bin.sh
@@ -7487,6 +7507,7 @@ http://219.157.243.71:34099/bin.sh
 http://219.157.243.71:34099/i
 http://219.157.244.162:41098/bin.sh
 http://219.157.244.162:41098/i
+http://219.157.246.145:56603/bin.sh
 http://219.157.246.145:56603/i
 http://219.157.249.115:35796/i
 http://219.157.249.227:40515/i
@@ -7704,6 +7725,7 @@ http://221.203.121.25:35093/bin.sh
 http://221.203.232.209:44311/i
 http://221.203.87.97:58713/i
 http://221.205.0.233:37221/bin.sh
+http://221.205.0.233:37221/i
 http://221.205.10.123:45052/bin.sh
 http://221.205.10.123:45052/i
 http://221.207.225.97:36850/bin.sh
@@ -7764,6 +7786,8 @@ http://222.137.158.38:53457/bin.sh
 http://222.137.158.38:53457/i
 http://222.137.159.214:44514/bin.sh
 http://222.137.159.214:44514/i
+http://222.137.172.144:33777/bin.sh
+http://222.137.172.144:33777/i
 http://222.137.175.111:33777/bin.sh
 http://222.137.175.111:33777/i
 http://222.137.175.14:46692/bin.sh
@@ -7863,6 +7887,8 @@ http://222.139.73.191:33865/i
 http://222.139.76.96:46885/bin.sh
 http://222.139.76.96:46885/i
 http://222.139.83.141:42413/i
+http://222.140.156.149:50285/bin.sh
+http://222.140.156.149:50285/i
 http://222.140.159.233:46480/bin.sh
 http://222.140.160.44:57722/i
 http://222.140.161.119:46353/i
@@ -8193,6 +8219,7 @@ http://27.215.208.135:40785/i
 http://27.215.210.107:35406/bin.sh
 http://27.215.210.107:35406/i
 http://27.215.210.140:47517/bin.sh
+http://27.215.210.140:47517/i
 http://27.215.212.219:39234/bin.sh
 http://27.215.212.219:39234/i
 http://27.215.214.103:45500/i
@@ -8215,6 +8242,7 @@ http://27.215.79.79:43074/i
 http://27.215.82.112:48678/i
 http://27.215.84.16:59065/bin.sh
 http://27.215.84.16:59065/i
+http://27.215.85.41:50026/i
 http://27.216.121.201:46371/i
 http://27.217.139.36:39257/bin.sh
 http://27.217.139.36:39257/i
@@ -11145,6 +11173,7 @@ http://58.252.113.28:52617/bin.sh
 http://58.252.113.28:52617/i
 http://58.255.40.244:42822/bin.sh
 http://58.42.185.198:58203/i
+http://58.47.120.247:39556/i
 http://58.47.19.12:40509/bin.sh
 http://58.47.19.12:40509/i
 http://58.51.204.238:50663/bin.sh
@@ -11202,6 +11231,7 @@ http://59.96.138.90:37638/bin.sh
 http://59.96.138.90:37638/i
 http://59.96.139.213:39951/bin.sh
 http://59.96.139.213:39951/i
+http://59.96.140.140:55161/bin.sh
 http://59.96.140.152:59339/bin.sh
 http://59.96.142.124:33142/bin.sh
 http://59.96.142.198:43829/bin.sh
@@ -11220,6 +11250,8 @@ http://59.97.251.121:39714/bin.sh
 http://59.97.251.206:57600/bin.sh
 http://59.97.252.133:36493/bin.sh
 http://59.97.252.133:36493/i
+http://59.97.252.25:32934/bin.sh
+http://59.97.252.25:32934/i
 http://59.97.252.34:44324/i
 http://59.97.254.10:40659/bin.sh
 http://59.97.254.10:40659/i
@@ -11285,6 +11317,7 @@ http://60.22.193.90:43235/i
 http://60.22.195.207:60411/bin.sh
 http://60.22.195.207:60411/i
 http://60.23.123.119:52447/bin.sh
+http://60.23.123.119:52447/i
 http://60.23.192.190:48972/i
 http://60.23.192.74:54261/bin.sh
 http://60.23.192.74:54261/i
@@ -11951,6 +11984,7 @@ http://88.112.33.200:46152/bin.sh
 http://88.112.33.200:46152/i
 http://88.112.33.200:57942/i
 http://88.232.49.106:60233/bin.sh
+http://88.232.49.106:60233/i
 http://88.246.126.62:55308/bin.sh
 http://88.246.126.62:55308/i
 http://88.249.100.137:47954/i
@@ -14993,6 +15027,8 @@ http://www.69cnc.duckdns.org/bins/putita.sh4
 http://www.69cnc.duckdns.org/bins/putita.x86
 http://www.69cnc.duckdns.org/bins/putita.x86_64
 http://www.69cnc.duckdns.org/bins/wget.sh
+http://www.artleadsdigital.com/logs.bat
+http://www.artleadsdigital.com/logs.py
 http://www.aussieearners.com/payway/bob.html
 http://www.bathflowbathrooms.co.uk/newreadyverify/preload-centered-obfuscated.html
 http://www.bc8.vercel.app/
@@ -15354,6 +15390,17 @@ https://aidlifempowerment.com/r/irstranscripviewer/ScreenConnect.ClientSetup.msi
 https://airtickts.com/
 https://ajustedecondicoes.s3.us-east-005.backblazeb2.com/aumento.html
 https://ajustedevantagens.s3.us-east-005.backblazeb2.com/aumento.html
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/21crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/E32crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/K15crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/KMcrypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/OKcrypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/a1crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/a2crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/kk1crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/kk2crypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/mycrypted.ps1
+https://alahlam.sa/wp-includes/sitemaps/uscnvym/c1vhrea/p1mujne/u9crypted.ps1
 https://albertasportshall.vercel.app/
 https://alkh.jbgroup21.com/80a4abc2-c21b-42d8-af11-549f031c561b
 https://allendaltonproduction.com/quas/Client-built.exe
@@ -15455,6 +15502,7 @@ https://awarenessexhibition.com/img_092444.png
 https://axoo.colg1.org/63b36ad3-1c67-4418-ad17-e73c334f5600
 https://babydiapersinturkey.com/l.dat
 https://babydiapersinturkey.com/s.dat
+https://baileyemas.com/vlc.zip
 https://bapak178.org/efd.dat
 https://bapak178.org/gwb.dat
 https://bc8.vercel.app/
@@ -15466,6 +15514,8 @@ https://bhrbc90m.fredcoplumbingpros.com/
 https://biirwl32.patxisdublin.com/
 https://biltonuglimited2.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi
 https://bjastqph.chrisbrownallegiantstadium.com/
+https://bmpincorporated.com/dubl2/dubl22allremriki/Ldrdubl2132.exe
+https://bmpincorporated.com/dubl2/dubl22allremriki/fls/ato15.zip
 https://bopyq.myhillcountrygrass.com/1462137f-a0a1-4149-a3d0-b3fb22145353
 https://brandtinoda.com/wp-content/uploads/2026/ovdbot.exe
 https://breakneckridgefarm.com/p.dat
@@ -15524,6 +15574,7 @@ https://console.1inch-dex.net/
 https://console.mooniswap.net/
 https://cosmeticapampa.com.ar/ptk.exe
 https://cqylt.net/
+https://crazypianoswebshop.nl/vFRywuNACNkFcQY.exe
 https://cripter.xo.je/img_070139.png
 https://crm.empire-dex.com/
 https://crm.metadao-dex.com/
@@ -16684,6 +16735,8 @@ https://sumiko.vu/saraka/agent%20hype.bin
 https://sumiko.vu/soldierman/64-Bit-remcos_a.bin
 https://sunix-technology.com/admin/newMSI_PRO.png
 https://sunix-technology.com/admin/niceimg_122852.png
+https://sunix-technology.com/images/MSI_PRO.png
+https://sunix-technology.com/images/litxwnimg_082224.png
 https://suppliers.lovestoblog.com/img_005219.png
 https://sutf.kafekarachi.com/9f2d1350-68ae-425a-8161-cb99132f828d
 https://svo-poiskrat.vercel.app/
@@ -16713,7 +16766,9 @@ https://sysupdate.online/tools/grab.cmd
 https://t13ecldw.calculadoracomisiones.com/
 https://tangentwaves.com/moll.psm
 https://tarkioweb.com/crypted.exe
+https://tattinamecheap.com/QuickFetch.exe
 https://tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com/20260729213603.zip
+https://teakivo.com//wp-content/bin.exe
 https://telvora-gld-zarquni-r6t4hp33.pages.dev/
 https://temp.sh/qvMei/server
 https://tenis-team-km.com/tenis-team-km.zip
@@ -16802,6 +16857,7 @@ https://wbpypinui.generososbakerycafe.com/665f2c2b-4ee7-4dcf-8ac8-7a3999e87fe9
 https://wctvn.mrslopezsings.org/f4f2e98a-a4e4-4522-8a2d-2c9380c26d70
 https://wealthishealth.free.je/img_234525.png
 https://whatsappzoeiras.blogspot.com/
+https://winds11.site/Setup.rar
 https://without.kesug.com/img_051425.png
 https://wjdo-u2dx-kfh0.workspace-trello-document-proton-me-s-account.workers.dev/
 https://wnq8bmsb.derbi.promo/
@@ -16814,6 +16870,7 @@ https://www.6qikbbva367hs939.carbon-defi.com/
 https://www.ac-translate.uy/com
 https://www.accounts.tensor-trade.net/
 https://www.acount-meseger-2026.site/453156527984
+https://www.artleadsdigital.com/payloadencrypted.bin
 https://www.bbva.carbon-defi.com/
 https://www.dashboard.empire-dex.com/
 https://www.downloadpirate.com/moho-pro-14-win-x64-full-version-free-download/
