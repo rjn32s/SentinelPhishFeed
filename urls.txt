@@ -1222,6 +1222,7 @@ http://113.236.100.208:54189/i
 http://113.236.101.64:54189/bin.sh
 http://113.236.101.64:54189/i
 http://113.236.118.216:50033/bin.sh
+http://113.236.118.216:50033/i
 http://113.236.135.234:57543/bin.sh
 http://113.236.135.234:57543/i
 http://113.236.157.223:50944/i
@@ -1523,6 +1524,8 @@ http://115.50.229.76:46799/i
 http://115.50.24.219:46717/i
 http://115.50.25.91:52025/bin.sh
 http://115.50.25.91:52025/i
+http://115.50.254.53:38226/bin.sh
+http://115.50.254.53:38226/i
 http://115.50.26.7:56593/i
 http://115.50.27.109:48587/bin.sh
 http://115.50.27.109:48587/i
@@ -1995,6 +1998,7 @@ http://115.61.41.247:51273/i
 http://115.61.46.86:54016/i
 http://115.61.58.110:43443/bin.sh
 http://115.61.58.110:43443/i
+http://115.62.135.216:60668/bin.sh
 http://115.62.135.216:60668/i
 http://115.62.148.107:57509/bin.sh
 http://115.62.148.107:57509/i
@@ -2104,6 +2108,8 @@ http://116.140.186.83:34139/i
 http://116.149.19.3:33747/bin.sh
 http://116.162.55.77:10000/
 http://116.169.248.98:42731/i
+http://116.2.50.30:54263/bin.sh
+http://116.2.50.30:54263/i
 http://116.2.53.55:45559/bin.sh
 http://116.2.53.55:45559/i
 http://116.2.60.14:35984/bin.sh
@@ -4015,6 +4021,8 @@ http://139.159.233.200/pty3
 http://139.159.233.200/pty4
 http://14.0.131.161:51651/i
 http://14.0.131.161:53823/i
+http://14.107.121.45:50511/bin.sh
+http://14.107.121.45:50511/i
 http://14.117.44.146:42000/i
 http://14.177.88.148:46180/i
 http://14.188.143.100:53340/i
@@ -4437,6 +4445,8 @@ http://162.255.251.91:50087/bin.sh
 http://162.255.251.91:50087/i
 http://162.255.251.91:56761/bin.sh
 http://162.255.251.91:56761/i
+http://162.255.251.91:57427/bin.sh
+http://162.255.251.91:57427/i
 http://163.142.77.145:55241/bin.sh
 http://163.142.77.145:55241/i
 http://163.142.85.113:43969/bin.sh
@@ -4457,6 +4467,7 @@ http://163.142.93.187:38525/i
 http://163.142.93.187:39139/bin.sh
 http://163.142.93.187:39139/i
 http://163.142.93.247:42822/i
+http://163.142.93.81:51284/i
 http://163.142.94.15:56422/i
 http://163.142.94.183:60512/bin.sh
 http://163.142.94.232:42822/i
@@ -5354,6 +5365,8 @@ http://178.16.53.176/DV/ojkcrypted.ps1
 http://178.16.53.176/DV/ojscrypted.ps1
 http://178.16.53.176/DV/oojcrypted.ps1
 http://178.16.53.176/DV/pwcrypted.ps1
+http://178.16.53.176/DVB/eecrypted.ps1
+http://178.16.53.176/DVB/ugcrypted.ps1
 http://178.16.53.176/HTTP/2kcrypted.ps1
 http://178.16.53.176/HTTP/K1crypted.ps1
 http://178.16.53.176/HTTP/KDcrypted.ps1
@@ -5582,6 +5595,7 @@ http://182.112.34.219:49245/i
 http://182.112.39.204:49245/bin.sh
 http://182.112.39.204:49245/i
 http://182.112.89.53:48165/bin.sh
+http://182.112.89.53:48165/i
 http://182.112.97.110:44347/bin.sh
 http://182.112.97.110:44347/i
 http://182.113.193.242:56108/bin.sh
@@ -6319,6 +6333,7 @@ http://182.129.144.190:59343/bin.sh
 http://182.129.144.190:59343/i
 http://182.129.144.219:54088/i
 http://182.129.144.52:57834/bin.sh
+http://182.130.209.58:35031/i
 http://182.176.116.4:33388/i
 http://182.240.11.199:57352/bin.sh
 http://182.240.11.199:57352/i
@@ -7819,6 +7834,8 @@ http://222.136.124.161:46959/bin.sh
 http://222.136.124.161:46959/i
 http://222.136.169.228:49263/bin.sh
 http://222.136.169.228:49263/i
+http://222.137.105.216:51325/bin.sh
+http://222.137.105.216:51325/i
 http://222.137.105.253:46499/bin.sh
 http://222.137.105.253:46499/i
 http://222.137.107.54:52378/bin.sh
@@ -9164,6 +9181,8 @@ http://42.225.220.81:55027/i
 http://42.225.228.107:44103/bin.sh
 http://42.225.228.107:44103/i
 http://42.225.231.237:58779/bin.sh
+http://42.225.241.153:52809/bin.sh
+http://42.225.241.153:52809/i
 http://42.225.56.37:44489/bin.sh
 http://42.225.56.37:44489/i
 http://42.225.60.179:39180/i
@@ -9772,6 +9791,7 @@ http://42.7.137.238:54163/bin.sh
 http://42.7.137.238:54163/i
 http://42.7.146.107:39916/bin.sh
 http://42.7.146.107:39916/i
+http://42.7.217.91:35797/bin.sh
 http://42.7.240.14:46174/bin.sh
 http://42.7.240.14:46174/i
 http://42.85.134.175:46174/bin.sh
@@ -16167,6 +16187,7 @@ https://foivs.highkickstkd.com/b587247e-b619-4a2c-82fb-0ff450dbae2f
 https://free.tiurl.top/setup.sh
 https://frtkvnpa.xyz/crypted.ps1
 https://funneldiy.com/Installer_c2cea6.msi
+https://gaiadeqi.com/clc.zip
 https://gaiadeqi.com/vlc1.zip
 https://gbgl.kafekarachi.com/c40723f4-afe3-4387-a5f0-30ad263a13f0
 https://geo.estimator-undermostshelving.in.net/jquery.min.js
@@ -16417,6 +16438,7 @@ https://kemaxglobalshippings.com/Psl.zip
 https://kgbhost.digital/kingboss/uploads/bin.exe
 https://kiabillc.online/dndjonse/jqqc3S9hjjnxxzKjqmTMtgt9S4mMqMoKGsHEjw2jjce4gv.js
 https://kishan5757.github.io/Netflix-Clone/
+https://kits.frog.tw/Images/stego_jxdqj7fw9j.png
 https://komitoufik-creator.github.io/LOGIN
 https://konterlink.hippamsas.com/assets/js/extensions/Komodo.exe
 https://kryptonclientliista.lovable.app/__l5e/assets-v1/a2ff2b05-f09a-413d-96b1-14a028790953/KryptonPlus-LIISTA.jar
