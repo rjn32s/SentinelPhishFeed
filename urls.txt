@@ -1025,6 +1025,7 @@ http://112.229.203.112:37340/i
 http://112.231.204.207:49619/i
 http://112.231.63.224:50509/bin.sh
 http://112.231.63.224:50509/i
+http://112.232.226.68:57370/bin.sh
 http://112.232.226.68:57370/i
 http://112.232.60.36:44141/i
 http://112.233.255.77:33563/bin.sh
@@ -1186,6 +1187,7 @@ http://113.228.208.46:56903/i
 http://113.228.209.236:56903/bin.sh
 http://113.228.209.236:56903/i
 http://113.228.216.110:54566/bin.sh
+http://113.229.190.135:33907/i
 http://113.229.46.13:57947/i
 http://113.230.101.41:32836/bin.sh
 http://113.230.101.41:32836/i
@@ -1729,6 +1731,7 @@ http://115.55.234.84:44404/bin.sh
 http://115.55.234.84:44404/i
 http://115.55.236.112:38216/bin.sh
 http://115.55.236.112:38216/i
+http://115.55.236.213:53264/bin.sh
 http://115.55.236.232:44430/i
 http://115.55.239.136:53259/bin.sh
 http://115.55.239.136:53259/i
@@ -2227,6 +2230,8 @@ http://119.117.157.236:43300/i
 http://119.117.160.26:43300/i
 http://119.117.54.119:47695/bin.sh
 http://119.117.54.119:47695/i
+http://119.117.76.11:59095/bin.sh
+http://119.117.76.11:59095/i
 http://119.118.245.179:48407/bin.sh
 http://119.118.245.179:48407/i
 http://119.118.72.174:60669/bin.sh
@@ -2363,6 +2368,7 @@ http://120.46.15.254/pty4
 http://120.53.120.28:6923/linux
 http://120.57.116.136:44369/i
 http://120.71.0.131:9935/linux
+http://120.77.1.20:6021/linux
 http://120.77.237.174:7494/linux
 http://120.77.79.42:9290/linux
 http://120.82.201.135:45647/bin.sh
@@ -2374,6 +2380,7 @@ http://120.84.212.143:48371/i
 http://120.84.212.190:40164/bin.sh
 http://120.84.212.190:40164/i
 http://120.84.212.190:43969/i
+http://120.84.212.210:44835/i
 http://120.84.212.61:48371/i
 http://120.84.213.18:32896/bin.sh
 http://120.84.213.195:39888/i
@@ -2984,6 +2991,8 @@ http://123.9.220.15:51815/bin.sh
 http://123.9.220.15:51815/i
 http://123.9.23.173:39002/bin.sh
 http://123.9.23.173:39002/i
+http://123.9.240.151:46316/bin.sh
+http://123.9.240.151:46316/i
 http://123.9.241.164:43002/bin.sh
 http://123.9.241.164:43002/i
 http://123.9.244.135:59466/bin.sh
@@ -5905,6 +5914,7 @@ http://182.119.57.28:48123/bin.sh
 http://182.119.57.28:48123/i
 http://182.119.58.252:48725/bin.sh
 http://182.119.58.252:48725/i
+http://182.119.6.45:53526/i
 http://182.119.60.180:48123/bin.sh
 http://182.119.60.180:48123/i
 http://182.119.61.110:45610/bin.sh
@@ -5967,6 +5977,7 @@ http://182.121.15.2:55953/bin.sh
 http://182.121.15.2:55953/i
 http://182.121.152.244:42680/i
 http://182.121.153.131:40429/i
+http://182.121.153.246:33661/i
 http://182.121.153.255:45204/bin.sh
 http://182.121.153.255:45204/i
 http://182.121.154.139:48630/bin.sh
@@ -6319,6 +6330,7 @@ http://183.23.129.109:35951/bin.sh
 http://183.23.129.109:35951/i
 http://183.23.130.74:53767/bin.sh
 http://183.23.132.41:35951/bin.sh
+http://183.23.132.41:35951/i
 http://183.23.133.4:35951/bin.sh
 http://183.23.139.207:35951/Mozi.a
 http://183.23.139.207:35951/bin.sh
@@ -6531,7 +6543,11 @@ http://192.255.195.158/133/onaidka.txt
 http://192.255.195.158/133/winthematchwithbestfeelingformebest.hta
 http://192.255.195.158/img/1.jpg
 http://192.3.136.217/FcoMgihU44.bin
+http://193.104.58.65/RUMPYU14TH.png
+http://193.104.58.65/img_gas.png
 http://193.104.58.65/rumpaugust.png
+http://193.104.58.65/rumpyu13th.png
+http://193.104.58.65/rumpyu18.png
 http://193.104.58.65/yurumpmonday.png
 http://193.104.58.65/yuxwormaugust.png
 http://193.111.117.6/stc-pg-cr.exe
@@ -7435,6 +7451,7 @@ http://219.155.231.79:38940/i
 http://219.155.232.225:47229/i
 http://219.155.236.173:58333/i
 http://219.155.238.174:40313/i
+http://219.155.61.0:41221/bin.sh
 http://219.155.73.196:42693/bin.sh
 http://219.155.73.196:42693/i
 http://219.155.82.113:33700/bin.sh
@@ -8072,8 +8089,10 @@ http://23.251.34.31/p-p.c-.Sakura
 http://23.251.34.31/s-h.4-.Sakura
 http://23.251.34.31/x-3.2-.Sakura
 http://23.251.34.31/x-8.6-.Sakura
+http://23.94.145.229/api/v1/ps1/bf57fba60c91af3c5b2a12a00824e554/payload
 http://23.94.148.3/70/img_222651.png
 http://23.94.148.3/70/weareinthebestplaceforbetterfuturecomingforme.hta
+http://23.95.103.215/crypt/crypted.ps1
 http://24.199.124.218/pty10
 http://24.199.124.218/pty3
 http://24.199.124.218/pty4
@@ -11223,6 +11242,8 @@ http://58.252.113.28:52617/i
 http://58.255.40.244:42822/bin.sh
 http://58.255.41.239:39378/bin.sh
 http://58.255.41.239:39378/i
+http://58.47.104.43:52617/bin.sh
+http://58.47.104.43:52617/i
 http://58.47.120.247:39556/i
 http://58.47.19.12:40509/bin.sh
 http://58.47.19.12:40509/i
@@ -11303,6 +11324,7 @@ http://59.97.252.133:36493/i
 http://59.97.252.25:32934/bin.sh
 http://59.97.252.25:32934/i
 http://59.97.252.34:44324/i
+http://59.97.253.208:46690/bin.sh
 http://59.97.254.10:40659/bin.sh
 http://59.97.254.10:40659/i
 http://59.97.254.151:40167/bin.sh
@@ -11341,6 +11363,7 @@ http://60.18.9.255:60894/bin.sh
 http://60.18.9.255:60894/i
 http://60.18.96.224:35125/bin.sh
 http://60.18.96.224:35125/i
+http://60.184.140.145:34890/bin.sh
 http://60.184.149.85:39731/bin.sh
 http://60.184.149.85:39731/i
 http://60.184.163.17:41849/bin.sh
@@ -11555,6 +11578,7 @@ http://61.53.216.33:38955/i
 http://61.53.218.29:55917/i
 http://61.53.219.139:36865/bin.sh
 http://61.53.219.139:36865/i
+http://61.53.220.201:34645/i
 http://61.53.220.232:55420/bin.sh
 http://61.53.220.232:55420/i
 http://61.53.237.126:41063/bin.sh
@@ -11586,6 +11610,7 @@ http://61.53.92.34:34684/i
 http://61.53.94.172:55649/bin.sh
 http://61.53.94.172:55649/i
 http://61.53.94.200:46286/bin.sh
+http://61.53.95.17:59123/i
 http://61.53.98.213:33122/bin.sh
 http://61.53.98.213:33122/i
 http://61.53.99.227:39335/bin.sh
@@ -12046,6 +12071,7 @@ http://85.137.245.141:9001/1.exe
 http://85.137.245.141:9001/2.exe
 http://85.141.98.244:58095/bin.sh
 http://85.15.80.74:41166/i
+http://85.203.4.64/client.exe
 http://86.98.154.146:19091/i
 http://87.120.104.147/d/build_x64
 http://87.120.104.147:8080/d/installer-4
@@ -15614,6 +15640,7 @@ https://breakneckridgefarm.com/payload.dat
 https://broadwalkindia.com/1.exe
 https://bs-deliver-e817.61d8f0e6ac62c139abd08ba5.workers.dev/b/bd570760274eb2b44d484b0a6ec56d82
 https://bs-deliver-e817.61d8f0e6ac62c139abd08ba5.workers.dev/d/inner/691cbe2e-d6bb-484d-8259-5c101c3909c0
+https://bucketforada.s3.ap-south-1.amazonaws.com/e3d7348c34787506/AdobeAcrobat.iso
 https://bulletis-hmhgasgdchdshkb7.z03.azurefd.net/dino/
 https://business-badge-help-page-34251434.pages.dev/privacy-centers
 https://bybit-promo-code.vercel.app/
@@ -15996,6 +16023,7 @@ https://ec21_com_global-npbmc2jh-incosanna5.ipfs.4everland.app/login.html/
 https://edisonmanotas.free.nf/img_083253.png
 https://edisonmanotas.free.nf/img_095914.png
 https://effectively32.infinityfree.me/img_072806.png
+https://elxxvvx.xyz/i
 https://emiratspost.aeirvr.top/ae/b_info.html
 https://essizs.com/img_170232.png
 https://ewmc.jenslittlerugrats.org/186a909f-6d0c-4629-8114-c1893b96ba93
@@ -16321,6 +16349,7 @@ https://lion44.net/wp-includes/theme-compat/gvewiny/wnfgzub/pzowjyv/MSId_PRO.png
 https://lion44.net/wp-includes/theme-compat/gvewiny/wnfgzub/pzowjyv/img_152245.png
 https://login452.github.io/instagramlogin
 https://lomeqpe.com/Update_bde3c4.msi
+https://long-wildflower-b4f5.gustavosoftware.workers.dev/
 https://long-wildflower-b4f5.gustavosoftware.workers.dev/LHWEk
 https://long-wildflower-b4f5.gustavosoftware.workers.dev/NeOky
 https://long-wildflower-b4f5.gustavosoftware.workers.dev/aGdrz
@@ -16418,6 +16447,7 @@ https://muddy-sound-e0cd.nodetectonn.workers.dev/pufcw
 https://muddy-sound-e0cd.nodetectonn.workers.dev/xBEiV
 https://muhammadshehzad9725-byte.github.io/insta-login-
 https://mukabar.co.mz/css/images/stego_oo8nser2q2.png
+https://multisavcx.xyz/ncx
 https://munihuacho.gob.pe/vehiculos/MSI_PRO.png
 https://munihuacho.gob.pe/vehiculos/img_065018.png
 https://mustafashaik08.github.io/Amazon-project/
@@ -16439,6 +16469,7 @@ https://nf.boletos-notas.com/files/nf.boletos-notas.com/fcd598f9c282fd5b/NF-e_-E
 https://nfe.boletos-notas.com/files/nfe.boletos-notas.com/fcd598f9c282fd5b/Nota_-SZESAW.zip
 https://nfeletronica.sevendocumentos.vip/fjp/zvjspngr.bat
 https://ngobaka-dave64636.vercel.app/
+https://nieuw.technoberg.nl//wp-content/bin44.exe
 https://njj.standard.us-east-1.oortstorages.com/fitsal.php
 https://nmhjnu.shop/Common_Offline_Utility_ITR-1_to_4_AY2026-07-27.vhdx
 https://norzora-gld-belqumi-r6t2fq37.pages.dev/
@@ -16485,6 +16516,7 @@ https://pastefy.app/5KBTIGfN/raw)/
 https://pastefy.app/7ft24YRx/raw
 https://pastefy.app/7ft24YRx/raw)
 https://pastefy.app/7ft24YRx/raw)/
+https://paularavanelli.com.br/7rfuc/f98f/Finanzam-agreement.html
 https://paymentautomations.biz/hAyaALSi/AahhFdf.txt
 https://paypal3.vercel.app/
 https://pdf-bro.lat/
@@ -16572,6 +16604,7 @@ https://pub-1c4ef2a315ec4b89b9dfad9472afee69.r2.dev/zuyoking.png
 https://pub-1f5a501a59d74a6a97e77126cf1fc526.r2.dev/ohijfalqvzldlhaqw.exe
 https://pub-272fd20f9e3d49d5864e441b0c7a4fb8.r2.dev/L2-17-1-WRK-JSDH.msi
 https://pub-3485d58cdced4843b5ee0f8b3be655c2.r2.dev/McPherson_Rocamora_Nicholson_and_Hinkle_PLLC.zip
+https://pub-378362a70f714a30b26c109732cabca4.r2.dev/img_171507.png
 https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/hjada.png
 https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/hkk.png
 https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/hrr.png
@@ -16602,6 +16635,7 @@ https://pub-991af6d525914bda8f213aaa6c77e161.r2.dev/SC-2-RM-KJDS17-P.exe
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/202.png
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/770779.png
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/A2.png
+https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/apiti.png
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/img_164159.png
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/pin.png
 https://pub-a6ae2d4aa393400aa29f7b02ac7ab213.r2.dev/OCUDLOMO.msi
@@ -16621,6 +16655,7 @@ https://pub-f225fc4c925f4cad963c543c3378b1ae.r2.dev/Bembemi.exe
 https://purbalinggamandiri.com/144.exe
 https://purbalinggamandiri.com/3.exe
 https://pusat-shopee885.blogspot.com/
+https://python3.en-us--balancing.co/jquery.min.js
 https://pzc.za.com/php/marleee.exe
 https://pzc.za.com/php/server64.exe
 https://qbmuv.loganlooneyresume.com/becf487a-8807-4073-8b1e-228ae74750cb
@@ -16704,6 +16739,7 @@ https://rcf.co.mz/Volcano9.exe
 https://rcf.co.mz/google.exe
 https://reavaliacaodeperfil.s3.us-east-005.backblazeb2.com/aumento.html
 https://release-assets.githubusercontent.com/github-production-release-asset/88327406/ecfabc02-9e68-4cec-a6d1-a0e7773d900e
+https://res.cloudinary.com/c8tdweya/image/upload/v1787186570/img_204142.jpg
 https://res.cloudinary.com/dun0uclxi/image/upload/v1785205268/img_191949_mvcfdt.jpg
 https://res.cloudinary.com/lhut8kxv/image/upload/v1784598632/img_184926_y2v0fe.jpg
 https://res.cloudinary.com/lhut8kxv/image/upload/v1784686086/img_190733_usxsxv.jpg
@@ -16712,6 +16748,10 @@ https://res.cloudinary.com/oytyusbd/image/upload/v1786325859/img_213650.jpg
 https://res.cloudinary.com/oytyusbd/image/upload/v1786407066/img_201045.jpg
 https://res.cloudinary.com/oytyusbd/image/upload/v1786408317/img_203143.jpg
 https://res.cloudinary.com/rgvdjkao/image/upload/v1784793516/img_005516_pfiaw8.jpg
+https://res.cloudinary.com/shsw2tu4/image/upload/v1787096999/img_194944.jpg
+https://res.cloudinary.com/shsw2tu4/image/upload/v1787185571/img_202554.jpg
+https://res.cloudinary.com/shsw2tu4/image/upload/v1787199350/img_001530.jpg
+https://res.cloudinary.com/shsw2tu4/image/upload/v1787199607/img_001951.jpg
 https://res.cloudinary.com/t3swaz48/image/upload/v1785980074/img_213402_mk57ex.jpg
 https://res.cloudinary.com/t3swaz48/image/upload/v1785980358/img_213859_yxgjcm.jpg
 https://res.cloudinary.com/t3swaz48/image/upload/v1785999006/img_024854_mjepaa.jpg
@@ -16775,6 +16815,8 @@ https://signageinsignia.co.za/kizzy/1.jpg
 https://simplejack.lovestoblog.com/img_231339.png
 https://sistemasyusa.icu/admin/productimages/unkillbot_x86_64
 https://situs-undian22.blogspot.com/
+https://sivrex.click/obi/Obi-64Bit-remcos_a.bin
+https://sixmexicos.com/20/stego_cm94aawwlf.png
 https://smmnet.store/Setup.rar
 https://smsechodata.cc/run.bat
 https://softwarecdn.net/downloads/JCP_ENTREPRISE_da933e3a.exe
@@ -16815,6 +16857,7 @@ https://sunix-technology.com/admin/newMSI_PRO.png
 https://sunix-technology.com/admin/niceimg_122852.png
 https://sunix-technology.com/images/MSI_PRO.png
 https://sunix-technology.com/images/litxwnimg_082224.png
+https://sunix-technology.com/images/niceorgimg_082205.png
 https://suppliers.lovestoblog.com/img_005219.png
 https://support-ledger-help-desk-login-nano-navy.vercel.app/
 https://svo-poiskrat.vercel.app/
